@@ -52,6 +52,9 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] The next step offers a choice of format (a short call or a brief note) when the recipient is busy
 - [ ] The subject does not announce that it is a sales email or a follow-up
 - [ ] A "trusted by [clients]" claim in a subject is true and permitted
+- [ ] Personal hooks are professional and public: no fandom, hobbies or private details pulled from personal social accounts
+- [ ] No stacked unverifiable statistics (for example "98% of our placements hit quota") or audience-size claims
+- [ ] If you mention AI sourcing or automation, say so honestly and add the human judgment
 - [ ] No attachments on the first touch
 - [ ] No feature lists or pricing details in a first cold email
 - [ ] Plain, conversational words. No jargon or hype words ("game changer", "revolutionary")

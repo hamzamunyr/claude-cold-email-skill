@@ -470,3 +470,30 @@ Would it help if I sent a short note with the idea, or would a 15 minute call be
 [Your name]
 
 **Why it works:** the growth signal is real, the problem feels common instead of personal, the proof is modest and true, and the next step lets them choose the lighter option.
+
+---
+
+## Example 18: Recruiter for a UX research role
+
+**Prospect:** A UX researcher with a public case study
+**Psychology:** specificity (their real project), lighter ask (a short exercise instead of an application), liking through a specific compliment, honesty
+**Pattern from:** SmartReach (#017), skills-first recruiting outreach
+
+**Subject options**
+1. your [project] research write-up
+2. a 15 minute exercise instead of an application
+3. [Role] at [Company]: skip the usual process
+
+**Email**
+
+Hi [First name],
+
+I read your case study on [specific project] and liked how you handled [specific challenge].
+
+We're hiring a UX researcher at [Company]. Instead of a long application, we use a 15 minute exercise that mirrors the real work: [link]. No whiteboard tests.
+
+Prefer a short chat first? Just say so.
+
+[Your name]
+
+**Why it works:** the compliment is specific and true, the exercise replaces effort-heavy steps, and there is an easy alternative if they would rather talk.

@@ -84,7 +84,7 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] The email stays deliverable: plain formatting, at most one link, no hype or spam words, and your sending domain is authenticated (SPF, DKIM, DMARC)
 - [ ] A first email that asks nothing still gives one concrete reason or question, or it will get no reply
 - [ ] Never imply a connection ("your name came up") that you cannot name and back up
-- [ ] Cold outreach goes out from a separate, warmed sending domain so your main domain's reputation stays safe
+- [ ] Cold outreach goes out from a separate, warmed sending domain or subdomain you own and that is plainly tied to your business, with no fake engagement or look-alike tricks (see practices.md)
 - [ ] Do not guess at a loss or failure the prospect has not told you about (for example a stalled sale), and do not tell them how it must feel
 - [ ] A follow-up does not say you "didn't hear back" or announce that you are following up; it adds something or asks one fresh question
 - [ ] The greeting uses their real name, not "Hey there" or "Hi there"
@@ -94,5 +94,11 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] A P.S. adds one real link, number or specific compliment, or it is left out
 - [ ] No invented figure about the prospect: any number or "per your earnings call" style source is real, public and accurate
 - [ ] Any "industry average" comparison has a real source and is not used to shame the reader
+- [ ] The subject matches the body: no fake "Re:" or "Fwd:" and no pretend forwarded note from an executive
+- [ ] A follow-up adds a new angle or proof point and never repeats the first email word for word
+- [ ] The list is verified (projected bounce under 2%), has no role addresses, and excludes anyone on the do-not-contact list
+- [ ] An opt-out is easy ("tell me if this is not relevant" or an unsubscribe), and "not interested" or "stop" replies are honored the same day
+- [ ] Contacts are capped per company and non-responders are removed after the sequence ends
+- [ ] The email passes a read-aloud test and has no stacked hype words, capitals or exclamation marks
 - [ ] No em dashes
 - [ ] 2 to 3 subject line options provided, short and specific

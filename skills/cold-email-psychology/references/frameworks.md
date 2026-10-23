@@ -1,8 +1,8 @@
 # Email Frameworks
 
-Emails analyzed so far: 952 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 995 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
-## 1. Five-part first email | Count: 2 |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN | Source: Clay, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox
+## 1. Five-part first email | Count: 2 | Source: Clay
 
 Context > Problem and solution > Cost of inaction > Social proof > Light CTA
 
@@ -61,13 +61,13 @@ Their initiative > peer story > the insight written inline > "could this work fo
 
 - Best when you can fit a real insight in two sentences.
 
-## 11. Resource share | Count: 8 | Source: Salesloft, ZoomInfo, SmartWriter, Cognism, Warmupinbox, Truelist, Datalane
+## 11. Resource share | Count: 9 | Source: Salesloft, ZoomInfo, SmartWriter, Cognism, Warmupinbox, Truelist, Datalane, Salesbread
 
 Fresh resource and why you are sending it > how it connects to their pain > open offer of more help
 
 - No hard ask, so it works as a relationship starter. Put the insight in the email or a link, not an attachment. Add one small question to invite a reply.
 
-## 12. Case study first | Count: 11 | Source: Salesloft, ZoomInfo, Coursera, Cognism, Hunter, Salesforge
+## 12. Case study first | Count: 13 | Source: Salesloft, ZoomInfo, Coursera, Cognism, Hunter, Salesforge, Salesbread
 
 Customer result with a link > another win with the same customer > ask for a call with two named days
 
@@ -79,7 +79,7 @@ Normalize the problem ("many people in your role struggle with X") > article or 
 
 - Works best when the problem is specific, not generic.
 
-## 14. Collaboration | Count: 18 | Source: Salesloft, Coursera, SmartWriter, Warmupinbox, Hunter, Saleshandy, SmartReach
+## 14. Collaboration | Count: 24 | Source: Salesloft, Coursera, SmartWriter, Warmupinbox, Hunter, Saleshandy, SmartReach, Salesbread, DemandCurve
 
 Specific compliment about something they made > mutual contact > a couple of ideas > short call ask
 
@@ -121,7 +121,7 @@ Subject > Personalized opener > Problem > Observation or value > Call to action
 
 - The shared skeleton behind every Woodpecker template (69 of 75 use all five blocks). A good base to build from, but it makes emails look alike, so the opener and observation must be genuinely specific.
 
-## 21. Follow-up reminder | Count: 110 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox, Hunter, Saleshandy, SmartReach
+## 21. Follow-up reminder | Count: 114 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox, Hunter, Saleshandy, SmartReach, Salesbread
 
 One line referencing the earlier email > restate or add one reason > one ask
 
@@ -145,7 +145,7 @@ Pain observation > what it does to the reader > solution with nearby proof > off
 
 - The tiny sample offer is the useful part. Skip rumor-based openers unless verifiable.
 
-## 25. Social proof pitch | Count: 8 | Source: Woodpecker, HubSpot, Saleshandy, Truelist
+## 25. Social proof pitch | Count: 11 | Source: Woodpecker, HubSpot, Saleshandy, Truelist, Salesbread
 
 Industry or pain line > track record with named clients > "we can do the same for you" > ten minute ask
 
@@ -179,7 +179,7 @@ Who you are > what you noticed about them > a small coffee, chat or connect ask
 
 To candidates: profile or role trigger > why it fits > a few reasons > time ask. To employers: open role seen > proof and candidates on file > call ask.
 
-## 32. Right-person redirect | Count: 31 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism, Warmupinbox, HubSpot, Hunter, Saleshandy, SmartReach
+## 32. Right-person redirect | Count: 32 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism, Warmupinbox, HubSpot, Hunter, Saleshandy, SmartReach, DemandCurve
 
 Say you are trying to reach whoever handles [area] > ask if that is them or someone else > one line of context with proof > thank them for the pointer
 
@@ -189,7 +189,7 @@ Trigger event > the challenge companies in their position usually face > what yo
 
 - A three-sentence base. Needs a real trigger, or it reads as generic.
 
-## 34. Competitor mention | Count: 12 | Source: ZoomInfo, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot, Proposify, Saleshandy, SmartReach
+## 34. Competitor mention | Count: 14 | Source: ZoomInfo, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot, Proposify, Saleshandy, SmartReach, DemandCurve
 
 Observed tool they use today > why others switched > a similar company's result > interest check
 
@@ -211,7 +211,7 @@ What you published and the data behind it > three key findings in the email > wh
 
 Thanks for connecting > one detail from their profile or company > what you do plus a proof point > 15 minute ask
 
-## 38. Assume-not-a-priority breakup | Count: 20 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot, Hunter, Saleshandy, SmartReach, Datalane
+## 38. Assume-not-a-priority breakup | Count: 21 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot, Hunter, Saleshandy, SmartReach, Datalane, Salesbread
 
 Say you reached out a few times > assume it is not a priority and stop > invite a reply if that assumption is wrong
 
@@ -347,7 +347,7 @@ Sincere praise for a real recent achievement > picture what they could do with y
 
 - The praise must be real and specific. Do not pair it with an unrelated pitch.
 
-## 62. Website visitor follow-up | Count: 7 | Source: SmartWriter, Hunter
+## 62. Website visitor follow-up | Count: 8 | Source: SmartWriter, Hunter, Salesbread
 
 Acknowledge what they did on your site > recommend related resources > mention one relevant offer > ask for a short call with two time options
 
@@ -359,7 +359,7 @@ Challenge the way they do something today > say what you do for people in their 
 
 - Share something they may not know about. Avoid implying their current approach is wrong without a reason.
 
-## 64. Introduction request | Count: 3 | Source: SmartWriter, Warmupinbox
+## 64. Introduction request | Count: 4 | Source: SmartWriter, Warmupinbox, DemandCurve
 
 Say you saw they know a specific person > ask for an introduction, and say you will send a short note they can forward, or explain the mutual benefit (for example swapping audiences) > keep the ask small
 
@@ -433,13 +433,13 @@ Say which role you are applying for > your years of experience and a result that
 
 - Covers job seekers. Keep it short, specific and truthful.
 
-## 77. Value-led pitch | Count: 2 | Source: HubSpot, Truelist
+## 77. Value-led pitch | Count: 3 | Source: HubSpot, Truelist, DemandCurve
 
 An initiative of theirs > teams like them used an approach to reach an outcome with a number > two outcome bullets (no features) > a 15 minute call next week
 
 - Keep features for the demo. Lead with outcomes.
 
-## 78. Warm welcome to a new contact | Count: 2 | Source: HubSpot, Proposify
+## 78. Warm welcome to a new contact | Count: 3 | Source: HubSpot, Proposify, Salesbread
 
 Congratulate a new contact at an existing account > mention who at your company worked with their team > offer to share what has worked and quick wins > a short call to compare notes
 
@@ -457,7 +457,7 @@ Acknowledge how busy they are > name two specific time options > add a calendar 
 
 - Time options let them reply with a time instead of clicking a link.
 
-## 81. Multiple-choice breakup | Count: 3 | Source: HubSpot, Proposify
+## 81. Multiple-choice breakup | Count: 6 | Source: HubSpot, Proposify, Salesbread
 
 Say you have reached out a few times > list three likely reasons for the silence (not a priority, happy now, wrong person) > ask which one it is, and for a referral if it is the wrong person > say you will stop if it is one of the first two
 
@@ -481,7 +481,7 @@ Pick the format before writing: value-led (an outcome), problem-led (a pain they
 
 - Also use role-specific subject lines, a one-sentence bridge (a comparable company used a solution to reach an outcome in a timeframe), and one low-friction CTA.
 
-## 85. Free trial with a no-risk close | Count: 2 | Source: Proposify
+## 85. Free trial with a no-risk close | Count: 4 | Source: Proposify, Salesbread, DemandCurve
 
 A short intro > one benefit question without the pain they want to avoid > offer a free trial > a three-line close that removes the risk (no card, no commitment, no risk) > a link
 
@@ -517,7 +517,7 @@ Define the ideal customer (role, company size, revenue, industry) > build a shor
 
 - Proposify's best example felt personal because it was sent to one clear fit, not a purchased list.
 
-## 91. Advice request with an email-only option | Count: 6 | Source: Hunter
+## 91. Advice request with an email-only option | Count: 7 | Source: Hunter, DemandCurve
 
 Reference something specific they said or wrote > describe your situation and your current thinking in two lines > ask for their view > say they can answer by email if a call is too much
 
@@ -549,7 +549,7 @@ Refer to what they used or wanted before > name one concrete change since (a fea
 
 - A genuine change is the reason. Avoid generic "we miss you".
 
-## 97. Investor outreach | Count: 6 | Source: Hunter
+## 97. Investor outreach | Count: 7 | Source: Hunter, DemandCurve
 
 Why this person specifically (their expertise or thesis) > one line on the company, traction and round > a short call ask, with a deck on request or attached
 
@@ -585,7 +585,7 @@ Curiosity-based subject > a personal context opener (a real hiring or growth sig
 
 - Mirrors the best examples in this repo. Keep the proof soft and true.
 
-## 104. Podcast guest pitch | Count: 1 | Source: Saleshandy
+## 104. Podcast guest pitch | Count: 5 | Source: Saleshandy, Salesbread, DemandCurve
 
 Praise a specific episode and the question the host asked > your credibility in one line > two or three concrete topic angles with real examples > offer a short outline or a recorded sample
 
@@ -643,7 +643,7 @@ Say you noticed they are not using a type of solution and ask why, out of genuin
 
 - Works because it is not selling. Needs a real, checkable observation.
 
-## 115. Research-interview opener | Count: 1 | Source: Breakcold
+## 115. Research-interview opener | Count: 2 | Source: Breakcold, DemandCurve
 
 A personal first line > say you are writing an article or researching a topic > one simple yes-or-no question about their situation
 
@@ -713,6 +713,36 @@ Name the exact career step you admire > say where you are now > ask one specific
 
 - Specific research separates this from a generic request for mentorship. Offering to come to them lowers the effort.
 
+## 127. Free pilot for case studies | Count: 1 | Source: DemandCurve
+
+Say who you are and who you already work with > explain that you are starting out and want a few case studies > list exactly what the free work includes > say how many spots are left
+
+- Scope it like a project brief so it does not sound too good to be true. Only claim limited spots if that is real.
+
+## 128. Incentive follow-up | Count: 1 | Source: DemandCurve
+
+After a silent first email, admit it is a last resort, restate the value in one line, and offer a small thank-you for a short call
+
+- Risky: it can read as a bribe. Use it once, late in a sequence, and only if you will honor it.
+
+## 129. Resource suggestion for their article | Count: 1 | Source: DemandCurve
+
+Thank them for a specific guide > say you have a related piece that covers one step in more depth > hand over the link in case they want to add it
+
+- No trade is offered, which keeps it clean. Say what is in it for their readers.
+
+## 130. Follow-up that fixes an omission | Count: 1 | Source: Salesbread
+
+Send a follow-up that supplies the thing you forgot, such as the link you meant to include, in one short line
+
+- Feels like a courtesy, not a nag. Only use it if the omission is real.
+
+## 131. CCQ personalization | Count: 1 | Source: Salesbread
+
+Before writing, find one compliment, one commonality and one question to ask them, and build the opening from the strongest
+
+- A research prompt, not a format. A fake commonality ruins trust.
+
 ## Sequences and cadence
 
 **Four-email sequence | Count: 1 | Clay.** Email 1: full pitch. Email 2: how it works. Email 3: change the angle. Email 4: breakup, ask who else should handle it.
@@ -740,3 +770,9 @@ Name the exact career step you admire > say where you are now > ask one specific
 **Truelist cadence and quality guidance | Count: 1 | Truelist.** Use three to five touches spaced three to five business days apart, then stop and revisit next quarter with a new angle. Long sequences with several "bumping this up" emails are the fastest route to spam flags. Reply benchmarks it gives (unverified): 3 to 8% normal, 8 to 15% good, over 15% exceptional, and under 2% usually means a deliverability or list problem, not the copy. Aim for 50 to 110 words, authenticate your domain, send from a separate domain and warm it slowly.
 
 **Smartlead follow-up and testing guidance | Count: 1 | Smartlead.** Use four to six touches for B2B, and give each follow-up a new angle (a new insight, a different framing, a related resource or a different stakeholder). Day 3 can add a new insight, day 7 a different question, then a warm break-up. Practitioners cited by the page report this order of impact (unverified): the offer you make beats the template, the first line beats the subject line, specificity beats length, and a new follow-up angle beats follow-up timing. The page also says reply rate is the main metric, and that open rate is increasingly unreliable.
+
+**Pain ordering across a sequence | Count: 1 | Salesbread.** List every problem your product solves, rank by how often it occurs, lead the first email with the most common one, then use the next in the follow-up.
+
+**Micro-campaign split test | Count: 1 | Salesbread.** Send one email and one follow-up to two separate lists with two versions, then compare both the copy and the list.
+
+**Follow-up spacing | Count: 2 | Salesbread, Copy.ai.** Space touches on a widening gap (Salesbread suggests the Fibonacci sequence), and plan three or four follow-ups that each add something. Copy.ai advises mentioning in the email that you will follow up.

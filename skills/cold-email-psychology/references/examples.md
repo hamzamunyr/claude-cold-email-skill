@@ -604,3 +604,60 @@ Open to a 15 minute call where I show what I found? No pitch, just the numbers.
 
 **Why it works:** the observation is specific and checkable, the proof is from a similar brand, and the ask is small and honest. Use only a real result and a gap you actually verified.
 
+---
+
+## Example 23: Drone inspection service for a solar farm operator
+
+**Prospect:** Asset manager at a mid-size solar operator
+**Psychology:** consistency, courtesy follow-up, specificity, effort reduction
+**Pattern from:** Salesbread (#023), a follow-up that fixes an omission
+
+**Subject options**
+1. the inspection report I mentioned
+2. should have attached the sample
+3. [Site name] panel inspection
+
+**Email**
+
+Hi [First name],
+
+I should have included a sample report in my last note. Here it is: [link]. It shows the heat-map view we produced for a similar-sized site.
+
+If a 10 minute call this week would be easier than reading it, tell me a time and I'll work around you.
+
+[Your name]
+
+**Why it works:** the follow-up carries something new, the reason is honest, and the ask offers a lighter way in. Use a real sample, not a mocked one.
+
+---
+
+## Example 24: Cleaning service offering a free pilot to a coworking operator
+
+**Prospect:** Community manager at a coworking space
+**Psychology:** reciprocity, objection pre-emption, scoped offer, scarcity (only if real)
+**Pattern from:** Demand Curve (#024), the free pilot for case studies
+
+**Subject options**
+1. a free clean for [Space name]
+2. building a case study in coworking
+3. [Space name] x [your company]
+
+**Email**
+
+Hi [First name],
+
+I run a small commercial cleaning team and we are building our first coworking references. I'd like to do a free pilot for one space.
+
+What we'd do, at no cost:
+- One deep clean of the common areas
+- Two weeks of nightly upkeep
+- A short check-in with you at the end
+
+All we'd ask is a few minutes of feedback and, if it goes well, permission to use it as a reference. I'm taking two more spaces this month.
+
+Interested?
+
+[Your name]
+
+**Why it works:** the work is scoped, the cost objection is handled early, and the ask is a single yes or no. State the spot limit only if it is true.
+

@@ -65,5 +65,8 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] Plain, conversational words. No jargon or hype words ("game changer", "revolutionary")
 - [ ] Proofread for typos and grammar slips
 - [ ] Any "similar teams saw X to Y" claim is labeled as illustrative or backed by a real, permitted result
+- [ ] A free offer is scoped (what is included, how long) and any "limited spots" claim is real
+- [ ] A gift or incentive is offered only late, once, and you will honor it
+- [ ] A follow-up that admits an omission names the real omission and supplies it
 - [ ] No em dashes
 - [ ] 2 to 3 subject line options provided, short and specific

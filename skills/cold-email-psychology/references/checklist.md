@@ -57,6 +57,9 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] If you mention AI sourcing or automation, say so honestly and add the human judgment
 - [ ] Never claim to be writing an article or doing research unless it is true
 - [ ] Jokes, memes and images are used only when they fit, and the deliverability cost is accepted on purpose
+- [ ] Any AI-written draft is rewritten in your voice and every reference in it is verified
+- [ ] You have permission before naming a client or a mutual connection
+- [ ] A private message is never referenced in a subject line, and you use at most two channels
 - [ ] No attachments on the first touch
 - [ ] No feature lists or pricing details in a first cold email
 - [ ] Plain, conversational words. No jargon or hype words ("game changer", "revolutionary")

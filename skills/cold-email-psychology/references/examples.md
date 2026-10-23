@@ -524,3 +524,30 @@ Want me to send the short write-up?
 P.S. Here is the post I mean: [link]
 
 **Why it works:** the P.S. proves the signal is real, the result is relevant, and the ask is a yes.
+
+---
+
+## Example 20: Global hiring platform for a freshly funded startup
+
+**Prospect:** Head of People at a startup that just raised a Series A
+**Psychology:** specificity (a real trigger), stage hypothesis, honesty about lessons learned, lighter ask
+**Pattern from:** Truelist (#019), stage-targeted ABM
+
+**Subject options**
+1. [Company]'s Series A and the hiring gap
+2. what usually breaks after a Series A
+3. [First name], a one-pager
+
+**Email**
+
+Hi [First name],
+
+Saw the Series A announcement. Congrats. The next six months usually mean hiring in several countries quickly.
+
+The pattern we see: [specific, real hypothesis about what breaks at this stage]. We helped [comparable funded company] avoid it by [specific approach].
+
+I can send a one-pager on what we did, including what didn't work the first time. Want it?
+
+[Your name]
+
+**Why it works:** the trigger is real and time-bound, the hypothesis shows you understand the stage, and admitting what went wrong makes the proof more believable.

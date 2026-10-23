@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 923 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 932 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN | Source: Clay, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox
 
@@ -25,7 +25,7 @@ Observation about their site > "have you considered these?" question > three ide
 - Best for: agencies, tools and services where you can show what you would do for them.
 - Weak when: the ideas are generic or do not fit their business.
 
-## 4. Event hook | Count: 5 | Source: Apollo, ZoomInfo, SmartWriter, Warmupinbox, Saleshandy
+## 4. Event hook | Count: 6 | Source: Apollo, ZoomInfo, SmartWriter, Warmupinbox, Saleshandy, Truelist
 
 Recent event > the challenge it likely creates > peer result > short call ask
 
@@ -47,7 +47,7 @@ Trend > what most companies do > a better way > peer result > curiosity question
 
 - Needs real expertise and a real result, or the contrarian line sounds empty.
 
-## 8. Referral | Count: 7 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold
+## 8. Referral | Count: 8 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold, Truelist
 
 Mutual contact > outcome achieved > fit with their goal > short call ask
 
@@ -61,7 +61,7 @@ Their initiative > peer story > the insight written inline > "could this work fo
 
 - Best when you can fit a real insight in two sentences.
 
-## 11. Resource share | Count: 6 | Source: Salesloft, ZoomInfo, SmartWriter, Cognism, Warmupinbox
+## 11. Resource share | Count: 7 | Source: Salesloft, ZoomInfo, SmartWriter, Cognism, Warmupinbox, Truelist
 
 Fresh resource and why you are sending it > how it connects to their pain > open offer of more help
 
@@ -127,7 +127,7 @@ One line referencing the earlier email > restate or add one reason > one ask
 
 - Best for: a second or third touch. Keep it under about 80 words and bring something new (a fresh reason, a short resource), not just "checking in".
 
-## 22. PAS (problem, agitate, solution) | Count: 9 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism, Proposify, Saleshandy
+## 22. PAS (problem, agitate, solution) | Count: 10 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism, Proposify, Saleshandy, Truelist
 
 Pain question > deepen the cost of the pain > present the fix with proof > ask to click or chat
 
@@ -145,7 +145,7 @@ Pain observation > what it does to the reader > solution with nearby proof > off
 
 - The tiny sample offer is the useful part. Skip rumor-based openers unless verifiable.
 
-## 25. Social proof pitch | Count: 7 | Source: Woodpecker, HubSpot, Saleshandy
+## 25. Social proof pitch | Count: 8 | Source: Woodpecker, HubSpot, Saleshandy, Truelist
 
 Industry or pain line > track record with named clients > "we can do the same for you" > ten minute ask
 
@@ -275,7 +275,7 @@ Ask in two short lines whether the problem is on their list now, or whether you 
 
 Name the place and one real detail from their listing or site > "we help local [type] get [result]" > ask if a short chat is worthwhile or the timing is off
 
-## 49. Engagement signal | Count: 2 | Source: FirstSales, Smartlead
+## 49. Engagement signal | Count: 3 | Source: FirstSales, Smartlead, Truelist
 
 You saw them engage with a post on [topic], and say you guessed it is on their mind > how you help in one sentence > offer to share how it works
 
@@ -433,7 +433,7 @@ Say which role you are applying for > your years of experience and a result that
 
 - Covers job seekers. Keep it short, specific and truthful.
 
-## 77. Value-led pitch | Count: 1 | Source: HubSpot
+## 77. Value-led pitch | Count: 2 | Source: HubSpot, Truelist
 
 An initiative of theirs > teams like them used an approach to reach an outcome with a number > two outcome bullets (no features) > a 15 minute call next week
 
@@ -555,7 +555,7 @@ Why this person specifically (their expertise or thesis) > one line on the compa
 
 - Use a real mutual introduction where possible.
 
-## 98. Question-first intro | Count: 9 | Source: Hunter, SmartReach
+## 98. Question-first intro | Count: 10 | Source: Hunter, SmartReach, Truelist
 
 Something specific you looked at on their site > a genuine question about how they handle it > say you are not pitching and will say so if you can help
 
@@ -671,6 +671,24 @@ Say you are growing a community for a specific audience > its size and three top
 
 - Short and honest. Works for early products and founder outreach.
 
+## 120. AI-assisted personalization, done right | Count: 1 | Source: Truelist
+
+Use AI to find signals at scale (podcast appearances, hiring spikes, launches) > a human writes the sentence about one specific thing > quote the idea, skip the compliment > offer an asset, not a meeting
+
+- Never ship an AI first draft, and verify every reference is real. Build a library of signals first.
+
+## 121. Multi-channel soft pivot | Count: 1 | Source: Truelist
+
+Comment on their post a week before > then say you commented and are closing the loop by email > one insight that shifts the needle > offer a short write-up
+
+- Only works if you really commented. Cap channels at two, and never mention a private message in a subject line.
+
+## 122. Stage-targeted ABM | Count: 1 | Source: Truelist
+
+Name the account trigger (a funding round, a new hire, a launch) > a specific hypothesis about the operational pain that follows that stage > a comparable company's approach > offer a one-pager that includes what you would do differently
+
+- Volunteering a lesson learned adds credibility. Use it for your top 50 to 100 accounts, within the 60 to 180 day window after the trigger, and coordinate across your team.
+
 ## Sequences and cadence
 
 **Four-email sequence | Count: 1 | Clay.** Email 1: full pitch. Email 2: how it works. Email 3: change the angle. Email 4: breakup, ask who else should handle it.
@@ -694,5 +712,7 @@ Say you are growing a community for a specific audience > its size and three top
 **Deliverability basics | Count: 2 | ZoomInfo, LeadsMonky.** Send from a separate domain, not your main business domain. Set up SPF, DKIM and DMARC. Warm up new domains gradually (about 10 to 20 emails a day, growing over several weeks). Keep bounce rate low (about 2 to 3% or under) by verifying lists. Use a human sender name, plain text and an opt-out. These claims come from vendors selling email tools.
 
 **HubSpot follow-up and CTA guidance | Count: 1 | HubSpot.** Aim for about three to five follow-ups over roughly 10 to 21 days, combined with calls and social touches. Beyond that, replies drop unless each touch adds something new. For senior stakeholders, soften the ask (a short reply, a forwarded intro) before asking for a full demo. HubSpot claims 3 to 5% is an average cold B2B reply rate and that the best exceed 10%, and that referrals get about four times more replies (all unverified).
+
+**Truelist cadence and quality guidance | Count: 1 | Truelist.** Use three to five touches spaced three to five business days apart, then stop and revisit next quarter with a new angle. Long sequences with several "bumping this up" emails are the fastest route to spam flags. Reply benchmarks it gives (unverified): 3 to 8% normal, 8 to 15% good, over 15% exceptional, and under 2% usually means a deliverability or list problem, not the copy. Aim for 50 to 110 words, authenticate your domain, send from a separate domain and warm it slowly.
 
 **Smartlead follow-up and testing guidance | Count: 1 | Smartlead.** Use four to six touches for B2B, and give each follow-up a new angle (a new insight, a different framing, a related resource or a different stakeholder). Day 3 can add a new insight, day 7 a different question, then a warm break-up. Practitioners cited by the page report this order of impact (unverified): the offer you make beats the template, the first line beats the subject line, specificity beats length, and a new follow-up angle beats follow-up timing. The page also says reply rate is the main metric, and that open rate is increasingly unreliable.

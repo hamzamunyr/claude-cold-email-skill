@@ -87,5 +87,6 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] Cold outreach goes out from a separate, warmed sending domain so your main domain's reputation stays safe
 - [ ] Do not guess at a loss or failure the prospect has not told you about (for example a stalled sale), and do not tell them how it must feel
 - [ ] A follow-up does not say you "didn't hear back" or announce that you are following up; it adds something or asks one fresh question
+- [ ] The greeting uses their real name, not "Hey there" or "Hi there"
 - [ ] No em dashes
 - [ ] 2 to 3 subject line options provided, short and specific

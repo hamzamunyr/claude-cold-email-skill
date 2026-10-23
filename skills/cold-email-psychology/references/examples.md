@@ -1181,3 +1181,28 @@ The batch closes on [real date]. If it sounds relevant, I can send the details b
 [Your name]
 
 **Why it works:** the limit and date are real, the fit is specific, and the ask is small. Do not say it if the deadline is made up.
+
+---
+
+## Example 45: Pointing out a broken link with a working alternative
+
+**Prospect:** Anyone who runs a page that links to other resources
+**Psychology:** reciprocity, specificity, a one-line ask
+**Pattern from:** Semrush (#045), the broken-link email with a clear call to action
+
+**Subject options**
+1. a broken link on your [page name] page
+2. quick heads up on [page name]
+3. one link that no longer works
+
+**Email**
+
+Hi [First name],
+
+On your page "[Page title]", the link to [what it pointed to] no longer works.
+
+I wrote a similar resource that could replace it: [link]. Let me know if you change the link.
+
+[Your name]
+
+**Why it works:** it helps them first, names the exact problem, and asks for one thing. Only send it if the link is really broken and your resource really fits.

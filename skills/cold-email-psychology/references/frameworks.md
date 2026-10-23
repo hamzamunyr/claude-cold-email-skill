@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 1332 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora, Influno, Reachoutly, LeadFuze, Distribute). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1345 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora, Influno, Reachoutly, LeadFuze, Distribute, Semrush). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 | Source: Clay
 
@@ -61,7 +61,7 @@ Their initiative > peer story > the insight written inline > "could this work fo
 
 - Best when you can fit a real insight in two sentences.
 
-## 11. Resource share | Count: 16 | Source: Salesloft, ZoomInfo, SmartWriter, Cognism, Warmupinbox, Truelist, Datalane, Salesbread, Outplay, Reachly, TextMagic, BluLeadz, Waalaxy, Oppora
+## 11. Resource share | Count: 17 | Source: Salesloft, ZoomInfo, SmartWriter, Cognism, Warmupinbox, Truelist, Datalane, Salesbread, Outplay, Reachly, TextMagic, BluLeadz, Waalaxy, Oppora, Semrush
 
 Fresh resource and why you are sending it > how it connects to their pain > open offer of more help
 
@@ -79,7 +79,7 @@ Normalize the problem ("many people in your role struggle with X") > article or 
 
 - Works best when the problem is specific, not generic.
 
-## 14. Collaboration | Count: 29 | Source: Salesloft, Coursera, SmartWriter, Warmupinbox, Hunter, Saleshandy, SmartReach, Salesbread, DemandCurve, Waalaxy, Clearout, Influno, Reachoutly
+## 14. Collaboration | Count: 30 | Source: Salesloft, Coursera, SmartWriter, Warmupinbox, Hunter, Saleshandy, SmartReach, Salesbread, DemandCurve, Waalaxy, Clearout, Influno, Reachoutly, Semrush
 
 Specific compliment about something they made > mutual contact > a couple of ideas > short call ask
 
@@ -121,7 +121,7 @@ Subject > Personalized opener > Problem > Observation or value > Call to action
 
 - The shared skeleton behind every Woodpecker template (69 of 75 use all five blocks). A good base to build from, but it makes emails look alike, so the opener and observation must be genuinely specific.
 
-## 21. Follow-up reminder | Count: 128 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox, Hunter, Saleshandy, SmartReach, Salesbread, Cleverly, Reachly, TextMagic, Waalaxy, Clearout, LeadGibbon, Oppora, Influno, Reachoutly, LeadFuze
+## 21. Follow-up reminder | Count: 129 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox, Hunter, Saleshandy, SmartReach, Salesbread, Cleverly, Reachly, TextMagic, Waalaxy, Clearout, LeadGibbon, Oppora, Influno, Reachoutly, LeadFuze, Semrush
 
 One line referencing the earlier email > restate or add one reason > one ask
 
@@ -421,7 +421,7 @@ A specific compliment on their article > your related piece and what it adds > a
 
 - Only offer an audience you really have. Name its real size.
 
-## 75. Testimonial request | Count: 8 | Source: Warmupinbox, Hunter, Waalaxy
+## 75. Testimonial request | Count: 9 | Source: Warmupinbox, Hunter, Waalaxy, Semrush
 
 Thank a current customer > ask for a testimonial and say how it helps others > offer a small thank-you reward
 
@@ -585,7 +585,7 @@ Curiosity-based subject > a personal context opener (a real hiring or growth sig
 
 - Mirrors the best examples in this repo. Keep the proof soft and true.
 
-## 104. Podcast guest pitch | Count: 5 | Source: Saleshandy, Salesbread, DemandCurve
+## 104. Podcast guest pitch | Count: 6 | Source: Saleshandy, Salesbread, DemandCurve, Semrush
 
 Praise a specific episode and the question the host asked > your credibility in one line > two or three concrete topic angles with real examples > offer a short outline or a recorded sample
 
@@ -631,7 +631,7 @@ Say what you are writing and where it will appear > ask for one short answer to 
 
 - Experts reply more easily when the question is specific and short.
 
-## 113. Affiliate or referral program invite | Count: 5 | Source: SmartReach, Salesforge, Mailsuite
+## 113. Affiliate or referral program invite | Count: 6 | Source: SmartReach, Salesforge, Mailsuite, Semrush
 
 Say you saw their content on the topic > list the concrete terms (rate, bonus, resources, a named contact) > a link to join
 
@@ -701,7 +701,7 @@ Open with one specific number about their market, say what it means for their pi
 
 - The number must be real and sourced. An invented statistic here destroys the whole email.
 
-## 125. Partnership win-win pitch | Count: 3 | Source: Salesforge, Influno, Reachoutly
+## 125. Partnership win-win pitch | Count: 4 | Source: Salesforge, Influno, Reachoutly, Semrush
 
 Praise a specific strength of theirs > say who you serve and where the audiences overlap > mention one past partnership and how customers reacted > a short call to explore
 
@@ -989,7 +989,7 @@ Imply that their name came up in a shared space when it did not
 
 - Only say it if it is true and you can name the context. Otherwise use a real trigger.
 
-## 173. Link insertion pitch | Count: 1 | Source: Influno
+## 173. Link insertion pitch | Count: 2 | Source: Influno, Semrush
 
 Name their article and the exact section > one line on what your resource adds > the link > offer anchor text or a short summary
 
@@ -1001,7 +1001,7 @@ Praise the piece > point to one weak or missing angle > offer a resource or a se
 
 - Be kind and specific. A vague criticism reads as a hook for a link.
 
-## 175. Guest article pitch | Count: 2 | Source: Influno, Reachoutly
+## 175. Guest article pitch | Count: 3 | Source: Influno, Reachoutly, Semrush
 
 Name a post you liked > propose a title that builds on it > a two line summary > offer an outline
 
@@ -1042,6 +1042,36 @@ Say you are onboarding a small group > who it fits > the real window or batch li
 Point to public examples or a documented workflow > say what is useful about it > invite them to inspect it and ask if they want the version for their stage
 
 - Works when the proof is really public. It invites checking, not belief.
+
+## 182. Link reclamation | Count: 1 | Source: Semrush
+
+Thank them for mentioning you > ask for a link at the mention > supply the exact anchor text and one reason it helps their readers
+
+- Keep it short and grateful. Making it paste-ready is the whole trick.
+
+## 183. Broken link with a replacement | Count: 1 | Source: Semrush
+
+Say a specific link on their page no longer works > point to your similar resource > one short line asking them to update it
+
+- Only works if the link really is broken and your resource is a fair match.
+
+## 184. Press pitch with a research report | Count: 1 | Source: Semrush
+
+Praise a specific article > give one headline finding from your research > link the full report > offer quotes or more data
+
+- Lead with the finding, not your company. Make sure it fits what they cover.
+
+## 185. Influencer collaboration offer | Count: 1 | Source: Semrush
+
+Say which past collaboration you liked > what you can offer (payment, product) > one question
+
+- State the offer plainly. Match the creator to your niche.
+
+## 186. Is-it-fair-to-say opener (risky) | Count: 1 | Source: Semrush
+
+Ask whether it is fair to say they struggle with a specific pain, then offer a free guide
+
+- Assumes a pain you cannot confirm. Use a real observation instead.
 
 ## Sequences and cadence
 
@@ -1088,3 +1118,5 @@ Point to public examples or a documented workflow > say what is useful about it 
 **Outreach timing and sending setup | Count: 1 | Influno.** Plan two or three follow-ups over about two weeks: a reminder after 4 to 7 days, then one that adds a new angle or resource. Send Tuesday to Thursday mornings in the recipient's time zone, and use a separate, properly warmed domain for cold outreach so the main domain stays safe.
 
 **Fourteen-day trigger sequence with a payload change | Count: 1 | Distribute.** Day 1 email tied to a live trigger, day 4 follow-up that adds something useful, day 7 LinkedIn touch, day 10 email with proof, day 14 closeout with an easy out. Change the payload each time. Track positive replies and cost per positive reply. Strong copy with weak positive replies usually means targeting, and strong targeting with weak opens usually means deliverability or subject lines.
+
+**Spaced follow-ups that shrink | Count: 1 | Semrush.** Wait three to five business days between messages and stop at three follow-ups. Change the message each time, and let each one get shorter, since the earlier email sits below it in the thread.

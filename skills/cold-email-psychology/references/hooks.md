@@ -1,14 +1,14 @@
 # Hooks and Subject Lines
 
-Emails analyzed so far: 1502 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora, Influno, Reachoutly, LeadFuze, Distribute, Semrush, FreebiesMockup, Maildoso, Scalelist, SellingSignals, Outboundly, EmailSneak, FirstSales72, Close, Saleshandy). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1614 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora, Influno, Reachoutly, LeadFuze, Distribute, Semrush, FreebiesMockup, Maildoso, Scalelist, SellingSignals, Outboundly, EmailSneak, FirstSales72, Close, Saleshandy, Follow-up guides). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## Opening line patterns
 
 | Pattern | Formula | Count | Sources |
 |---|---|---|---|
-| Prior touch hook | "Following up on my last email about [topic]" plus one new reason | 188 | Salesloft, Woodpecker, ZoomInfo, Smartlead, Cognism, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Truelist, Datalane, Salesbread, DemandCurve, Cleverly, Mailsuite, Reachly, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Oppora, Influno, LeadFuze, Distribute, Maildoso, SellingSignals, FirstSales72 |
+| Prior touch hook | "Following up on my last email about [topic]" plus one new reason | 248 | Salesloft, Woodpecker, ZoomInfo, Smartlead, Cognism, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Truelist, Datalane, Salesbread, DemandCurve, Cleverly, Mailsuite, Reachly, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Oppora, Influno, LeadFuze, Distribute, Maildoso, SellingSignals, FirstSales72, Follow-up guides |
 | Job posting or open role hook | Reference an open role or hiring post that points at a problem you solve | 43 | Clay, Woodpecker, Proposify, Hunter, Saleshandy, Cleverly, Reachly, Salesdorado, Reachoutly, Distribute, Scalelist, FirstSales72 |
-| Trigger event plus insight | "I noticed [event]. In my experience that usually means [insight]." | 228 | Clay, Apollo, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, HubSpot, Hunter, Saleshandy, SmartReach, Truelist, Datalane, Salesforge, Cleverly, Reachly, Starnus, MailGenius, Reachoutly, Distribute, Maildoso, EmailSneak, FirstSales72 |
+| Trigger event plus insight | "I noticed [event]. In my experience that usually means [insight]." | 237 | Clay, Apollo, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, HubSpot, Hunter, Saleshandy, SmartReach, Truelist, Datalane, Salesforge, Cleverly, Reachly, Starnus, MailGenius, Reachoutly, Distribute, Maildoso, EmailSneak, FirstSales72, Follow-up guides |
 | Empathy opener | Name the frustration first ("I know a stalled listing is frustrating") | 12 | Woodpecker, Smartlead, SmartWriter, Cognism, HubSpot, Artisan |
 | Pain question opener | Start with a question about the problem they live with | 18 | Woodpecker, SmartWriter, HubSpot, Outplay, Artisan, TextMagic, ProProfsDesk, Waalaxy, LeadGibbon |
 | Milestone congrats hook | Congratulate on a sale, purchase, graduation or achievement, then tie to the next step | 40 | Woodpecker, SmartWriter, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Truelist, Outplay, Artisan, Reachly, LeadSquared, ProProfsDesk, Waalaxy, Starnus, Reachoutly, Maildoso |
@@ -65,6 +65,7 @@ Emails analyzed so far: 1502 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Cou
 | Their-content reference hook | Name their article and the exact section your resource relates to | 11 | Influno, Semrush |
 | Missed-call hook | Say you tried to call, why you called, and when you will try again | 3 | LeadFuze, SellingSignals |
 | Seasonal greeting hook (weak) | Open with a holiday or season wish, then pitch | 1 | FreebiesMockup |
+| New-fact follow-up opener (lead with the new development, not "following up") | Open the follow-up with one new, real fact tied to the first email, then one reason it matters, then a one-word-answer question | 12 | Follow-up guides |
 
 Rule: the first line is about the prospect, not you. Skip empty openers ("hope you're well", "I know you're busy", "I found you on LinkedIn"). Vague observations feel weaker than specific ones. Avoid rumor-style openers (hearsay about the prospect) unless the fact is verifiable and the tone is kind.
 
@@ -75,12 +76,12 @@ Rule: the first line is about the prospect, not you. Skip empty openers ("hope y
 | Question about their situation | "Still looking for a new [role]?" or "Ready to try selling again?" | 95 | Woodpecker, ZoomInfo, LeadsMonky, Warmupinbox, Saleshandy, SmartReach, Salesforge, Salesbread, Outplay, Cleverly, Artisan, Reachly, TextMagic, ProProfsDesk, Waalaxy, Clearout, MailGenius, Reachoutly, LeadFuze, Maildoso, SellingSignals |
 | Plain benefit or offer | "We'll deliver the candidates you need" | 20 | Woodpecker, TextMagic, ProProfsDesk, Clearout, MailGenius |
 | Role-targeted | "Looking for work as a [role]?" | 10 | Woodpecker |
-| Still-question follow-up | "Still interested in talking?" | 10 | Woodpecker, Oppora, Reachoutly, Maildoso |
+| Still-question follow-up | "Still interested in talking?" | 13 | Woodpecker, Oppora, Reachoutly, Maildoso, Follow-up guides |
 | Urgency or deadline | "Don't forget about our Open House on [date]!" | 9 | Woodpecker, ProProfsDesk, Clearout, FreebiesMockup |
 | Event or date | "Let's connect at [event]" | 8 | Woodpecker, FreebiesMockup, FirstSales72 |
 | Mutual connection | "[Name] suggested I reach out" | 34 | Apollo, Woodpecker, ZoomInfo, Smartlead, HubSpot, Truelist, Salesbread, Cleverly, Artisan, Reachly, TextMagic, ProProfsDesk, Clearout, LeadGibbon, Starnus, MailGenius, Influno, Reachoutly, FreebiesMockup, Maildoso, FirstSales72 |
 | Thank-you | "Thanks for requesting a demo" | 8 | Woodpecker, Salesbread, Waalaxy, LeadFuze, Semrush, SellingSignals |
-| Peer result | "How [peer company] hit [metric]" | 18 | Apollo, ZoomInfo, Smartlead, HubSpot, Salesbread, Outplay, ProProfsDesk, Clearout, Starnus, MailGenius, LeadFuze, Maildoso |
+| Peer result | "How [peer company] hit [metric]" | 24 | Apollo, ZoomInfo, Smartlead, HubSpot, Salesbread, Outplay, ProProfsDesk, Clearout, Starnus, MailGenius, LeadFuze, Maildoso, Follow-up guides |
 | Event congrats | "Congrats on [specific event]" | 30 | Apollo, ZoomInfo, SmartWriter, Warmupinbox, Proposify, Hunter, Saleshandy, Outplay, LeadSquared, TextMagic, ProProfsDesk, Waalaxy, Clearout, Starnus, Maildoso |
 | Question about a topic | "Quick question about [specific area]" | 53 | Apollo, ZoomInfo, HubSpot, Hunter, Truelist, LeadSquared, Clearout, Starnus, Oppora, Reachoutly, Semrush, FreebiesMockup, Outboundly |
 | Trend thought | "[First name], quick thought on [trend]" | 6 | Apollo, Cleverly, ProProfsDesk, Oppora, LeadFuze |

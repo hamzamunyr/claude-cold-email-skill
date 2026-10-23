@@ -100,5 +100,11 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] An opt-out is easy ("tell me if this is not relevant" or an unsubscribe), and "not interested" or "stop" replies are honored the same day
 - [ ] Contacts are capped per company and non-responders are removed after the sequence ends
 - [ ] The email passes a read-aloud test and has no stacked hype words, capitals or exclamation marks
+- [ ] A follow-up carries one new fact, proof point or sharper question; if you cannot name what is new, do not send it
+- [ ] A follow-up replies in the same thread unless the angle truly changed, and never opens with "just following up", "checking in" or "bumping this"
+- [ ] The follow-up spacing widens (about 2 to 3 business days, then 4 to 7, then longer), and the touches go out at different times of day
+- [ ] A follow-up asks one question that can be answered in a word and never mentions opens, clicks or "never heard back"
+- [ ] The sequence is 3 follow-ups by default, ends with a short no-guilt break-up, and stops for anyone who says no
+- [ ] Any urgency or deadline in a follow-up (limited offer, capacity, closing the file) is real and stated with its reason
 - [ ] No em dashes
 - [ ] 2 to 3 subject line options provided, short and specific

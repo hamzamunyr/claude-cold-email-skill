@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 1502 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora, Influno, Reachoutly, LeadFuze, Distribute, Semrush, FreebiesMockup, Maildoso, Scalelist, SellingSignals, Outboundly, EmailSneak, FirstSales72, Close, Saleshandy). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1614 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora, Influno, Reachoutly, LeadFuze, Distribute, Semrush, FreebiesMockup, Maildoso, Scalelist, SellingSignals, Outboundly, EmailSneak, FirstSales72, Close, Saleshandy, Follow-up guides). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 | Source: Clay
 
@@ -47,7 +47,7 @@ Trend > what most companies do > a better way > peer result > curiosity question
 
 - Needs real expertise and a real result, or the contrarian line sounds empty.
 
-## 8. Referral | Count: 26 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold, Truelist, Cleverly, Reachly, Salesdorado, TextMagic, ProProfsDesk, Clearout, LeadGibbon, MailGenius, Influno, Reachoutly, Distribute, FreebiesMockup, Maildoso, FirstSales72
+## 8. Referral | Count: 32 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold, Truelist, Cleverly, Reachly, Salesdorado, TextMagic, ProProfsDesk, Clearout, LeadGibbon, MailGenius, Influno, Reachoutly, Distribute, FreebiesMockup, Maildoso, FirstSales72, Follow-up guides
 
 Mutual contact > outcome achieved > fit with their goal > short call ask
 
@@ -67,7 +67,7 @@ Fresh resource and why you are sending it > how it connects to their pain > open
 
 - No hard ask, so it works as a relationship starter. Put the insight in the email or a link, not an attachment. Add one small question to invite a reply.
 
-## 12. Case study first | Count: 26 | Source: Salesloft, ZoomInfo, Coursera, Cognism, Hunter, Salesforge, Salesbread, Outplay, Cleverly, Salesdorado, Clearout, Reachoutly, Distribute, FreebiesMockup, Maildoso
+## 12. Case study first | Count: 34 | Source: Salesloft, ZoomInfo, Coursera, Cognism, Hunter, Salesforge, Salesbread, Outplay, Cleverly, Salesdorado, Clearout, Reachoutly, Distribute, FreebiesMockup, Maildoso, Follow-up guides
 
 Customer result with a link > another win with the same customer > ask for a call with two named days
 
@@ -103,7 +103,7 @@ Reference the voicemail, call or message > two specific time options
 
 - Very short. Add a reason to meet to lift replies.
 
-## 18. Demo recap | Count: 2 | Source: Salesloft, Mailsuite
+## 18. Demo recap | Count: 8 | Source: Salesloft, Mailsuite, Follow-up guides
 
 Thanks > one-paragraph value summary > pricing and resources > open offer of more help
 
@@ -165,7 +165,7 @@ Short list matched to what they said they want > "tell me which are a no, and wh
 
 Empathize > give one reason it did not work > offer a fresh idea > ask to talk
 
-## 29. Post-win thank you with referral ask | Count: 2 | Source: Woodpecker
+## 29. Post-win thank you with referral ask | Count: 3 | Source: Woodpecker, Follow-up guides
 
 Congratulate > offer help with leftover questions > ask them to keep you in mind for referrals
 
@@ -211,7 +211,7 @@ What you published and the data behind it > three key findings in the email > wh
 
 Thanks for connecting > one detail from their profile or company > what you do plus a proof point > 15 minute ask
 
-## 38. Assume-not-a-priority breakup | Count: 30 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot, Hunter, Saleshandy, SmartReach, Datalane, Salesbread, Cleverly, Reachly, Clearout, Oppora, LeadFuze, SellingSignals, FirstSales72
+## 38. Assume-not-a-priority breakup | Count: 46 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot, Hunter, Saleshandy, SmartReach, Datalane, Salesbread, Cleverly, Reachly, Clearout, Oppora, LeadFuze, SellingSignals, FirstSales72, Follow-up guides
 
 Say you reached out a few times > assume it is not a priority and stop > invite a reply if that assumption is wrong
 
@@ -315,7 +315,7 @@ A specific finding from a quick check of their ads, content or site > proof you 
 
 Warm: refer to the actual conversation and the promised resource > a low-pressure line saying you can go deeper if the topic is still live. Cold: a shared session or event > a short link to what you do > short call ask
 
-## 56. Re-engagement | Count: 21 | Source: Smartlead, HubSpot, Hunter, Saleshandy, SmartReach, Datalane, Cleverly, Reachly, Oppora, FirstSales72
+## 56. Re-engagement | Count: 25 | Source: Smartlead, HubSpot, Hunter, Saleshandy, SmartReach, Datalane, Cleverly, Reachly, Oppora, FirstSales72, Follow-up guides
 
 Refer to the earlier conversation or a trigger since then > ask whether the topic is still on their radar > offer two clean paths (revisit now or follow up next quarter)
 
@@ -457,7 +457,7 @@ Acknowledge how busy they are > name two specific time options > add a calendar 
 
 - Time options let them reply with a time instead of clicking a link.
 
-## 81. Multiple-choice breakup | Count: 6 | Source: HubSpot, Proposify, Salesbread
+## 81. Multiple-choice breakup | Count: 7 | Source: HubSpot, Proposify, Salesbread, Follow-up guides
 
 Say you have reached out a few times > list three likely reasons for the silence (not a priority, happy now, wrong person) > ask which one it is, and for a referral if it is the wrong person > say you will stop if it is one of the first two
 
@@ -803,7 +803,7 @@ Say exactly what is free (a review, a valuation, a check-up) > what it covers > 
 
 - Name the scope and any limit. Avoid the word "free" in the subject line.
 
-## 142. Recap and next step after a conversation | Count: 1 | Source: Mailsuite
+## 142. Recap and next step after a conversation | Count: 5 | Source: Mailsuite, Follow-up guides
 
 Thank them for a specific talk > summarize two points you agreed on > propose one next step with a time
 
@@ -1115,6 +1115,84 @@ Lead with a claim that sounds fake, then ask "right?"
 
 - Invites doubt. Replace with one provable fact.
 
+## 194. New-fact follow-up | Count: 1 | Source: Follow-up guides
+
+Subject: same thread. Body: one new, real development since your first email (a company event, a report, a regulatory change), one sentence on why it matters to the problem you named, then a question that can be answered in a word.
+
+- Martal and Coldreach. If you have no new fact, wait or stop; do not invent one.
+
+## 195. Pain-hypothesis follow-up | Count: 1 | Source: Follow-up guides
+
+Say "I may be off, but my guess is [company] is running into [pain] as [change] happens", name the usual workaround and where it breaks, then ask "is that accurate, or not really?"
+
+- Coldreach. Invites correction and is easy to answer.
+
+## 196. Silence as multiple choice | Count: 1 | Source: Follow-up guides
+
+After interest then silence, name the likely reasons (priorities moved, an internal concern, timing) and ask which one it is, and for an objection rather than a guess.
+
+- Martal. Turns a long silence into a one-word reply.
+
+## 197. Wrong-person routing follow-up | Count: 1 | Source: Follow-up guides
+
+After two or three touches with no engagement, say you may have aimed this at the wrong person and ask them to point you to whoever owns the problem. If it is them, timing is useful to know too.
+
+- Martal, Coldreach, Sendr. The cheapest ask in a sequence.
+
+## 198. Small-win follow-up | Count: 1 | Source: Follow-up guides
+
+Share one thing they can do now, with no strings, and offer the longer version only if they want it.
+
+- Smartlead. Reciprocity without a meeting ask.
+
+## 199. Post-demo team-feedback question | Count: 1 | Source: Follow-up guides
+
+Say one thing you could not tell from the session (whether a specific workflow fits), then ask what the rest of the team said. Surfaces the objection and the other stakeholders.
+
+- Martal.
+
+## 200. Missed-meeting reschedule | Count: 1 | Source: Follow-up guides
+
+Sorry we missed [day], tie it to their stated goal, give a link to rebook, keep it to a few lines, no guilt.
+
+- Gong and Instantly.
+
+## 201. One recap per attendee | Count: 1 | Source: Follow-up guides
+
+After a call send each participant their own recap with their own next step and a resource for their question, instead of one group email.
+
+- Gong. Individual emails reply more than group ones.
+
+## 202. Loop in the decision maker | Count: 1 | Source: Follow-up guides
+
+Update on team feedback, say an executive session is being prepared, explain how it serves their priorities and offer a date and time with room to suggest another.
+
+- Gong. Needs a real positive signal from the team first.
+
+## 203. Proposal nudge to a champion | Count: 1 | Source: Follow-up guides
+
+Reply in the proposal thread: make sure you saw this, ask whether the decision maker has replied about a sync. Better: add a real reason (a date, a question answered).
+
+- Gong and Instantly. The bare version is weak.
+
+## 204. Interest-first follow-up | Count: 1 | Source: Follow-up guides
+
+Ask whether the idea would help with their initiative before asking for any time, offering a customer outcome as the example.
+
+- Gong. Sells the conversation, not the meeting.
+
+## 205. Trigger-event follow-up | Count: 1 | Source: Follow-up guides
+
+Use the event (a funding round, a hire) as the whole reason and ask "too early to be useful, or worth a short call?"
+
+- Martal, Sendr and GMass.
+
+## 206. Video follow-up with a real recording | Count: 1 | Source: Follow-up guides
+
+A short personal video for a quiet prospect, with a thumbnail and one question. Record it yourself; faked voice or lip sync can feel deceptive.
+
+- Sendr. Use only when you can record a real one.
+
 ## Sequences and cadence
 
 **Four-email sequence | Count: 1 | Clay.** Email 1: full pitch. Email 2: how it works. Email 3: change the angle. Email 4: breakup, ask who else should handle it.
@@ -1164,3 +1242,19 @@ Lead with a claim that sounds fake, then ask "right?"
 **Spaced follow-ups that shrink | Count: 1 | Semrush.** Wait three to five business days between messages and stop at three follow-ups. Change the message each time, and let each one get shorter, since the earlier email sits below it in the thread.
 
 **Measure per 100 recipients | Count: 1 | Scalelist.** Count replies per 100 recipients, per template, on the same kind of list, and change one thing at a time. Published averages use different denominators (per email sent, per recipient, per sequence), so compare your own templates against each other, not against one number.
+
+**Follow-up playbook | Count: 15 | Follow-up guides.** The full follow-up guidance (count, timing, jobs per touch, phrases to avoid, source conflicts) is in followups.md. Short version: 3 follow-ups, first after 2 to 3 business days, gaps widening (about 2, 4, 7, 14), each one adds something new, reply in the thread, one question, close with a short no-guilt breakup.
+
+**2-4-7-14 cadence | Count: 2 | Mixmax, GMass.** First follow-up 2 days after, then 4, 7 and 14 days after the previous. GMass adds a fifth at 30 days.
+
+**Seniority spacing | Count: 1 | Martal.** SMB owner every 3 to 5 days (sequence inside two weeks), mid-market director every 4 to 7 days (18 to 25 days), enterprise VP every 7 to 10 days (25 to 35), C-suite every 10 to 14 days (35 to 45).
+
+**Six-touch multichannel sequence | Count: 1 | Martal.** Day 0 email, day 2 to 3 email with new information, day 5 to 7 phone or LinkedIn, day 9 to 12 email with a new framing or proof, day 14 to 18 phone, day 21 to 25 break-up email.
+
+**Widening-gap sequence | Count: 1 | lemlist.** 2 days between emails 1 and 2, 4 days, 4 days, then 5 or more days, for 10 to 25 days total. Swap some emails for other channels instead of adding touches.
+
+**Three-step cold follow-up | Count: 1 | Instantly.** Day 3 a value bump, day 7 social proof, day 12 a breakup. Proposal follow-ups run 4 to 5 touches over 3 to 4 weeks.
+
+**Weekly follow-up for freelancers | Count: 1 | Ashley Gainer.** One week, another week, another week, then stop after the third. Honor any deadline in a job post, and set a reminder when told to come back later.
+
+**Monthly drip after the sequence | Count: 1 | Jacob Tuwiner.** After four follow-ups, one email a month until a reply or a request to stop (use only if each one is useful and compliant).

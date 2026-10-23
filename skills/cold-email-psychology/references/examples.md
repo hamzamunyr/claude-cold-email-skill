@@ -1383,3 +1383,25 @@ Your careers page lists [specific, public detail]. Teams in that position often 
 [Your name]
 
 **Why it works:** the first line is a fact anyone can check, not an invented metric. Use a real result and name where the fact came from only if it is public.
+
+---
+
+## Example 53: A follow-up that brings one new fact
+
+**Prospect:** Someone who ignored your first email three days ago
+**Psychology:** consistency, specificity, effort reduction, a one-word-answer question
+**Pattern from:** Martal and Coldreach follow-up guidance (#064, #071)
+
+**Subject:** same thread (reply to your first email)
+
+**Email**
+
+Hi [First name],
+
+Since my note on Tuesday, [Company] announced [specific, public event]. Teams in that spot often run into [one usual consequence].
+
+Is that already handled, or still open?
+
+[Your name]
+
+**Why it works:** the first line is news they can verify, so the email earns its place; it stays short and ends on a question they can answer in a word.

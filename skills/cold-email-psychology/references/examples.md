@@ -1206,3 +1206,180 @@ I wrote a similar resource that could replace it: [link]. Let me know if you cha
 [Your name]
 
 **Why it works:** it helps them first, names the exact problem, and asks for one thing. Only send it if the link is really broken and your resource really fits.
+
+---
+
+## Example 46: A short customer story with a real result
+
+**Prospect:** A manager facing a problem a past client also had
+**Psychology:** social proof from a similar case, a small ask
+**Pattern from:** Freebies Mockup (#046), the storytelling template
+
+**Subject options**
+1. how [Client type] handled [problem]
+2. a quick story about [topic]
+3. a similar case to [Company]
+
+**Email**
+
+Hi [First name],
+
+A [similar company type] we worked with had the same [specific challenge] you may be dealing with. In [timeframe] they [real result].
+
+I think [Company] could see something similar. Would a short call next week be useful?
+
+[Your name]
+
+**Why it works:** the story is brief and comparable, and the ask is small. Use only a real client and a result you can support.
+
+---
+
+## Example 47: A trigger from a public report
+
+**Prospect:** A leader in a field covered by a recent industry report
+**Psychology:** a real trigger, one proof point, two time options
+**Pattern from:** Maildoso (#047), the report trigger, with the fixed time fixed
+
+**Subject options**
+1. what the [Report name] means for [Company]
+2. one line from the [Report name]
+3. [Company] and [report topic]
+
+**Email**
+
+Hi [First name],
+
+The latest [Report name] points to [one specific finding] for companies like [Company].
+
+We helped [similar company] [real result]. Worth a 15 minute call? I'm free [option one] or [option two].
+
+[Your name]
+
+**Why it works:** it cites a real source, gives one proof, and offers two times, not one fixed slot. Use only a result you can back up.
+
+---
+
+## Example 48: A two-answer question about a coming change
+
+**Prospect:** Someone planning a new site, system or team
+**Psychology:** a public trigger, a respectable out, a two-answer question
+**Pattern from:** Scalelist (#048), the system-change and new-location triggers
+
+**Subject options**
+1. the new [location or system]
+2. planning for [change]
+3. [Company] and [change]
+
+**Email**
+
+Hi [First name],
+
+I saw [Company] [announced a specific, public change]. When teams do that, [one usual consequence] tends to show up.
+
+We help with that by [one plain mechanism]. Is it on your plate yet, or is it too early?
+
+[Your name]
+
+**Why it works:** the trigger is public, the question accepts "not yet", and nothing is demanded. Use it only with a real signal.
+
+---
+
+## Example 49: A light, human last follow-up
+
+**Prospect:** Someone who did not reply to earlier notes
+**Psychology:** pattern break, warmth, an easy out
+**Pattern from:** Selling Signals (#049), the final follow-up, toned down
+
+**Subject options**
+1. last note from me
+2. one more try, then I'll stop
+3. still relevant?
+
+**Email**
+
+Hi [First name],
+
+This is my last note on [topic]. I would rather be useful than persistent, so I'll stop after this.
+
+If [one specific result you offer] is still relevant, reply "yes" and I'll send the short version. If not, no hard feelings.
+
+[Your name]
+
+**Why it works:** it is honest about stopping, offers one small next step, and avoids guilt. Do not call them rude or ignore them.
+
+---
+
+## Example 50: Acknowledging scale before offering help
+
+**Prospect:** A leader at a large organization
+**Psychology:** respect for their situation, one proof, a small ask
+**Pattern from:** Outboundly (#050), the enterprise outreach template
+
+**Subject options**
+1. [Process] at [Company]'s scale
+2. one thought on [process]
+3. a question about [process]
+
+**Email**
+
+Hi [First name],
+
+Running [specific process] across an organization the size of [Company] is a lot of moving parts.
+
+We helped [similar large organization] [real result] in [timeframe]. Would a short call next week be useful?
+
+[Your name]
+
+**Why it works:** it names their scale without flattery, gives one proof, and asks for a small step. Only say it if you have a comparable, real example.
+
+---
+
+## Example 51: Offer a one-line benchmark, not a meeting
+
+**Prospect:** A leader whose public post or page you read
+**Psychology:** specificity, reciprocity, a one-word reply
+**Pattern from:** EmailSneak (#051), the founder-to-founder benchmark offer
+
+**Subject options**
+1. your post on [topic]
+2. a benchmark for [their size band]
+3. [topic] numbers
+
+**Email**
+
+Hi [First name],
+
+Your post on [topic] stuck with me, especially [one specific quote].
+
+From our own data, companies your size usually run [one real metric]. I can share the slice for your segment if it's useful.
+
+Want the numbers?
+
+[Your name]
+
+**Why it works:** the reference is specific, the offer is real data, and the ask is two words. Use a number you actually have.
+
+---
+
+## Example 52: A first line you can actually cite
+
+**Prospect:** Someone whose public page or post you can reference
+**Psychology:** a verifiable observation, one proof, a small ask
+**Pattern from:** FirstSales (#052), the three-second first line, done honestly
+
+**Subject options**
+1. [Company]'s [public thing]
+2. one note on [topic]
+3. [specific project]
+
+**Email**
+
+Hi [First name],
+
+Your careers page lists [specific, public detail]. Teams in that position often find [one usual consequence].
+
+[Similar company] [real result]. Worth 10 minutes to see if it applies?
+
+[Your name]
+
+**Why it works:** the first line is a fact anyone can check, not an invented metric. Use a real result and name where the fact came from only if it is public.

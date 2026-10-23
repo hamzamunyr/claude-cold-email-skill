@@ -88,5 +88,11 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] Do not guess at a loss or failure the prospect has not told you about (for example a stalled sale), and do not tell them how it must feel
 - [ ] A follow-up does not say you "didn't hear back" or announce that you are following up; it adds something or asks one fresh question
 - [ ] The greeting uses their real name, not "Hey there" or "Hi there"
+- [ ] Replies are counted per 100 recipients per template, on similar lists, and only one thing changes at a time
+- [ ] A cold email never mentions a patient, client or customer by detail, and a regulated industry is not named beyond what is public
+- [ ] The from name is a real person plus company (for example "Name from Company"), not a clever title
+- [ ] A P.S. adds one real link, number or specific compliment, or it is left out
+- [ ] No invented figure about the prospect: any number or "per your earnings call" style source is real, public and accurate
+- [ ] Any "industry average" comparison has a real source and is not used to shame the reader
 - [ ] No em dashes
 - [ ] 2 to 3 subject line options provided, short and specific

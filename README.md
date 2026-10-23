@@ -372,3 +372,5 @@ If this skill saved you time or got you a reply, please consider giving the repo
 ## 👤 Author
 
 **Built by Hamza Munir, software engineer and GTM engineer.** More at [thepixelserve.com](https://thepixelserve.com).
+
+[![Website](https://img.shields.io/badge/Website-thepixelserve.com-0969da?style=flat-square)](https://thepixelserve.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-hamzamunyr-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzamunyr/)

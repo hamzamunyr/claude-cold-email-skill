@@ -81,5 +81,6 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] Emails to a competitor's users or an event's attendees use only data you may lawfully use, and say how you found them
 - [ ] At most one emoji, and only if it fits the brand and the recipient
 - [ ] The email does not use "limited time", "exclusive" or "select few" unless the deadline and the list are real
+- [ ] The email stays deliverable: plain formatting, at most one link, no hype or spam words, and your sending domain is authenticated (SPF, DKIM, DMARC)
 - [ ] No em dashes
 - [ ] 2 to 3 subject line options provided, short and specific

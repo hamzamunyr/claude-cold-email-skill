@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 1238 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1246 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 | Source: Clay
 
@@ -47,7 +47,7 @@ Trend > what most companies do > a better way > peer result > curiosity question
 
 - Needs real expertise and a real result, or the contrarian line sounds empty.
 
-## 8. Referral | Count: 16 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold, Truelist, Cleverly, Reachly, Salesdorado, TextMagic, ProProfsDesk, Clearout, LeadGibbon
+## 8. Referral | Count: 17 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold, Truelist, Cleverly, Reachly, Salesdorado, TextMagic, ProProfsDesk, Clearout, LeadGibbon, MailGenius
 
 Mutual contact > outcome achieved > fit with their goal > short call ask
 
@@ -85,7 +85,7 @@ Specific compliment about something they made > mutual contact > a couple of ide
 
 - Needs a real piece of their content and a real mutual contact.
 
-## 15. AIDA | Count: 9 | Source: Salesloft, Woodpecker, ZoomInfo, SmartWriter, Cognism, HubSpot, Cleverly, Artisan, TextMagic
+## 15. AIDA | Count: 10 | Source: Salesloft, Woodpecker, ZoomInfo, SmartWriter, Cognism, HubSpot, Cleverly, Artisan, TextMagic, MailGenius
 
 Attention (subject) > Interest (their post or news) > Desire (shared roadblock plus research) > Action (one CTA)
 
@@ -127,7 +127,7 @@ One line referencing the earlier email > restate or add one reason > one ask
 
 - Best for: a second or third touch. Keep it under about 80 words and bring something new (a fresh reason, a short resource), not just "checking in".
 
-## 22. PAS (problem, agitate, solution) | Count: 14 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism, Proposify, Saleshandy, Truelist, Cleverly, Artisan, TextMagic, Starnus
+## 22. PAS (problem, agitate, solution) | Count: 15 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism, Proposify, Saleshandy, Truelist, Cleverly, Artisan, TextMagic, Starnus, MailGenius
 
 Pain question > deepen the cost of the pain > present the fix with proof > ask to click or chat
 
@@ -145,7 +145,7 @@ Pain observation > what it does to the reader > solution with nearby proof > off
 
 - The tiny sample offer is the useful part. Skip rumor-based openers unless verifiable.
 
-## 25. Social proof pitch | Count: 21 | Source: Woodpecker, HubSpot, Saleshandy, Truelist, Salesbread, Outplay, Mailsuite, TextMagic, ProProfsDesk, Waalaxy, Clearout, Starnus
+## 25. Social proof pitch | Count: 22 | Source: Woodpecker, HubSpot, Saleshandy, Truelist, Salesbread, Outplay, Mailsuite, TextMagic, ProProfsDesk, Waalaxy, Clearout, Starnus, MailGenius
 
 Industry or pain line > track record with named clients > "we can do the same for you" > ten minute ask
 
@@ -305,7 +305,7 @@ Reference a real post of theirs > a stage-specific observation > a genuine quest
 
 - A founder-to-founder tone. It starts a conversation and asks for no meeting.
 
-## 54. Audit or gap finding | Count: 25 | Source: Smartlead, LeadsMonky, HubSpot, Proposify, Saleshandy, SmartReach, Salesforge, Reachly, BluLeadz, LeadGibbon
+## 54. Audit or gap finding | Count: 27 | Source: Smartlead, LeadsMonky, HubSpot, Proposify, Saleshandy, SmartReach, Salesforge, Reachly, BluLeadz, LeadGibbon, MailGenius
 
 A specific finding from a quick check of their ads, content or site > proof you fixed something similar > offer the full findings in a short call
 
@@ -335,7 +335,7 @@ A friendly opener > "I have an idea I can explain in 10 minutes" tied to a concr
 
 - SmartWriter says this one reportedly drew a 57% open rate and a 21% response rate (unverified). It needs a real idea and a real result.
 
-## 60. Three-sentence email | Count: 4 | Source: SmartWriter, HubSpot, Breakcold, Datalane
+## 60. Three-sentence email | Count: 5 | Source: SmartWriter, HubSpot, Breakcold, Datalane, MailGenius
 
 Who you are and that you will be quick > what you do for people like them > one small ask
 
@@ -573,7 +573,7 @@ Say you wanted to try a different approach > offer a smaller alternative (a shor
 
 For someone who registered but missed it: offer the single best five-minute clip instead of the full recording > a link to the full version > ask if it is worth a watch
 
-## 102. Permission to share an idea | Count: 6 | Source: Saleshandy, TextMagic
+## 102. Permission to share an idea | Count: 9 | Source: Saleshandy, TextMagic, MailGenius
 
 Say you looked at something specific about their work > name a problem teams like theirs hit > say you helped a similar team > ask if it would be useful to share the idea in a short reply
 
@@ -637,7 +637,7 @@ Say you saw their content on the topic > list the concrete terms (rate, bonus, r
 
 - Keep terms real and checkable.
 
-## 114. Curiosity-gap question | Count: 1 | Source: Breakcold
+## 114. Curiosity-gap question | Count: 2 | Source: Breakcold, MailGenius
 
 Say you noticed they are not using a type of solution and ask why, out of genuine curiosity > say you run a related business and like to learn how others choose > no pitch
 
@@ -665,7 +665,7 @@ Name a specific employee who is helping them grow > ask a question tied to what 
 
 Say you are growing a community for a specific audience > its size and three topics members share > one link to join
 
-## 119. Casual one-liner pitch | Count: 2 | Source: Breakcold, Starnus
+## 119. Casual one-liner pitch | Count: 3 | Source: Breakcold, Starnus, MailGenius
 
 "Not sure this is for you, but I figured I would ask" > one line on what you are building and an example > a short question
 
@@ -976,6 +976,12 @@ Ask what a specific lift would mean for their revenue or output > a short call w
 Say you both commented on the same public post and tie it to your pitch
 
 - A shared comment thread is not a real mutual contact. Use a real referrer or skip it.
+
+## 171. Pattern-interrupt admission | Count: 1 | Source: MailGenius
+
+Say you were about to send the usual pitch and that it would waste their time > one real observation > an easier way > ask if they want to see the idea
+
+- Only works if the next line is specific. Avoid gimmicks, odd formatting and cryptic subjects.
 
 ## Sequences and cadence
 

@@ -1027,3 +1027,30 @@ I put together a one-page checklist of the ones I'd have first. No ask, I though
 [Your name]
 
 **Why it works:** the trigger is real and timely, the asset is small and useful, and nothing is requested. Only claim what the checklist actually does.
+
+---
+
+## Example 39: A freelance copywriter with a pattern-interrupt note
+
+**Prospect:** A small business owner with a weak website page
+**Psychology:** self-aware honesty, a real observation, permission to share
+**Pattern from:** MailGenius (#039), the pattern interrupt
+
+**Subject options**
+1. should I leave this alone?
+2. your pricing page, one note
+3. a small idea for [Company]
+
+**Email**
+
+Hi [First name],
+
+I was going to send the usual "I help businesses with their copy" email, and that seemed like a waste of your time.
+
+Instead: your pricing page lists three plans but never says which one most customers pick. That is usually an easy fix.
+
+Open to seeing a rewritten version of that one section?
+
+[Your name]
+
+**Why it works:** the opener is honest, the observation is checkable, and the ask is small. Make sure the observation is true before you send.

@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 96 (Clay, Apollo, Salesloft, Woodpecker). Woodpecker counts are approximate.
+Emails analyzed so far: 113 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo). Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 | Source: Clay
 
@@ -25,7 +25,7 @@ Observation about their site > "have you considered these?" question > three ide
 - Best for: agencies, tools and services where you can show what you would do for them.
 - Weak when: the ideas are generic or do not fit their business.
 
-## 4. Event hook | Count: 1 | Source: Apollo
+## 4. Event hook | Count: 2 | Source: Apollo, ZoomInfo
 
 Recent event > the challenge it likely creates > peer result > short call ask
 
@@ -35,7 +35,7 @@ Recent event > the challenge it likely creates > peer result > short call ask
 
 Observation > peer who faced the same issue and the result > hint at a different approach > time-boxed call ask
 
-## 6. Peer benchmark | Count: 1 | Source: Apollo
+## 6. Peer benchmark | Count: 2 | Source: Apollo, ZoomInfo
 
 Peer result > note that the method is unusual for the industry > link to the prospect's goal > offer a short breakdown
 
@@ -47,7 +47,7 @@ Trend > what most companies do > a better way > peer result > curiosity question
 
 - Needs real expertise and a real result, or the contrarian line sounds empty.
 
-## 8. Referral | Count: 1 | Source: Apollo
+## 8. Referral | Count: 2 | Source: Apollo, ZoomInfo
 
 Mutual contact > outcome achieved > fit with their goal > short call ask
 
@@ -61,13 +61,13 @@ Their initiative > peer story > the insight written inline > "could this work fo
 
 - Best when you can fit a real insight in two sentences.
 
-## 11. Resource share | Count: 1 | Source: Salesloft
+## 11. Resource share | Count: 2 | Source: Salesloft, ZoomInfo
 
 Fresh resource and why you are sending it > how it connects to their pain > open offer of more help
 
 - No hard ask, so it works as a relationship starter. Put the insight in the email or a link, not an attachment. Add one small question to invite a reply.
 
-## 12. Case study first | Count: 1 | Source: Salesloft
+## 12. Case study first | Count: 2 | Source: Salesloft, ZoomInfo
 
 Customer result with a link > another win with the same customer > ask for a call with two named days
 
@@ -85,7 +85,7 @@ Specific compliment about something they made > mutual contact > a couple of ide
 
 - Needs a real piece of their content and a real mutual contact.
 
-## 15. AIDA | Count: 2 | Source: Salesloft, Woodpecker
+## 15. AIDA | Count: 3 | Source: Salesloft, Woodpecker, ZoomInfo
 
 Attention (subject) > Interest (their post or news) > Desire (shared roadblock plus research) > Action (one CTA)
 
@@ -121,19 +121,19 @@ Subject > Personalized opener > Problem > Observation or value > Call to action
 
 - The shared skeleton behind every Woodpecker template (69 of 75 use all five blocks). A good base to build from, but it makes emails look alike, so the opener and observation must be genuinely specific.
 
-## 21. Follow-up reminder | Count: 26 | Source: Woodpecker
+## 21. Follow-up reminder | Count: 27 | Source: Woodpecker, ZoomInfo
 
 One line referencing the earlier email > restate or add one reason > one ask
 
 - Best for: a second or third touch. Keep it under about 80 words and bring something new (a fresh reason, a short resource), not just "checking in".
 
-## 22. PAS (problem, agitate, solution) | Count: 3 | Source: Woodpecker
+## 22. PAS (problem, agitate, solution) | Count: 4 | Source: Woodpecker, ZoomInfo
 
 Pain question > deepen the cost of the pain > present the fix with proof > ask to click or chat
 
 - Best for: pains the prospect already feels. Avoid guarantees and insulting framing.
 
-## 23. Before-After-Bridge | Count: 2 | Source: Woodpecker
+## 23. Before-After-Bridge | Count: 3 | Source: Woodpecker, ZoomInfo
 
 Describe the current problem > picture the better result > bridge with how you get there > light question
 
@@ -179,9 +179,63 @@ Who you are > what you noticed about them > a small coffee, chat or connect ask
 
 To candidates: profile or role trigger > why it fits > a few reasons > time ask. To employers: open role seen > proof and candidates on file > call ask.
 
-## 32. Wrong-person breakup | Count: 1 | Source: Woodpecker
+## 32. Right-person redirect | Count: 2 | Source: Woodpecker, ZoomInfo
 
-Light apology for a possible wrong address > ask who the right contact is > keep the offer open
+Say you are trying to reach whoever handles [area] > ask if that is them or someone else > one line of context with proof > thank them for the pointer
+
+## 33. Standard intro | Count: 1 | Source: ZoomInfo
+
+Trigger event > the challenge companies in their position usually face > what you do and for whom > "worth a conversation?"
+
+- A three-sentence base. Needs a real trigger, or it reads as generic.
+
+## 34. Competitor mention | Count: 1 | Source: ZoomInfo
+
+Observed tool they use today > why others switched > a similar company's result > interest check
+
+- Do not attack the competitor. Needs a real differentiator and a real switch story.
+
+## 35. No-ask outreach | Count: 2 | Source: ZoomInfo
+
+Specific compliment or observation > who you work with on the topic > offer to compare notes > state plainly that you ask for nothing
+
+- Good for high-value accounts. Builds goodwill, but expect low replies. Follow up later with a real ask.
+
+## 36. Valuable resource with inline findings | Count: 1 | Source: ZoomInfo
+
+What you published and the data behind it > three key findings in the email > why it fits their initiative > link, no ask
+
+- Putting the findings in the email makes it useful even if they never click.
+
+## 37. LinkedIn connection follow-up | Count: 1 | Source: ZoomInfo
+
+Thanks for connecting > one detail from their profile or company > what you do plus a proof point > 15 minute ask
+
+## 38. Assume-not-a-priority breakup | Count: 2 | Source: ZoomInfo
+
+Say you reached out a few times > assume it is not a priority and stop > invite a reply if that assumption is wrong
+
+- Warns of the last message, which can lift replies. Avoid fake "close your file" gimmicks if they feel manipulative.
+
+## 39. Demo booking | Count: 1 | Source: ZoomInfo
+
+Specific pain for their role and company size > how you fix it > ask for a short demo framed as a solution preview
+
+- Works when the pain is real and the demo is short. A vague claim like "significantly" weakens it, so give a real number.
+
+## 40. Match the template to the buyer stage | Count: 1 | Source: ZoomInfo
+
+- Unaware: valuable resource or no-ask email, to educate and build trust.
+- Problem-aware: PAS or recent event, to highlight the pain.
+- Solution-aware: social proof or case study, to prove you can solve it.
+- Evaluating options: competitor mention or AIDA, to differentiate and drive action.
+
+## 41. Personalization tiers | Count: 1 | Source: ZoomInfo
+
+- Tier 1: merge fields (name, company, role).
+- Tier 2: a trigger-event line (funding, job change, published content).
+- Tier 3: deep research (a pain point you uncovered, a mutual connection, news about their team).
+- Move even part of your list to Tier 2 or 3. Match the effort to the value of the account.
 
 ## Sequences and cadence
 
@@ -194,3 +248,5 @@ Light apology for a possible wrong address > ask who the right contact is > keep
 - Small list (a few thousand): about one useful email a month, and mix in other channels. Each email should help even if they are not ready to buy.
 
 **Multichannel follow-up | Count: 1 | Salesloft.** If a call goes unanswered, send an email that references the voicemail. Also follow up after connecting on LinkedIn or social media.
+
+**Follow-up volume and timing | Count: 1 | ZoomInfo.** Plan three to five follow-ups a few days apart before sending the first email. Each follow-up should add a new angle or value, and most replies arrive after the second or third touch. Weekday mornings (8 to 10 AM in the prospect's time zone) are suggested, which matches Apollo's advice. ZoomInfo also suggests keeping emails under about 150 words and testing subject lines and body copy as separate variables.

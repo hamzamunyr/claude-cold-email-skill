@@ -18,6 +18,9 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] No guilt, pressure or assumptive lines (for example, telling them they owe it to themselves, or assuming they surely have time)
 - [ ] No guarantees or unbacked promises ("guaranteed results")
 - [ ] No rumor-style openers about the prospect unless the fact is verifiable
+- [ ] No section labels left in the email ("Attention:", "Problem:", "Bridge:"). Framework labels are for you, not the reader
+- [ ] The subject is not a fake "Re:" or "Fwd:" prefix, and avoids spam trigger words ("free", "guaranteed", "act now")
+- [ ] Plain text, no heavy formatting or images in the first email
 - [ ] No attachments on the first touch
 - [ ] No feature lists or pricing details in a first cold email
 - [ ] Plain, conversational words. No jargon or hype words ("game changer", "revolutionary")

@@ -148,3 +148,30 @@ Want details on any of them?
 [Your name]
 
 **Why it works:** the shortlist proves effort and relevance, the "tell me which is a no" ask is easy to answer, and the reply gives you what you need to improve the list.
+
+---
+
+## Example 6: Security training provider for a law firm IT lead
+
+**Prospect:** IT or operations manager at a mid-size law firm
+**Psychology:** no-ask framing, specificity (a real detail about their firm), authority (original findings), reciprocity
+**Pattern from:** ZoomInfo (#005), no-ask outreach
+
+**Subject options**
+1. impressed by [Firm]'s client portal
+2. a note on [Firm]'s portal rollout
+3. [First name], no ask
+
+**Email**
+
+Hi [First name],
+
+I read about [Firm]'s new client portal and liked [specific detail you actually noticed].
+
+Firms that open a portal to clients often run into [specific, real risk]. We work with firms like [real client, if permitted] on this, and I put together a one-page summary of what we see most often.
+
+No ask. If it would help, reply "send it" and I'll forward it.
+
+[Your name]
+
+**Why it works:** the compliment is specific, the free summary gives value first, and saying "no ask" keeps pressure low. The tiny reply keeps a door open without a meeting request.

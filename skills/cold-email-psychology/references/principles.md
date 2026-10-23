@@ -1,40 +1,41 @@
 # Psychology Principles
 
-Listed by frequency across analyzed emails (final ranking and cleanup happen at FINALIZE). Counts go up whenever another email uses the pattern. Emails analyzed so far: 113 (6 Clay, 6 Apollo, 9 Salesloft, 75 Woodpecker, 17 ZoomInfo).
+Listed by frequency across analyzed emails (final ranking and cleanup happen at FINALIZE). Counts go up whenever another email uses the pattern. Emails analyzed so far: 116 (6 Clay, 6 Apollo, 9 Salesloft, 75 Woodpecker, 17 ZoomInfo, 3 Coursera).
 
 | Rank | Principle | Count | Sources |
 |---|---|---|---|
-| 1 | Effort reduction (short, one idea per sentence) | 90 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo |
-| 2 | Specificity (observed trigger plus concrete details) | 62 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo |
-| 3 | Commitment minimization (low-friction, time-boxed ask) | 53 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo |
-| 4 | Social proof (named or similar company, bandwagon, testimonials) | 45 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo |
+| 1 | Effort reduction (short, one idea per sentence) | 93 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera |
+| 2 | Specificity (observed trigger plus concrete details) | 65 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera |
+| 3 | Commitment minimization (low-friction, time-boxed ask) | 56 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera |
+| 4 | Social proof (named or similar company, bandwagon, testimonials) | 46 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera |
 | 5 | Curiosity gap (including question subjects) | 40 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo |
-| 6 | Reciprocity (value before ask) | 35 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo |
+| 6 | Reciprocity (value before ask) | 36 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera |
 | 7 | Consistency (reference a prior touch) | 31 | Salesloft, Woodpecker, ZoomInfo |
 | 8 | Authority (association, expertise, original data, experience) | 14 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo |
-| 9 | Scarcity and urgency | 11 | Woodpecker, ZoomInfo |
+| 9 | Scarcity and urgency | 12 | Woodpecker, ZoomInfo, Coursera |
 | 10 | Unique mechanism (one claim competitors cannot make) | 10 | Clay, Apollo, ZoomInfo |
 | 11 | Problem agitation | 9 | Woodpecker, ZoomInfo |
 | 12 | Loss aversion (cost of inaction) | 9 | Clay, Apollo, ZoomInfo |
-| 13 | Liking through a specific compliment | 8 | Salesloft, Woodpecker, ZoomInfo |
+| 13 | Liking through a specific compliment | 9 | Salesloft, Woodpecker, ZoomInfo, Coursera |
 | 14 | Empathy (name the feeling) | 7 | Woodpecker |
 | 15 | Easy exit (breakup, wrong-person check, polite out) | 7 | Clay, Apollo, Woodpecker, ZoomInfo |
 | 16 | Self-aware honesty (acknowledge the interruption) | 7 | Woodpecker, ZoomInfo |
-| 17 | Borrowed trust (referral or mutual contact) | 6 | Apollo, Salesloft, Woodpecker, ZoomInfo |
+| 17 | Borrowed trust (referral or mutual contact) | 7 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera |
 | 18 | Competitive comparison (peer benchmark) | 5 | Apollo, Salesloft, ZoomInfo |
-| 19 | Contrarian angle (common approach is weak) | 3 | Apollo |
-| 20 | Similarity (shared role or interest) | 3 | Woodpecker |
-| 21 | Quantified benefit | 3 | Woodpecker |
+| 19 | Quantified benefit | 4 | Woodpecker, Coursera |
+| 20 | Contrarian angle (common approach is weak) | 3 | Apollo |
+| 21 | Similarity (shared role or interest) | 3 | Woodpecker |
 | 22 | Assumptive close (risky, use with care) | 3 | Woodpecker |
-| 23 | Forced choice (two specific options) | 2 | Salesloft |
-| 24 | Normalization (shared problem) | 2 | Salesloft |
-| 25 | Reminder of prior interest | 2 | Woodpecker |
-| 26 | Intent signal (they visited or downloaded) | 2 | Salesloft, ZoomInfo |
+| 23 | Normalization (shared problem) | 3 | Salesloft, Coursera |
+| 24 | Intent signal (they visited or downloaded) | 3 | Salesloft, ZoomInfo, Coursera |
+| 25 | Forced choice (two specific options) | 2 | Salesloft |
+| 26 | Reminder of prior interest | 2 | Woodpecker |
 | 27 | No-ask framing (say outright that you want nothing) | 2 | ZoomInfo |
-| 28 | Personal video (humanization) | 1 | Salesloft |
-| 29 | No-oriented question (a "no" is easy to give) | 1 | Salesloft |
-| 30 | Price transparency | 1 | Salesloft |
-| 31 | Topical hook (ride a subject they already care about) | 1 | Clay |
+| 28 | Convenience and accommodation (offer to come to them, flexible times) | 2 | Coursera |
+| 29 | Personal video (humanization) | 1 | Salesloft |
+| 30 | No-oriented question (a "no" is easy to give) | 1 | Salesloft |
+| 31 | Price transparency | 1 | Salesloft |
+| 32 | Topical hook (ride a subject they already care about) | 1 | Clay |
 
 Counts are a judgment call per email, and the Woodpecker counts are approximate. Woodpecker templates are generic and many are warm follow-ups, so treat its principles as weaker evidence than a real campaign result. None of the four sources gives results for individual emails.
 
@@ -97,6 +98,8 @@ Counts are a judgment call per email, and the Woodpecker counts are approximate.
 **No-oriented question.** A question where "no" is the easy, safe answer can lower resistance. Keep the wording simple to avoid double negatives.
 
 **Price transparency.** Be open about pricing when the buyer is already evaluating. It builds trust but is too much for a first cold email.
+
+**Convenience and accommodation.** Make saying yes easy by offering to come to them or work around their schedule ("I will be in your city next week", "any time that suits you"). Tie it to a real reason, such as a trip you are actually taking.
 
 **No-ask framing.** Say plainly that you want nothing in return. It removes pressure and positions you as a resource. Pair it with a specific compliment or useful finding, and follow up later with a real ask.
 

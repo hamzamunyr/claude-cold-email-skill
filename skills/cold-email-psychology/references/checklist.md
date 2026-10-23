@@ -21,6 +21,8 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] No section labels left in the email ("Attention:", "Problem:", "Bridge:"). Framework labels are for you, not the reader
 - [ ] The subject is not a fake "Re:" or "Fwd:" prefix, and avoids spam trigger words ("free", "guaranteed", "act now")
 - [ ] Plain text, no heavy formatting or images in the first email
+- [ ] If a pre-header is used, it holds a real insight or statistic, not a repeat of the subject
+- [ ] Any number in the subject or body (percent saved, results) is real and provable
 - [ ] No attachments on the first touch
 - [ ] No feature lists or pricing details in a first cold email
 - [ ] Plain, conversational words. No jargon or hype words ("game changer", "revolutionary")

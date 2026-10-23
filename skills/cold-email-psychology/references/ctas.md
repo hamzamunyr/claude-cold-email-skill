@@ -1,12 +1,12 @@
 # Calls to Action
 
-Emails analyzed so far: 113 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo). Woodpecker counts are approximate.
+Emails analyzed so far: 116 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera). Woodpecker counts are approximate.
 
 | CTA type | Example shape | When it works | Count | Sources |
 |---|---|---|---|---|
-| Open call or meeting ask | "Do you have time this week to talk?" | Warm leads, senior prospects, strong proof. Higher friction | 30 | Apollo, Salesloft, Woodpecker |
+| Open call or meeting ask | "Do you have time this week to talk?" | Warm leads, senior prospects, strong proof. Higher friction | 31 | Apollo, Salesloft, Woodpecker, Coursera |
 | Interest check | "If I could help with [problem], would that be useful?" or "Could this work for [company]?" | Cold first touch. Best default | 13 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo |
-| Short call ask (time-boxed) | "Can we do a 10 minute call?" | Value is clear and the prospect is senior. Name the duration | 19 | Apollo, Salesloft, Woodpecker, ZoomInfo |
+| Short call ask (time-boxed) | "Can we do a 10 minute call?" | Value is clear and the prospect is senior. Name the duration | 21 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera |
 | Register or click a link | "Use the link below to save your place" | Event or session invites, trials, sign-ups | 12 | Woodpecker |
 | Short asset offer | "Can I send a short video, breakdown, case study or menu?" | You have something quick to show. Lowest friction | 5 | Clay, Apollo, Woodpecker |
 | Calendar link | A link to book a time | After interest is shown, or for recruiter office hours | 6 | Apollo, Woodpecker |

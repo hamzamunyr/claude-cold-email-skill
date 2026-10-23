@@ -1,6 +1,6 @@
 # Hooks and Subject Lines
 
-Emails analyzed so far: 113 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo). Woodpecker counts are approximate.
+Emails analyzed so far: 116 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera). Woodpecker counts are approximate.
 
 ## Opening line patterns
 
@@ -8,14 +8,14 @@ Emails analyzed so far: 113 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo). Woo
 |---|---|---|---|
 | Prior touch hook | "Following up on my last email about [topic]" plus one new reason | 30 | Salesloft, Woodpecker, ZoomInfo |
 | Job posting or open role hook | Reference an open role or hiring post that points at a problem you solve | 7 | Clay, Woodpecker |
-| Trigger event plus insight | "I noticed [event]. In my experience that usually means [insight]." | 7 | Clay, Apollo, Woodpecker, ZoomInfo |
+| Trigger event plus insight | "I noticed [event]. In my experience that usually means [insight]." | 8 | Clay, Apollo, Woodpecker, ZoomInfo, Coursera |
 | Empathy opener | Name the frustration first ("I know a stalled listing is frustrating") | 6 | Woodpecker |
 | Pain question opener | Start with a question about the problem they live with | 5 | Woodpecker |
 | Milestone congrats hook | Congratulate on a sale, purchase, graduation or achievement, then tie to the next step | 4 | Woodpecker |
 | Headcount growth hook | Mention a visible team expansion and ask how they will handle the next step | 2 | Clay |
 | Website visit hook | "I looked through your site and put together a few ideas" | 2 | Clay |
 | Peer result hook | Lead with a similar company's or customer's result and tie it to their goal | 5 | Apollo, Salesloft, ZoomInfo |
-| Mutual connection hook | Open with a real shared contact and an outcome | 6 | Apollo, Salesloft, Woodpecker, ZoomInfo |
+| Mutual connection hook | Open with a real shared contact and an outcome | 7 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera |
 | LinkedIn post or profile hook | Refer to a specific post or profile detail, then tie it to a shared roadblock or fit | 6 | Salesloft, Woodpecker |
 | Shared event or meeting hook | Refer to an event you both attend or a place you met | 3 | Woodpecker |
 | Self-aware opener | Acknowledge the interruption in one light line ("you probably get a lot of these") | 3 | Woodpecker |
@@ -25,7 +25,7 @@ Emails analyzed so far: 113 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo). Woo
 | Industry trend hook | Name a trend or market change affecting their market, then say the usual response falls short | 2 | Apollo, Woodpecker |
 | Visitor hook | Acknowledge that they visited or downloaded from you, then offer a next step | 1 | Salesloft |
 | Thank-you response hook | Thank them for a demo request or trial signup and give the next step | 2 | Woodpecker |
-| Podcast or content compliment | Praise a specific episode or piece, then bridge to an idea | 2 | Salesloft, ZoomInfo |
+| Podcast or content compliment | Praise a specific episode or piece, then bridge to an idea | 3 | Salesloft, ZoomInfo, Coursera |
 | Company page hook | Refer to something seen on their LinkedIn or company page, then ask a question | 1 | Clay |
 | Shared-problem opener | "Many people in your role struggle with [specific problem]" | 3 | Salesloft, ZoomInfo |
 | Fresh resource hook | "We just got [new data]. Thought it could help with [their pain]" | 1 | Salesloft |
@@ -33,6 +33,8 @@ Emails analyzed so far: 113 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo). Woo
 | New role hook | Congratulate on a new role, then tie it to a hiring signal | 1 | Clay |
 | Competitor or tech-stack hook | Mention the tool they use today and why others switched | 1 | ZoomInfo |
 | Connection accepted hook | Thank them for connecting and cite one detail from their profile | 1 | ZoomInfo |
+| Travel or proximity hook | Say you will be in their city soon and offer a short in-person meeting | 1 | Coursera |
+| Public statement hook | Refer to something they said publicly about a need, then offer help | 1 | Coursera |
 
 Rule: the first line is about the prospect, not you. Skip empty openers ("hope you're well", "I know you're busy", "I found you on LinkedIn"). Vague observations feel weaker than specific ones. Avoid rumor-style openers (hearsay about the prospect) unless the fact is verifiable and the tone is kind.
 
@@ -70,5 +72,10 @@ Rule: the first line is about the prospect, not you. Skip empty openers ("hope y
 | Compliment | "Impressed by [specific achievement]" | 1 | ZoomInfo |
 | Thanks for connecting | "Thanks for connecting" | 1 | ZoomInfo |
 | Close-file breakup | "Should I close your file?" | 1 (last-chance framing, use with care) | ZoomInfo |
+| Topic label | "Video production partners" (plain noun phrase, low curiosity) | 1 | Coursera |
+| Quantified benefit subject | "Cut hiring costs by 30 percent" (only with a real, provable number) | 1 | Coursera |
+| Response to a stated need | "Response to your need for [service]" | 1 | Coursera |
 
-Guidelines (claims from Apollo, Salesloft and Woodpecker tips, not verified): around 7 words or under 50 characters, specific beats vague, a question can lift curiosity when it fits their real situation, company name helps, no punctuation tricks, no emojis, no hype or spam words ("free", "limited time", "revolutionary", "game-changing"). Woodpecker's own examples often break this, so do not copy them blindly.
+Pre-header (the preview line after the subject): Coursera suggests using it for a real industry insight or statistic, not a repeat of the subject.
+
+Guidelines (claims from Apollo, Salesloft, Woodpecker, ZoomInfo and Coursera, not verified): about 7 words or under 50 characters, specific beats vague, a question can lift curiosity when it fits their real situation, company name helps, no punctuation tricks, no emojis, no hype or spam words ("free", "limited time", "revolutionary", "game-changing"). Woodpecker's own examples often break this, so do not copy them blindly.

@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 113 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo). Woodpecker counts are approximate.
+Emails analyzed so far: 116 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera). Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 | Source: Clay
 
@@ -67,7 +67,7 @@ Fresh resource and why you are sending it > how it connects to their pain > open
 
 - No hard ask, so it works as a relationship starter. Put the insight in the email or a link, not an attachment. Add one small question to invite a reply.
 
-## 12. Case study first | Count: 2 | Source: Salesloft, ZoomInfo
+## 12. Case study first | Count: 3 | Source: Salesloft, ZoomInfo, Coursera
 
 Customer result with a link > another win with the same customer > ask for a call with two named days
 
@@ -79,7 +79,7 @@ Normalize the problem ("many people in your role struggle with X") > article or 
 
 - Works best when the problem is specific, not generic.
 
-## 14. Collaboration | Count: 1 | Source: Salesloft
+## 14. Collaboration | Count: 2 | Source: Salesloft, Coursera
 
 Specific compliment about something they made > mutual contact > a couple of ideas > short call ask
 
@@ -237,6 +237,18 @@ Specific pain for their role and company size > how you fix it > ask for a short
 - Tier 3: deep research (a pain point you uncovered, a mutual connection, news about their team).
 - Move even part of your list to Tier 2 or 3. Match the effort to the value of the account.
 
+## 42. Respond to a public need | Count: 1 | Source: Coursera
+
+Reference something they said publicly about a need > who you are and one shared link > the options you offer > ask for a quick chat
+
+- The public comment is a strong trigger. Keep it to a few short lines and do not attach a brochure.
+
+## 43. Quantified-benefit pitch | Count: 1 | Source: Coursera
+
+Subject with a benefit number > pre-header with a real insight > observation about them > what you do > case study link > 10 minute ask
+
+- Only use a number you can prove. Invented percentages in a subject line destroy trust.
+
 ## Sequences and cadence
 
 **Four-email sequence | Count: 1 | Clay.** Email 1: full pitch. Email 2: how it works. Email 3: change the angle. Email 4: breakup, ask who else should handle it.
@@ -248,5 +260,7 @@ Specific pain for their role and company size > how you fix it > ask for a short
 - Small list (a few thousand): about one useful email a month, and mix in other channels. Each email should help even if they are not ready to buy.
 
 **Multichannel follow-up | Count: 1 | Salesloft.** If a call goes unanswered, send an email that references the voicemail. Also follow up after connecting on LinkedIn or social media.
+
+**30/30/50 rule | Count: 1 | Coursera.** A rule of thumb that about 30 percent of success comes from researching the right audience, about 30 percent from the email's content and structure, and about 50 percent from following up. Coursera cites a Backlinko study saying follow-ups are about twice as likely to get a response as the first email (not verified here). It suggests following up about a week after the first email, and sending on weekday mornings.
 
 **Follow-up volume and timing | Count: 1 | ZoomInfo.** Plan three to five follow-ups a few days apart before sending the first email. Each follow-up should add a new angle or value, and most replies arrive after the second or third touch. Weekday mornings (8 to 10 AM in the prospect's time zone) are suggested, which matches Apollo's advice. ZoomInfo also suggests keeping emails under about 150 words and testing subject lines and body copy as separate variables.

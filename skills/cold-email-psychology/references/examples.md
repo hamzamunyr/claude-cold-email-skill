@@ -175,3 +175,28 @@ No ask. If it would help, reply "send it" and I'll forward it.
 [Your name]
 
 **Why it works:** the compliment is specific, the free summary gives value first, and saying "no ask" keeps pressure low. The tiny reply keeps a door open without a meeting request.
+
+---
+
+## Example 7: Podcast production studio for a newsletter writer
+
+**Prospect:** Writer behind an independent newsletter
+**Psychology:** liking (specific compliment), convenience (offer to come to them), time-bound reason (a real trip), commitment minimization, curiosity
+**Pattern from:** Coursera (#006), collaboration with a proximity hook
+
+**Subject options**
+1. coffee in [City] on [day]?
+2. from a longtime reader
+3. [Newsletter name], in audio
+
+**Email**
+
+Hi [First name],
+
+I've read [Newsletter name] for [real time period], especially your piece on [specific issue you actually read].
+
+I run a small podcast production studio and I'll be in [City] on [date]. If you're open to it, I'd love ten minutes over coffee to share two ideas for turning your newsletter into audio. I can meet wherever suits you.
+
+[Your name]
+
+**Why it works:** the compliment is specific and true, the trip gives a reason to ask now, and the offer to come to them keeps the effort for the reader low.

@@ -200,3 +200,30 @@ I run a small podcast production studio and I'll be in [City] on [date]. If you'
 [Your name]
 
 **Why it works:** the compliment is specific and true, the trip gives a reason to ask now, and the offer to come to them keeps the effort for the reader low.
+
+---
+
+## Example 8: Bookkeeping service for a local fitness studio
+
+**Prospect:** Owner of an independent fitness studio
+**Psychology:** specificity (a real detail from their site), unique value line, easy exit, commitment minimization
+**Pattern from:** FirstSales (#007), local business listing
+
+**Subject options**
+1. [Studio name] in [City]
+2. a note for [Studio name]
+3. quick question, [First name]
+
+**Email**
+
+Hi [First name],
+
+I came across [Studio name] while looking at fitness studios in [City]. [One real detail from their site, such as a new class time or a second room.]
+
+We help local studios keep their books current, usually without the owner catching up on weekends.
+
+Is it worth a quick call, or should I leave you to it?
+
+[Your name]
+
+**Why it works:** the place and the real detail show it was written for them, the value line names a chore they likely dislike, and the question gives them an easy way out as well as an easy way in.

@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 116 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera). Woodpecker counts are approximate.
+Emails analyzed so far: 124 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales). Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 | Source: Clay
 
@@ -121,7 +121,7 @@ Subject > Personalized opener > Problem > Observation or value > Call to action
 
 - The shared skeleton behind every Woodpecker template (69 of 75 use all five blocks). A good base to build from, but it makes emails look alike, so the opener and observation must be genuinely specific.
 
-## 21. Follow-up reminder | Count: 27 | Source: Woodpecker, ZoomInfo
+## 21. Follow-up reminder | Count: 28 | Source: Woodpecker, ZoomInfo, FirstSales
 
 One line referencing the earlier email > restate or add one reason > one ask
 
@@ -179,7 +179,7 @@ Who you are > what you noticed about them > a small coffee, chat or connect ask
 
 To candidates: profile or role trigger > why it fits > a few reasons > time ask. To employers: open role seen > proof and candidates on file > call ask.
 
-## 32. Right-person redirect | Count: 2 | Source: Woodpecker, ZoomInfo
+## 32. Right-person redirect | Count: 3 | Source: Woodpecker, ZoomInfo, FirstSales
 
 Say you are trying to reach whoever handles [area] > ask if that is them or someone else > one line of context with proof > thank them for the pointer
 
@@ -211,7 +211,7 @@ What you published and the data behind it > three key findings in the email > wh
 
 Thanks for connecting > one detail from their profile or company > what you do plus a proof point > 15 minute ask
 
-## 38. Assume-not-a-priority breakup | Count: 2 | Source: ZoomInfo
+## 38. Assume-not-a-priority breakup | Count: 3 | Source: ZoomInfo, FirstSales
 
 Say you reached out a few times > assume it is not a priority and stop > invite a reply if that assumption is wrong
 
@@ -249,6 +249,44 @@ Subject with a benefit number > pre-header with a real insight > observation abo
 
 - Only use a number you can prove. Invented percentages in a subject line destroy trust.
 
+## 44. Six-part anatomy | Count: 8 | Source: FirstSales
+
+Subject (short, plain, specific) > opening detail about them > why them (link the detail to a likely problem, one sentence) > what you do (one line, in their words) > one easy question > plain sign-off (just a name)
+
+- Every FirstSales template follows this shape. It doubles as a quick check for any email you write.
+
+## 45. One easy question | Count: 3 | Source: FirstSales
+
+One specific recent detail > "we help [type] get [one result] without [the usual chore]" > a yes-or-no question about whether they deal with the problem
+
+- The reader can answer in a word. Works as a first email when the goal is any reply.
+
+## 46. Meeting ask with two real times | Count: 1 | Source: FirstSales
+
+A reason you are writing to them and not everyone > what you do and one concrete change in the first month > 15 minutes with two named times
+
+## 47. Two-answer nudge | Count: 1 | Source: FirstSales
+
+Ask in two short lines whether the problem is on their list now, or whether you should return later
+
+- Both answers are a reply, and "later" tells you when to return.
+
+## 48. Local business listing | Count: 1 | Source: FirstSales
+
+Name the place and one real detail from their listing or site > "we help local [type] get [result]" > ask if a short chat is worthwhile or the timing is off
+
+## 49. Engagement signal | Count: 1 | Source: FirstSales
+
+You saw them engage with a post on [topic], and say you guessed it is on their mind > how you help in one sentence > offer to share how it works
+
+- Be honest about the signal, and keep it light. Tracking who liked what can feel invasive if the email sounds too knowing.
+
+## 50. Value statement formula | Count: 5 | Source: Apollo, FirstSales
+
+"We help [type of company] get [one result] without [the usual cost or chore]"
+
+- One line, in their words. Used as the "what you do" line in several templates.
+
 ## Sequences and cadence
 
 **Four-email sequence | Count: 1 | Clay.** Email 1: full pitch. Email 2: how it works. Email 3: change the angle. Email 4: breakup, ask who else should handle it.
@@ -264,3 +302,5 @@ Subject with a benefit number > pre-header with a real insight > observation abo
 **30/30/50 rule | Count: 1 | Coursera.** A rule of thumb that about 30 percent of success comes from researching the right audience, about 30 percent from the email's content and structure, and about 50 percent from following up. Coursera cites a Backlinko study saying follow-ups are about twice as likely to get a response as the first email (not verified here). It suggests following up about a week after the first email, and sending on weekday mornings.
 
 **Follow-up volume and timing | Count: 1 | ZoomInfo.** Plan three to five follow-ups a few days apart before sending the first email. Each follow-up should add a new angle or value, and most replies arrive after the second or third touch. Weekday mornings (8 to 10 AM in the prospect's time zone) are suggested, which matches Apollo's advice. ZoomInfo also suggests keeping emails under about 150 words and testing subject lines and body copy as separate variables.
+
+**Four-step sequence (days 0, 3, 7, 12) | Count: 1 | FirstSales.** Day 0: one easy question. Day 3: a follow-up with a new angle (a cost, a risk or time saved) and one line of proof you can back up. Day 7: a short nudge with two easy answers. Day 12: a polite last email that says you will stop. Plan the follow-ups when you write the first email, and stop the sequence as soon as the person replies or opts out. Change one thing at a time when testing (the subject or the ask, not both).

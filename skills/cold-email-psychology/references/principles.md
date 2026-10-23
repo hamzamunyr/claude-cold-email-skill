@@ -1,34 +1,34 @@
 # Psychology Principles
 
-Listed by frequency across analyzed emails (final ranking and cleanup happen at FINALIZE). Counts go up whenever another email uses the pattern. Emails analyzed so far: 116 (6 Clay, 6 Apollo, 9 Salesloft, 75 Woodpecker, 17 ZoomInfo, 3 Coursera).
+Listed by frequency across analyzed emails (final ranking and cleanup happen at FINALIZE). Counts go up whenever another email uses the pattern. Emails analyzed so far: 124 (6 Clay, 6 Apollo, 9 Salesloft, 75 Woodpecker, 17 ZoomInfo, 3 Coursera, 8 FirstSales).
 
 | Rank | Principle | Count | Sources |
 |---|---|---|---|
-| 1 | Effort reduction (short, one idea per sentence) | 93 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera |
-| 2 | Specificity (observed trigger plus concrete details) | 65 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera |
-| 3 | Commitment minimization (low-friction, time-boxed ask) | 56 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera |
-| 4 | Social proof (named or similar company, bandwagon, testimonials) | 46 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera |
-| 5 | Curiosity gap (including question subjects) | 40 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo |
+| 1 | Effort reduction (short, one idea per sentence) | 101 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales |
+| 2 | Specificity (observed trigger plus concrete details) | 70 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales |
+| 3 | Commitment minimization (low-friction, time-boxed ask) | 64 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales |
+| 4 | Social proof (named or similar company, bandwagon, testimonials) | 47 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales |
+| 5 | Curiosity gap (including question subjects) | 41 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, FirstSales |
 | 6 | Reciprocity (value before ask) | 36 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera |
-| 7 | Consistency (reference a prior touch) | 31 | Salesloft, Woodpecker, ZoomInfo |
+| 7 | Consistency (reference a prior touch) | 34 | Salesloft, Woodpecker, ZoomInfo, FirstSales |
 | 8 | Authority (association, expertise, original data, experience) | 14 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo |
 | 9 | Scarcity and urgency | 12 | Woodpecker, ZoomInfo, Coursera |
-| 10 | Unique mechanism (one claim competitors cannot make) | 10 | Clay, Apollo, ZoomInfo |
-| 11 | Problem agitation | 9 | Woodpecker, ZoomInfo |
-| 12 | Loss aversion (cost of inaction) | 9 | Clay, Apollo, ZoomInfo |
-| 13 | Liking through a specific compliment | 9 | Salesloft, Woodpecker, ZoomInfo, Coursera |
-| 14 | Empathy (name the feeling) | 7 | Woodpecker |
-| 15 | Easy exit (breakup, wrong-person check, polite out) | 7 | Clay, Apollo, Woodpecker, ZoomInfo |
-| 16 | Self-aware honesty (acknowledge the interruption) | 7 | Woodpecker, ZoomInfo |
+| 10 | Easy exit (breakup, wrong-person check, polite out) | 11 | Clay, Apollo, Woodpecker, ZoomInfo, FirstSales |
+| 11 | Unique mechanism (one claim competitors cannot make) | 10 | Clay, Apollo, ZoomInfo |
+| 12 | Problem agitation | 9 | Woodpecker, ZoomInfo |
+| 13 | Loss aversion (cost of inaction) | 9 | Clay, Apollo, ZoomInfo |
+| 14 | Liking through a specific compliment | 9 | Salesloft, Woodpecker, ZoomInfo, Coursera |
+| 15 | Self-aware honesty (acknowledge the interruption) | 9 | Woodpecker, ZoomInfo, FirstSales |
+| 16 | Empathy (name the feeling) | 7 | Woodpecker |
 | 17 | Borrowed trust (referral or mutual contact) | 7 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera |
 | 18 | Competitive comparison (peer benchmark) | 5 | Apollo, Salesloft, ZoomInfo |
 | 19 | Quantified benefit | 4 | Woodpecker, Coursera |
-| 20 | Contrarian angle (common approach is weak) | 3 | Apollo |
-| 21 | Similarity (shared role or interest) | 3 | Woodpecker |
-| 22 | Assumptive close (risky, use with care) | 3 | Woodpecker |
-| 23 | Normalization (shared problem) | 3 | Salesloft, Coursera |
-| 24 | Intent signal (they visited or downloaded) | 3 | Salesloft, ZoomInfo, Coursera |
-| 25 | Forced choice (two specific options) | 2 | Salesloft |
+| 20 | Intent signal (they visited or downloaded) | 4 | Salesloft, ZoomInfo, Coursera, FirstSales |
+| 21 | Forced choice (two specific options) | 4 | Salesloft, FirstSales |
+| 22 | Contrarian angle (common approach is weak) | 3 | Apollo |
+| 23 | Similarity (shared role or interest) | 3 | Woodpecker |
+| 24 | Assumptive close (risky, use with care) | 3 | Woodpecker |
+| 25 | Normalization (shared problem) | 3 | Salesloft, Coursera |
 | 26 | Reminder of prior interest | 2 | Woodpecker |
 | 27 | No-ask framing (say outright that you want nothing) | 2 | ZoomInfo |
 | 28 | Convenience and accommodation (offer to come to them, flexible times) | 2 | Coursera |

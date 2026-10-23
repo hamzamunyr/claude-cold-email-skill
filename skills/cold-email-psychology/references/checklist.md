@@ -19,10 +19,13 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] No guarantees or unbacked promises ("guaranteed results")
 - [ ] No rumor-style openers about the prospect unless the fact is verifiable
 - [ ] No section labels left in the email ("Attention:", "Problem:", "Bridge:"). Framework labels are for you, not the reader
-- [ ] The subject is not a fake "Re:" or "Fwd:" prefix, and avoids spam trigger words ("free", "guaranteed", "act now")
+- [ ] A follow-up is sent in the same thread. No fake "Re:" or "Fwd:" on a new message. The subject avoids spam trigger words ("free", "guaranteed", "act now")
 - [ ] Plain text, no heavy formatting or images in the first email
 - [ ] If a pre-header is used, it holds a real insight or statistic, not a repeat of the subject
 - [ ] Any number in the subject or body (percent saved, results) is real and provable
+- [ ] Every bracket is replaced with a true detail. Delete any line you cannot make true
+- [ ] The sign-off is just a name. No banners, images or long link blocks
+- [ ] The follow-ups are planned with the first email, and each adds something new
 - [ ] No attachments on the first touch
 - [ ] No feature lists or pricing details in a first cold email
 - [ ] Plain, conversational words. No jargon or hype words ("game changer", "revolutionary")

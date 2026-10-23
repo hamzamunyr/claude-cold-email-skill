@@ -96,7 +96,7 @@ Roughly 40 to 85 words each, plain words, polite and professional, reading level
 
 - **Generic.** Several templates share the same closing shape and the same peer-result line, so they feel alike.
 - **Labels left in.** AIDA, PAS and BAB templates show stage labels inside the email. Remove them before sending.
-- **Fake "Re:" subject.** The first follow-up uses a "Re:" subject on a thread the prospect never replied to. That can read as deceptive and hurt trust.
+- **"Re:" subject.** The first follow-up uses a "Re:" subject. That is normal when sent in the same thread as the first email, but deceptive if added to a new, unthreaded message.
 - **Vague claims.** The demo template promises to "significantly" cut sourcing time without a number, which weakens it.
 - **Gimmicky last-chance lines.** "Should I close your file?" is a known pattern but can feel manipulative or silly. A plain, honest close works better.
 - **Generic subjects.** A bare "Quick question" subject has no specific hook, which other sources in this repo warn against.

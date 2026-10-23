@@ -1,6 +1,6 @@
 # Hooks and Subject Lines
 
-Emails analyzed so far: 116 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera). Woodpecker counts are approximate.
+Emails analyzed so far: 124 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales). Woodpecker counts are approximate.
 
 ## Opening line patterns
 
@@ -8,7 +8,7 @@ Emails analyzed so far: 116 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Cour
 |---|---|---|---|
 | Prior touch hook | "Following up on my last email about [topic]" plus one new reason | 30 | Salesloft, Woodpecker, ZoomInfo |
 | Job posting or open role hook | Reference an open role or hiring post that points at a problem you solve | 7 | Clay, Woodpecker |
-| Trigger event plus insight | "I noticed [event]. In my experience that usually means [insight]." | 8 | Clay, Apollo, Woodpecker, ZoomInfo, Coursera |
+| Trigger event plus insight | "I noticed [event]. In my experience that usually means [insight]." | 9 | Clay, Apollo, Woodpecker, ZoomInfo, Coursera, FirstSales |
 | Empathy opener | Name the frustration first ("I know a stalled listing is frustrating") | 6 | Woodpecker |
 | Pain question opener | Start with a question about the problem they live with | 5 | Woodpecker |
 | Milestone congrats hook | Congratulate on a sale, purchase, graduation or achievement, then tie to the next step | 4 | Woodpecker |
@@ -35,6 +35,8 @@ Emails analyzed so far: 116 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Cour
 | Connection accepted hook | Thank them for connecting and cite one detail from their profile | 1 | ZoomInfo |
 | Travel or proximity hook | Say you will be in their city soon and offer a short in-person meeting | 1 | Coursera |
 | Public statement hook | Refer to something they said publicly about a need, then offer help | 1 | Coursera |
+| Engagement signal hook | Say you saw them engage with a post on [topic] and guess it is on their mind | 1 | FirstSales |
+| Local listing hook | Say you came across their business while looking at [type] in [city], plus one real detail from their listing or site | 1 | FirstSales |
 
 Rule: the first line is about the prospect, not you. Skip empty openers ("hope you're well", "I know you're busy", "I found you on LinkedIn"). Vague observations feel weaker than specific ones. Avoid rumor-style openers (hearsay about the prospect) unless the fact is verifiable and the tone is kind.
 
@@ -71,10 +73,16 @@ Rule: the first line is about the prospect, not you. Skip empty openers ("hope y
 | Hiring trigger | "Saw [Company] is hiring [role], quick thought" | 1 | ZoomInfo |
 | Compliment | "Impressed by [specific achievement]" | 1 | ZoomInfo |
 | Thanks for connecting | "Thanks for connecting" | 1 | ZoomInfo |
-| Close-file breakup | "Should I close your file?" | 1 (last-chance framing, use with care) | ZoomInfo |
+| Close-file breakup | "Should I close your file?" | 2 (last-chance framing, use with care) | ZoomInfo, FirstSales |
 | Topic label | "Video production partners" (plain noun phrase, low curiosity) | 1 | Coursera |
 | Quantified benefit subject | "Cut hiring costs by 30 percent" (only with a real, provable number) | 1 | Coursera |
 | Response to a stated need | "Response to your need for [service]" | 1 | Coursera |
+| Quick question with first name | "Quick question, [First name]" | 1 | FirstSales |
+| Company and result | "[Company] and [the result you deliver]" | 1 | FirstSales |
+| Right-person subject | "Who handles [area] at [Company]?" | 1 | FirstSales |
+| Same-thread follow-up | "Re: [your first subject]" (only when sent in the same thread) | 2 | FirstSales |
+| Signal reference | "That post on [topic]" | 1 | FirstSales |
+| Local place | "[Business name] in [City]" | 1 | FirstSales |
 
 Pre-header (the preview line after the subject): Coursera suggests using it for a real industry insight or statistic, not a repeat of the subject.
 

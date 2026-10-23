@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 12 (Clay, Apollo).
+Emails analyzed so far: 21 (Clay, Apollo, Salesloft).
 
 ## 1. Five-part first email | Count: 2 | Source: Clay
 
@@ -61,6 +61,60 @@ Their initiative > peer story > the insight written inline > "could this work fo
 
 - Best when you can fit a real insight in two sentences.
 
+## 11. Resource share | Count: 1 | Source: Salesloft
+
+Fresh resource and why you are sending it > how it connects to their pain > open offer of more help
+
+- No hard ask, so it works as a relationship starter. Put the insight in the email or a link, not an attachment. Add one small question to invite a reply.
+
+## 12. Case study first | Count: 1 | Source: Salesloft
+
+Customer result with a link > another win with the same customer > ask for a call with two named days
+
+- Needs a real customer and real numbers. Drop hype phrases like "game changer".
+
+## 13. Shared-problem icebreaker | Count: 1 | Source: Salesloft
+
+Normalize the problem ("many people in your role struggle with X") > article or resource > ask what they think
+
+- Works best when the problem is specific, not generic.
+
+## 14. Collaboration | Count: 1 | Source: Salesloft
+
+Specific compliment about something they made > mutual contact > a couple of ideas > short call ask
+
+- Needs a real piece of their content and a real mutual contact.
+
+## 15. AIDA | Count: 1 | Source: Salesloft
+
+Attention (subject) > Interest (their post or news) > Desire (shared roadblock plus research) > Action (one CTA)
+
+- Salesloft's version stacks three asks. Keep only one.
+
+## 16. Warm visitor video | Count: 1 | Source: Salesloft
+
+Acknowledge their interest > short intro video > teaser of what is next
+
+- Only for people who visited or downloaded. Add one clear small ask.
+
+## 17. Prior-touch follow-up | Count: 1 | Source: Salesloft
+
+Reference the voicemail, call or message > two specific time options
+
+- Very short. Add a reason to meet to lift replies.
+
+## 18. Demo recap | Count: 1 | Source: Salesloft
+
+Thanks > one-paragraph value summary > pricing and resources > open offer of more help
+
+- A warm-only pattern. Too long and detailed for a first cold email.
+
+## 19. Pain-point question | Count: 1 | Source: Salesloft
+
+Personalized line > question about their current process > peers are investing in this > no-oriented question about hearing how they use it
+
+- The personalized line carries everything. Without it the email is generic.
+
 ## Sequences and cadence
 
 **Four-email sequence | Count: 1 | Clay.** Email 1: full pitch. Email 2: how it works. Email 3: change the angle. Email 4: breakup, ask who else should handle it.
@@ -70,3 +124,5 @@ Their initiative > peer story > the insight written inline > "could this work fo
 **Cadence by list size | Count: 1 | Clay.**
 - Large list (tens of thousands): one or two emails inside a week, then rest 45 days or more.
 - Small list (a few thousand): about one useful email a month, and mix in other channels. Each email should help even if they are not ready to buy.
+
+**Multichannel follow-up | Count: 1 | Salesloft.** If a call goes unanswered, send an email that references the voicemail. Also follow up after connecting on LinkedIn or social media.

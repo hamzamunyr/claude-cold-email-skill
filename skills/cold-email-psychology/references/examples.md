@@ -90,3 +90,30 @@ It's a 2 minute read. Want me to send it over?
 [Your name]
 
 **Why it works:** the event proves attention, the peer result is relevant to their stage, and the ask is a short read, not a meeting.
+
+---
+
+## Example 4: Accounting firm for a construction company owner
+
+**Prospect:** Owner of a mid-size construction company
+**Psychology:** normalization (shared problem), reciprocity (useful resource), no-oriented question, effort reduction
+**Pattern from:** Salesloft (#003), shared-problem icebreaker with a resource
+
+**Subject options**
+1. job costing at [Company]
+2. a one-page checklist
+3. [First name], quick note
+
+**Email**
+
+Hi [First name],
+
+Most construction owners I talk with say tracking job costs eats more of their week than it should.
+
+I put together a one-page checklist on how similar firms catch cost overruns early: [link]. No signup needed.
+
+Would you be against me sending a version tailored to [Company]?
+
+[Your name]
+
+**Why it works:** naming a common problem makes it easy to admit, the checklist gives value first, and a question where "no" is the safe answer keeps pressure low.

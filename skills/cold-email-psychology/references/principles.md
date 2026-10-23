@@ -1,43 +1,43 @@
 # Psychology Principles
 
-Listed by frequency across analyzed emails (final ranking and cleanup happen at FINALIZE). Counts go up whenever another email uses the pattern. Emails analyzed so far: 191 (6 Clay, 6 Apollo, 9 Salesloft, 75 Woodpecker, 17 ZoomInfo, 3 Coursera, 8 FirstSales, 19 Smartlead, 21 SmartWriter, 15 Cognism, 12 LeadsMonky).
+Listed by frequency across analyzed emails (final ranking and cleanup happen at FINALIZE). Counts go up whenever another email uses the pattern. Emails analyzed so far: 206 (6 Clay, 6 Apollo, 9 Salesloft, 75 Woodpecker, 17 ZoomInfo, 3 Coursera, 8 FirstSales, 19 Smartlead, 21 SmartWriter, 15 Cognism, 12 LeadsMonky, 15 Warmupinbox).
 
 | Rank | Principle | Count | Sources |
 |---|---|---|---|
-| 1 | Effort reduction (short, one idea per sentence) | 164 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky |
-| 2 | Commitment minimization (low-friction, time-boxed ask) | 118 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky |
-| 3 | Specificity (observed trigger plus concrete details) | 113 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky |
-| 4 | Social proof (named or similar company, bandwagon, testimonials) | 71 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky |
-| 5 | Curiosity gap (including question subjects) | 60 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky |
-| 6 | Reciprocity (value before ask) | 60 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, LeadsMonky |
-| 7 | Consistency (reference a prior touch) | 48 | Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky |
-| 8 | Easy exit (breakup, wrong-person check, polite out) | 24 | Clay, Apollo, Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky |
-| 9 | Quantified benefit | 23 | Woodpecker, Coursera, Smartlead, SmartWriter, Cognism, LeadsMonky |
-| 10 | Liking through a specific compliment | 21 | Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, LeadsMonky |
+| 1 | Effort reduction (short, one idea per sentence) | 178 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox |
+| 2 | Commitment minimization (low-friction, time-boxed ask) | 126 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox |
+| 3 | Specificity (observed trigger plus concrete details) | 121 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox |
+| 4 | Social proof (named or similar company, bandwagon, testimonials) | 78 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox |
+| 5 | Reciprocity (value before ask) | 65 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox |
+| 6 | Curiosity gap (including question subjects) | 64 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox |
+| 7 | Consistency (reference a prior touch) | 49 | Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox |
+| 8 | Liking through a specific compliment | 27 | Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox |
+| 9 | Easy exit (breakup, wrong-person check, polite out) | 26 | Clay, Apollo, Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox |
+| 10 | Quantified benefit | 26 | Woodpecker, Coursera, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox |
 | 11 | Authority (association, expertise, original data, experience) | 19 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, SmartWriter, Cognism |
 | 12 | Self-aware honesty (acknowledge the interruption) | 18 | Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky |
-| 13 | Problem agitation | 16 | Woodpecker, ZoomInfo, SmartWriter, Cognism, LeadsMonky |
-| 14 | Competitive comparison (peer benchmark) | 16 | Apollo, Salesloft, ZoomInfo, Smartlead, SmartWriter, Cognism, LeadsMonky |
-| 15 | Unique mechanism (one claim competitors cannot make) | 13 | Clay, Apollo, ZoomInfo, Smartlead, SmartWriter |
-| 16 | Scarcity and urgency | 13 | Woodpecker, ZoomInfo, Coursera, LeadsMonky |
-| 17 | Empathy (name the feeling) | 12 | Woodpecker, Smartlead, SmartWriter, Cognism |
-| 18 | Loss aversion (cost of inaction) | 11 | Clay, Apollo, ZoomInfo, Smartlead |
-| 19 | Borrowed trust (referral or mutual contact) | 11 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism |
-| 20 | Forced choice (two specific options) | 11 | Salesloft, FirstSales, Smartlead, SmartWriter, Cognism |
+| 13 | Problem agitation | 17 | Woodpecker, ZoomInfo, SmartWriter, Cognism, LeadsMonky, Warmupinbox |
+| 14 | Competitive comparison (peer benchmark) | 17 | Apollo, Salesloft, ZoomInfo, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox |
+| 15 | Unique mechanism (one claim competitors cannot make) | 14 | Clay, Apollo, ZoomInfo, Smartlead, SmartWriter, Warmupinbox |
+| 16 | Forced choice (two specific options) | 14 | Salesloft, FirstSales, Smartlead, SmartWriter, Cognism, Warmupinbox |
+| 17 | Scarcity and urgency | 13 | Woodpecker, ZoomInfo, Coursera, LeadsMonky |
+| 18 | Empathy (name the feeling) | 13 | Woodpecker, Smartlead, SmartWriter, Cognism, Warmupinbox |
+| 19 | Loss aversion (cost of inaction) | 11 | Clay, Apollo, ZoomInfo, Smartlead |
+| 20 | Borrowed trust (referral or mutual contact) | 11 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism |
 | 21 | Intent signal (they visited or downloaded) | 7 | Salesloft, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter |
 | 22 | Contrarian angle (common approach is weak) | 4 | Apollo, SmartWriter |
 | 23 | Similarity (shared role or interest) | 4 | Woodpecker, Cognism |
-| 24 | Assumptive close (risky, use with care) | 3 | Woodpecker |
-| 25 | Normalization (shared problem) | 3 | Salesloft, Coursera |
-| 26 | Reminder of prior interest | 2 | Woodpecker |
-| 27 | No-ask framing (say outright that you want nothing) | 2 | ZoomInfo |
-| 28 | Convenience and accommodation (offer to come to them, flexible times) | 2 | Coursera |
-| 29 | Exclusivity (confidential or selective opportunity) | 2 | Smartlead, SmartWriter |
-| 30 | Personal video (humanization) | 1 | Salesloft |
-| 31 | No-oriented question (a "no" is easy to give) | 1 | Salesloft |
-| 32 | Price transparency | 1 | Salesloft |
-| 33 | Topical hook (ride a subject they already care about) | 1 | Clay |
-| 34 | Mutual benefit (win-win swap) | 1 | SmartWriter |
+| 24 | Mutual benefit (win-win swap) | 4 | SmartWriter, Warmupinbox |
+| 25 | Assumptive close (risky, use with care) | 3 | Woodpecker |
+| 26 | Normalization (shared problem) | 3 | Salesloft, Coursera |
+| 27 | Reminder of prior interest | 2 | Woodpecker |
+| 28 | No-ask framing (say outright that you want nothing) | 2 | ZoomInfo |
+| 29 | Convenience and accommodation (offer to come to them, flexible times) | 2 | Coursera |
+| 30 | Exclusivity (confidential or selective opportunity) | 2 | Smartlead, SmartWriter |
+| 31 | Personal video (humanization) | 1 | Salesloft |
+| 32 | No-oriented question (a "no" is easy to give) | 1 | Salesloft |
+| 33 | Price transparency | 1 | Salesloft |
+| 34 | Topical hook (ride a subject they already care about) | 1 | Clay |
 | 35 | Peer norm (most people reply). Risky, only with real data | 1 | Cognism |
 | 36 | Humor and playfulness | 1 | Cognism |
 
@@ -61,7 +61,7 @@ Counts are a judgment call per email, and the Woodpecker counts are approximate.
 
 **Authority.** Mention real, verifiable groups you have worked with, original data or research, or years of experience in their market. Vague claims ("leading firm") carry little weight.
 
-**Scarcity and urgency.** Use real deadlines only (an event date, an offer end date). Fake urgency or repeating "last chance" erodes trust.
+**Scarcity and urgency.** Use real deadlines only (an event date, an offer end date). Fake urgency or repeating "last chance" erodes trust. Warmupinbox advises urgency lines such as "limited spots available" (unverified), while other sources in this repo warn against urgency in cold email, so only use it when it is true.
 
 **Unique mechanism.** Name the one thing you do that a competitor cannot say. Concrete beats generic.
 

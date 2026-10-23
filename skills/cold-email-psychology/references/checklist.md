@@ -37,6 +37,8 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] A P.S., humor or emoji is used only if it fits the prospect and is true (no made-up "we adopted your idea")
 - [ ] Do not announce a phone follow-up unless you really will call
 - [ ] Do not ban a word in the advice and then use it in your own subject (for example "free")
+- [ ] No manufactured scarcity ("limited spots", "offer expires soon") unless it is real
+- [ ] The email matches the real job: a testimonial request, a job application and a cold pitch each need their own structure
 - [ ] No attachments on the first touch
 - [ ] No feature lists or pricing details in a first cold email
 - [ ] Plain, conversational words. No jargon or hype words ("game changer", "revolutionary")

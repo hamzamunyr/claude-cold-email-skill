@@ -335,3 +335,30 @@ Want me to send it over?
 [Your name]
 
 **Why it works:** the finding is concrete and checkable, the list is useful on its own, and the ask is a yes. Only send it if you really ran the check.
+
+---
+
+## Example 13: Bike shop asking a trail guide blog for a link
+
+**Prospect:** Author of a regional trail guide blog
+**Psychology:** liking (a specific, true compliment), mutual benefit, reciprocity, commitment minimization
+**Pattern from:** Warmupinbox (#012), link-building swap
+
+**Subject options**
+1. your [Trail name] guide
+2. a checklist for your readers
+3. [First name], a small idea
+
+**Email**
+
+Hi [First name],
+
+I used your guide to [Trail name] last month, especially the section on [specific detail], and it made planning the ride much easier.
+
+We run a bike shop in [City] and wrote a one-page checklist for preparing for [type of ride]. I think it fits next to your guide: [link].
+
+Would you consider adding it? In return I'd be glad to share your guide with our [real number] email subscribers.
+
+[Your name]
+
+**Why it works:** the compliment is specific and true, the checklist is useful to their readers, and the swap gives them something back. Only say you used the guide if you did.

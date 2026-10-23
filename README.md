@@ -2,4 +2,4 @@
 
 A Claude Code skill for cold email, sales psychology, copywriting and B2B outbound.
 
-Templates analyzed: 11 sources (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky), 191 emails
+Templates analyzed: 12 sources (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox), 206 emails

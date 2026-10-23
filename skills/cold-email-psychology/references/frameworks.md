@@ -1,8 +1,8 @@
 # Email Frameworks
 
-Emails analyzed so far: 191 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky). Woodpecker counts are approximate.
+Emails analyzed so far: 206 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox). Woodpecker counts are approximate.
 
-## 1. Five-part first email | Count: 2 | Source: Clay
+## 1. Five-part first email | Count: 2 |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN | Source: Clay, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox
 
 Context > Problem and solution > Cost of inaction > Social proof > Light CTA
 
@@ -25,7 +25,7 @@ Observation about their site > "have you considered these?" question > three ide
 - Best for: agencies, tools and services where you can show what you would do for them.
 - Weak when: the ideas are generic or do not fit their business.
 
-## 4. Event hook | Count: 3 | Source: Apollo, ZoomInfo, SmartWriter
+## 4. Event hook | Count: 4 | Source: Apollo, ZoomInfo, SmartWriter, Warmupinbox
 
 Recent event > the challenge it likely creates > peer result > short call ask
 
@@ -61,7 +61,7 @@ Their initiative > peer story > the insight written inline > "could this work fo
 
 - Best when you can fit a real insight in two sentences.
 
-## 11. Resource share | Count: 4 | Source: Salesloft, ZoomInfo, SmartWriter, Cognism
+## 11. Resource share | Count: 6 | Source: Salesloft, ZoomInfo, SmartWriter, Cognism, Warmupinbox
 
 Fresh resource and why you are sending it > how it connects to their pain > open offer of more help
 
@@ -79,7 +79,7 @@ Normalize the problem ("many people in your role struggle with X") > article or 
 
 - Works best when the problem is specific, not generic.
 
-## 14. Collaboration | Count: 3 | Source: Salesloft, Coursera, SmartWriter
+## 14. Collaboration | Count: 4 | Source: Salesloft, Coursera, SmartWriter, Warmupinbox
 
 Specific compliment about something they made > mutual contact > a couple of ideas > short call ask
 
@@ -109,7 +109,7 @@ Thanks > one-paragraph value summary > pricing and resources > open offer of mor
 
 - A warm-only pattern. Too long and detailed for a first cold email.
 
-## 19. Pain-point question | Count: 1 | Source: Salesloft
+## 19. Pain-point question | Count: 2 | Source: Salesloft, Warmupinbox
 
 Personalized line > question about their current process > peers are investing in this > no-oriented question about hearing how they use it
 
@@ -121,7 +121,7 @@ Subject > Personalized opener > Problem > Observation or value > Call to action
 
 - The shared skeleton behind every Woodpecker template (69 of 75 use all five blocks). A good base to build from, but it makes emails look alike, so the opener and observation must be genuinely specific.
 
-## 21. Follow-up reminder | Count: 31 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky
+## 21. Follow-up reminder | Count: 32 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox
 
 One line referencing the earlier email > restate or add one reason > one ask
 
@@ -175,21 +175,21 @@ Who you are > what you noticed about them > a small coffee, chat or connect ask
 
 - Works when the compliment is specific and the ask is easy to decline.
 
-## 31. Candidate or employer recruiting outreach | Count: 21 | Source: Woodpecker, Smartlead
+## 31. Candidate or employer recruiting outreach | Count: 22 | Source: Woodpecker, Smartlead, Warmupinbox
 
 To candidates: profile or role trigger > why it fits > a few reasons > time ask. To employers: open role seen > proof and candidates on file > call ask.
 
-## 32. Right-person redirect | Count: 5 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism
+## 32. Right-person redirect | Count: 7 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism, Warmupinbox
 
 Say you are trying to reach whoever handles [area] > ask if that is them or someone else > one line of context with proof > thank them for the pointer
 
-## 33. Standard intro | Count: 2 | Source: ZoomInfo, Cognism
+## 33. Standard intro | Count: 3 | Source: ZoomInfo, Cognism, Warmupinbox
 
 Trigger event > the challenge companies in their position usually face > what you do and for whom > "worth a conversation?"
 
 - A three-sentence base. Needs a real trigger, or it reads as generic.
 
-## 34. Competitor mention | Count: 5 | Source: ZoomInfo, Smartlead, SmartWriter, Cognism
+## 34. Competitor mention | Count: 6 | Source: ZoomInfo, Smartlead, SmartWriter, Cognism, Warmupinbox
 
 Observed tool they use today > why others switched > a similar company's result > interest check
 
@@ -359,7 +359,7 @@ Challenge the way they do something today > say what you do for people in their 
 
 - Share something they may not know about. Avoid implying their current approach is wrong without a reason.
 
-## 64. Introduction request | Count: 2 | Source: SmartWriter
+## 64. Introduction request | Count: 3 | Source: SmartWriter, Warmupinbox
 
 Say you saw they know a specific person > ask for an introduction, and say you will send a short note they can forward, or explain the mutual benefit (for example swapping audiences) > keep the ask small
 
@@ -414,6 +414,24 @@ Business-personal (their LinkedIn bio and focus) > business-business (company ne
 Check their domain (rankings, ads, site) > check their top competitor > scan their LinkedIn posts > check an ad library > pick one specific thing (a keyword gap, a weak ad, a missing page) and make it your opening line
 
 - LeadsMonky claims that referencing an activity signal lifts replies by 20 to 35% (unverified).
+
+## 74. Link-building swap | Count: 1 | Source: Warmupinbox
+
+A specific compliment on their article > your related piece and what it adds > ask them to consider linking to it > offer to share theirs with your audience in return
+
+- Only offer an audience you really have. Name its real size.
+
+## 75. Testimonial request | Count: 1 | Source: Warmupinbox
+
+Thank a current customer > ask for a testimonial and say how it helps others > offer a small thank-you reward
+
+- For existing customers only. A different job from cold prospecting, so do not reuse a sales template.
+
+## 76. Job application email | Count: 1 | Source: Warmupinbox
+
+Say which role you are applying for > your years of experience and a result that fits their goals > one specific thing you admire about the company > ask for a discussion and name the day you will follow up
+
+- Covers job seekers. Keep it short, specific and truthful.
 
 ## Sequences and cadence
 

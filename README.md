@@ -34,38 +34,33 @@ A **Claude Code skill** that writes **cold email** with **sales psychology**, so
 **You type:**
 
 ```text
-Write a cold email to the Head of Support at a Shopify skincare brand.
-I sell returns automation. Goal: a 15 minute call.
+Write a cold email to the operations manager at a 50 person company.
+I sell software that cuts manual reporting. Goal: a 15 minute call.
 ```
 
 **Claude replies:**
 
 ```text
 Subject options
-1. returns at [Brand]
-2. your support hire
-3. quick question on returns
+1. reporting at [Company]
+2. your open analyst role
+3. quick question on reporting
 
 Hi [First name],
 
-Your open support role lists processing returns by hand as a main duty,
-so I'm guessing returns eat a big chunk of your team's week.
+I saw [Company] is hiring a reporting analyst, which usually means
+the weekly numbers are still being pulled together by hand.
 
-We automate return requests, labels and refund checks, so agents only
-handle the odd cases.
-
-When peak season hits, how will you keep returns from pulling agents
-off live chat?
-
-[Similar brand] [real result] in [timeframe] after switching.
+We automate that report so your team gets it without the manual work.
+[Similar company] [real result] in [timeframe] after switching.
 
 Would a 15 minute walkthrough be useful?
 
 [Your name]
 
 Why this works
-Specificity (a real job post), loss aversion (the peak season question),
-social proof (a similar brand) and a tiny ask (a short walkthrough).
+Specificity (a real job post), a clear cost of the status quo,
+social proof (a similar company) and a tiny ask (a short walkthrough).
 ```
 
 > The skill asks for anything missing first (who the prospect is, your offer, the goal), then writes an original email and runs it through a checklist before showing it. Brackets mark facts only you can supply. It never invents names, stats or results.
@@ -221,59 +216,58 @@ flowchart TD
 Illustrative drafts that show the difference. Open one.
 
 <details>
-<summary><b>SaaS: returns automation</b></summary>
+<summary><b>Selling a product or service to a business</b></summary>
 
 **Before**
 
 ```text
-Subject: Revolutionary returns solution
+Subject: Revolutionary solution for your business
 
-Hi there, I hope this email finds you well. I'm the CEO of ReturnPro,
-the leading returns platform with powerful features. We help ecommerce
-brands grow. Do you have 30 minutes for a demo this week?
+Hi there, I hope this email finds you well. I'm the CEO of [Company],
+the leading platform with powerful features. We help businesses grow.
+Do you have 30 minutes for a demo this week?
 ```
 
 **After**
 
 ```text
-Subject: returns at [Brand]
+Subject: [Company] and [specific problem]
 
 Hi [First name],
 
-Your open support role lists processing returns by hand as a main duty.
-When peak season hits, how will you keep returns from pulling agents
-off live chat?
+I saw [one real, specific thing about their company]. That usually
+means [the problem it causes].
 
-[Similar brand] [real result] in [timeframe] after switching.
+[Similar company] [real result] in [timeframe] with our help.
 Would a 15 minute walkthrough be useful?
 ```
 
-**Why:** specificity, loss aversion, social proof, and a smaller ask.
+**Why:** specificity, one proof point, and a smaller ask.
 
 </details>
 
 <details>
-<summary><b>Agency: web design for a law firm</b></summary>
+<summary><b>Freelancer or agency pitching a new client</b></summary>
 
 **Before**
 
 ```text
-Subject: Grow your firm with us
+Subject: Grow your business with us
 
-We are a full service digital agency with 15 years of experience.
-We would love to hop on a call to discuss how we can help you.
+We are a full service agency with 15 years of experience. We would
+love to hop on a call to discuss how we can help you.
 ```
 
 **After**
 
 ```text
-Subject: [Firm]'s contact page on mobile
+Subject: [Company]'s [page or channel], one idea
 
 Hi [First name],
 
-I tried to book a consultation on [Firm]'s site from my phone and
-[one specific, real friction point]. I wrote up the short list of what
-I found. Want me to send it over?
+I looked at [Company]'s [website, page or campaign] and noticed
+[one specific, real finding]. I wrote up a short list of what I'd
+change. Want me to send it over?
 ```
 
 **Why:** a real finding, free value first, and a yes-or-no ask.
@@ -281,31 +275,29 @@ I found. Want me to send it over?
 </details>
 
 <details>
-<summary><b>Local business: commercial cleaning</b></summary>
+<summary><b>Following up when nobody replied</b></summary>
 
 **Before**
 
 ```text
-Subject: Affordable cleaning services!
+Subject: Following up
 
-We offer the best cleaning in the area at low prices. Call us today
-for a free quote!
+Just checking in to see if you saw my last email. Let me know.
 ```
 
 **After**
 
 ```text
-Subject: cleaning for [Building]'s new tenants
+Subject: re: reporting at [Company]
 
 Hi [First name],
 
-I saw [Building] is adding tenants on the [floor] this quarter, which
-usually means more cleaning during move-ins. We clean [type of
-building] in [City]. Is it worth a quick call, or should I leave you
-to it?
+One more thought: [a new fact, result or resource that was not in
+the first email]. If now is not the right time, tell me and I will
+stop here. Otherwise, would a short call next week help?
 ```
 
-**Why:** a real change at the property, no hype words, and an easy way out.
+**Why:** adds something new, gives an easy way out, and asks for little.
 
 </details>
 

@@ -1,0 +1,8 @@
+{
+  "name": "cold-email-psychology",
+  "description": "Writes high-converting cold emails using sales psychology, built from real B2B templates from top companies.",
+  "version": "0.1.0",
+  "author": { "name": "Hamza Munir", "url": "https://thepixelserve.com" },
+  "license": "MIT",
+  "keywords": ["cold-email", "sales-psychology", "copywriting", "outbound", "b2b-sales"]
+}

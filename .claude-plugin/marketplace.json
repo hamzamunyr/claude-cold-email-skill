@@ -1,0 +1,12 @@
+{
+  "name": "claude-cold-email-skill",
+  "owner": { "name": "Hamza Munir", "url": "https://thepixelserve.com" },
+  "description": "Cold email skill for Claude Code, built on sales psychology.",
+  "plugins": [
+    {
+      "name": "cold-email-psychology",
+      "source": "./",
+      "description": "Writes high-converting cold emails using sales psychology."
+    }
+  ]
+}

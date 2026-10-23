@@ -1054,3 +1054,28 @@ Open to seeing a rewritten version of that one section?
 [Your name]
 
 **Why it works:** the opener is honest, the observation is checkable, and the ask is small. Make sure the observation is true before you send.
+
+---
+
+## Example 40: A low-pressure first note with one real question
+
+**Prospect:** A founder or manager you have never met
+**Psychology:** easy exit, no-ask framing, a genuine question
+**Pattern from:** Oppora (#040), the introduction without a pitch
+
+**Subject options**
+1. a question about [topic]
+2. quick note about [specific observation]
+3. curious how you handle [area]
+
+**Email**
+
+Hi [First name],
+
+I saw [one specific, real thing about their company], and it made me curious how you currently handle [specific area].
+
+I'm not selling anything here. If it's easy to share, what has worked best for you so far? If not, no worries.
+
+[Your name]
+
+**Why it works:** the reason for writing is real, the question is specific, and replying or not costs nothing. Add one concrete detail so it does not read as a template.

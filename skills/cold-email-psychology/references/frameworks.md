@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 1246 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1261 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 | Source: Clay
 
@@ -25,7 +25,7 @@ Observation about their site > "have you considered these?" question > three ide
 - Best for: agencies, tools and services where you can show what you would do for them.
 - Weak when: the ideas are generic or do not fit their business.
 
-## 4. Event hook | Count: 12 | Source: Apollo, ZoomInfo, SmartWriter, Warmupinbox, Saleshandy, Truelist, Outplay, Artisan, Salesdorado, TextMagic, Starnus
+## 4. Event hook | Count: 13 | Source: Apollo, ZoomInfo, SmartWriter, Warmupinbox, Saleshandy, Truelist, Outplay, Artisan, Salesdorado, TextMagic, Starnus, Oppora
 
 Recent event > the challenge it likely creates > peer result > short call ask
 
@@ -61,7 +61,7 @@ Their initiative > peer story > the insight written inline > "could this work fo
 
 - Best when you can fit a real insight in two sentences.
 
-## 11. Resource share | Count: 15 | Source: Salesloft, ZoomInfo, SmartWriter, Cognism, Warmupinbox, Truelist, Datalane, Salesbread, Outplay, Reachly, TextMagic, BluLeadz, Waalaxy
+## 11. Resource share | Count: 16 | Source: Salesloft, ZoomInfo, SmartWriter, Cognism, Warmupinbox, Truelist, Datalane, Salesbread, Outplay, Reachly, TextMagic, BluLeadz, Waalaxy, Oppora
 
 Fresh resource and why you are sending it > how it connects to their pain > open offer of more help
 
@@ -121,7 +121,7 @@ Subject > Personalized opener > Problem > Observation or value > Call to action
 
 - The shared skeleton behind every Woodpecker template (69 of 75 use all five blocks). A good base to build from, but it makes emails look alike, so the opener and observation must be genuinely specific.
 
-## 21. Follow-up reminder | Count: 123 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox, Hunter, Saleshandy, SmartReach, Salesbread, Cleverly, Reachly, TextMagic, Waalaxy, Clearout, LeadGibbon
+## 21. Follow-up reminder | Count: 124 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox, Hunter, Saleshandy, SmartReach, Salesbread, Cleverly, Reachly, TextMagic, Waalaxy, Clearout, LeadGibbon, Oppora
 
 One line referencing the earlier email > restate or add one reason > one ask
 
@@ -179,7 +179,7 @@ Who you are > what you noticed about them > a small coffee, chat or connect ask
 
 To candidates: profile or role trigger > why it fits > a few reasons > time ask. To employers: open role seen > proof and candidates on file > call ask.
 
-## 32. Right-person redirect | Count: 43 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism, Warmupinbox, HubSpot, Hunter, Saleshandy, SmartReach, DemandCurve, Artisan, Reachly, LeadSquared, TextMagic, BluLeadz, Clearout, LeadGibbon
+## 32. Right-person redirect | Count: 44 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism, Warmupinbox, HubSpot, Hunter, Saleshandy, SmartReach, DemandCurve, Artisan, Reachly, LeadSquared, TextMagic, BluLeadz, Clearout, LeadGibbon, Oppora
 
 Say you are trying to reach whoever handles [area] > ask if that is them or someone else > one line of context with proof > thank them for the pointer
 
@@ -195,7 +195,7 @@ Observed tool they use today > why others switched > a similar company's result 
 
 - Do not attack the competitor. Needs a real differentiator and a real switch story.
 
-## 35. No-ask outreach | Count: 3 | Source: ZoomInfo, Starnus
+## 35. No-ask outreach | Count: 6 | Source: ZoomInfo, Starnus, Oppora
 
 Specific compliment or observation > who you work with on the topic > offer to compare notes > state plainly that you ask for nothing
 
@@ -211,7 +211,7 @@ What you published and the data behind it > three key findings in the email > wh
 
 Thanks for connecting > one detail from their profile or company > what you do plus a proof point > 15 minute ask
 
-## 38. Assume-not-a-priority breakup | Count: 24 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot, Hunter, Saleshandy, SmartReach, Datalane, Salesbread, Cleverly, Reachly, Clearout
+## 38. Assume-not-a-priority breakup | Count: 25 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot, Hunter, Saleshandy, SmartReach, Datalane, Salesbread, Cleverly, Reachly, Clearout, Oppora
 
 Say you reached out a few times > assume it is not a priority and stop > invite a reply if that assumption is wrong
 
@@ -305,7 +305,7 @@ Reference a real post of theirs > a stage-specific observation > a genuine quest
 
 - A founder-to-founder tone. It starts a conversation and asks for no meeting.
 
-## 54. Audit or gap finding | Count: 27 | Source: Smartlead, LeadsMonky, HubSpot, Proposify, Saleshandy, SmartReach, Salesforge, Reachly, BluLeadz, LeadGibbon, MailGenius
+## 54. Audit or gap finding | Count: 28 | Source: Smartlead, LeadsMonky, HubSpot, Proposify, Saleshandy, SmartReach, Salesforge, Reachly, BluLeadz, LeadGibbon, MailGenius, Oppora
 
 A specific finding from a quick check of their ads, content or site > proof you fixed something similar > offer the full findings in a short call
 
@@ -315,7 +315,7 @@ A specific finding from a quick check of their ads, content or site > proof you 
 
 Warm: refer to the actual conversation and the promised resource > a low-pressure line saying you can go deeper if the topic is still live. Cold: a shared session or event > a short link to what you do > short call ask
 
-## 56. Re-engagement | Count: 17 | Source: Smartlead, HubSpot, Hunter, Saleshandy, SmartReach, Datalane, Cleverly, Reachly
+## 56. Re-engagement | Count: 18 | Source: Smartlead, HubSpot, Hunter, Saleshandy, SmartReach, Datalane, Cleverly, Reachly, Oppora
 
 Refer to the earlier conversation or a trigger since then > ask whether the topic is still on their radar > offer two clean paths (revisit now or follow up next quarter)
 
@@ -517,7 +517,7 @@ Define the ideal customer (role, company size, revenue, industry) > build a shor
 
 - Proposify's best example felt personal because it was sent to one clear fit, not a purchased list.
 
-## 91. Advice request with an email-only option | Count: 10 | Source: Hunter, DemandCurve, LeadSquared, Waalaxy
+## 91. Advice request with an email-only option | Count: 11 | Source: Hunter, DemandCurve, LeadSquared, Waalaxy, Oppora
 
 Reference something specific they said or wrote > describe your situation and your current thinking in two lines > ask for their view > say they can answer by email if a call is too much
 
@@ -543,7 +543,7 @@ Name a specific milestone (an anniversary, a funding round, a launch) > one line
 
 Say you are not aware of an open role > one line on relevant experience and a specific accomplishment > the specific thing about their company you admire > ask for a brief conversation
 
-## 96. Win-back with a new reason | Count: 9 | Source: Hunter, Reachly, BluLeadz
+## 96. Win-back with a new reason | Count: 10 | Source: Hunter, Reachly, BluLeadz, Oppora
 
 Refer to what they used or wanted before > name one concrete change since (a feature, a restructured offer) > a small invitation to take a fresh look
 
@@ -689,7 +689,7 @@ Name the account trigger (a funding round, a new hire, a launch) > a specific hy
 
 - Volunteering a lesson learned adds credibility. Use it for your top 50 to 100 accounts, within the 60 to 180 day window after the trigger, and coordinate across your team.
 
-## 123. Permission framing | Count: 1 | Source: Datalane
+## 123. Permission framing | Count: 3 | Source: Datalane, Oppora
 
 Ask whether it would be out of line to request a short slice of time, name what you would share, and add a plain "no worries if not"
 
@@ -982,6 +982,12 @@ Say you both commented on the same public post and tie it to your pitch
 Say you were about to send the usual pitch and that it would waste their time > one real observation > an easier way > ask if they want to see the idea
 
 - Only works if the next line is specific. Avoid gimmicks, odd formatting and cryptic subjects.
+
+## 172. Fabricated social context (avoid) | Count: 1 | Source: Oppora
+
+Imply that their name came up in a shared space when it did not
+
+- Only say it if it is true and you can name the context. Otherwise use a real trigger.
 
 ## Sequences and cadence
 

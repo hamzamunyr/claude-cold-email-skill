@@ -82,5 +82,7 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] At most one emoji, and only if it fits the brand and the recipient
 - [ ] The email does not use "limited time", "exclusive" or "select few" unless the deadline and the list are real
 - [ ] The email stays deliverable: plain formatting, at most one link, no hype or spam words, and your sending domain is authenticated (SPF, DKIM, DMARC)
+- [ ] A first email that asks nothing still gives one concrete reason or question, or it will get no reply
+- [ ] Never imply a connection ("your name came up") that you cannot name and back up
 - [ ] No em dashes
 - [ ] 2 to 3 subject line options provided, short and specific

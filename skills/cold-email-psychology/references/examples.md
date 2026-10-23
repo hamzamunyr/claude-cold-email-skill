@@ -443,3 +443,30 @@ If that kind of help is useful, I'd love to talk about [season]. A short reply b
 [Your name]
 
 **Why it works:** the idea is specific enough to picture, it is grounded in their real work, and the email-only option keeps the ask light.
+
+---
+
+## Example 17: Fractional HR consultant writing to a growing startup founder
+
+**Prospect:** Founder of a startup that just grew past 20 people
+**Psychology:** specificity (a real growth signal), normalization, soft social proof, lighter ask with a format choice
+**Pattern from:** Saleshandy (#016), permission to share an idea
+
+**Subject options**
+1. quick idea for [Company]'s first people hire
+2. growing past [number] people
+3. [First name], a note on hiring
+
+**Email**
+
+Hi [First name],
+
+I noticed [Company] just passed [number] people, and a lot of founders at that size start feeling the strain on [specific people-ops problem].
+
+I've helped [type of company] set up [one-line fix] without adding headcount. [Real similar client] [real result].
+
+Would it help if I sent a short note with the idea, or would a 15 minute call be easier?
+
+[Your name]
+
+**Why it works:** the growth signal is real, the problem feels common instead of personal, the proof is modest and true, and the next step lets them choose the lighter option.

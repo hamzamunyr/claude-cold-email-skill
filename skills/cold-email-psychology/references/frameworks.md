@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 750 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 778 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN | Source: Clay, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox
 
@@ -25,7 +25,7 @@ Observation about their site > "have you considered these?" question > three ide
 - Best for: agencies, tools and services where you can show what you would do for them.
 - Weak when: the ideas are generic or do not fit their business.
 
-## 4. Event hook | Count: 4 | Source: Apollo, ZoomInfo, SmartWriter, Warmupinbox
+## 4. Event hook | Count: 5 | Source: Apollo, ZoomInfo, SmartWriter, Warmupinbox, Saleshandy
 
 Recent event > the challenge it likely creates > peer result > short call ask
 
@@ -79,7 +79,7 @@ Normalize the problem ("many people in your role struggle with X") > article or 
 
 - Works best when the problem is specific, not generic.
 
-## 14. Collaboration | Count: 10 | Source: Salesloft, Coursera, SmartWriter, Warmupinbox, Hunter
+## 14. Collaboration | Count: 11 | Source: Salesloft, Coursera, SmartWriter, Warmupinbox, Hunter, Saleshandy
 
 Specific compliment about something they made > mutual contact > a couple of ideas > short call ask
 
@@ -121,13 +121,13 @@ Subject > Personalized opener > Problem > Observation or value > Call to action
 
 - The shared skeleton behind every Woodpecker template (69 of 75 use all five blocks). A good base to build from, but it makes emails look alike, so the opener and observation must be genuinely specific.
 
-## 21. Follow-up reminder | Count: 90 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox, Hunter
+## 21. Follow-up reminder | Count: 92 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox, Hunter, Saleshandy
 
 One line referencing the earlier email > restate or add one reason > one ask
 
 - Best for: a second or third touch. Keep it under about 80 words and bring something new (a fresh reason, a short resource), not just "checking in".
 
-## 22. PAS (problem, agitate, solution) | Count: 8 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism, Proposify
+## 22. PAS (problem, agitate, solution) | Count: 9 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism, Proposify, Saleshandy
 
 Pain question > deepen the cost of the pain > present the fix with proof > ask to click or chat
 
@@ -145,7 +145,7 @@ Pain observation > what it does to the reader > solution with nearby proof > off
 
 - The tiny sample offer is the useful part. Skip rumor-based openers unless verifiable.
 
-## 25. Social proof pitch | Count: 6 | Source: Woodpecker, HubSpot
+## 25. Social proof pitch | Count: 7 | Source: Woodpecker, HubSpot, Saleshandy
 
 Industry or pain line > track record with named clients > "we can do the same for you" > ten minute ask
 
@@ -175,11 +175,11 @@ Who you are > what you noticed about them > a small coffee, chat or connect ask
 
 - Works when the compliment is specific and the ask is easy to decline.
 
-## 31. Candidate or employer recruiting outreach | Count: 36 | Source: Woodpecker, Smartlead, Warmupinbox, Hunter
+## 31. Candidate or employer recruiting outreach | Count: 37 | Source: Woodpecker, Smartlead, Warmupinbox, Hunter, Saleshandy
 
 To candidates: profile or role trigger > why it fits > a few reasons > time ask. To employers: open role seen > proof and candidates on file > call ask.
 
-## 32. Right-person redirect | Count: 14 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism, Warmupinbox, HubSpot, Hunter
+## 32. Right-person redirect | Count: 16 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism, Warmupinbox, HubSpot, Hunter, Saleshandy
 
 Say you are trying to reach whoever handles [area] > ask if that is them or someone else > one line of context with proof > thank them for the pointer
 
@@ -189,7 +189,7 @@ Trigger event > the challenge companies in their position usually face > what yo
 
 - A three-sentence base. Needs a real trigger, or it reads as generic.
 
-## 34. Competitor mention | Count: 8 | Source: ZoomInfo, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot, Proposify
+## 34. Competitor mention | Count: 9 | Source: ZoomInfo, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot, Proposify, Saleshandy
 
 Observed tool they use today > why others switched > a similar company's result > interest check
 
@@ -211,7 +211,7 @@ What you published and the data behind it > three key findings in the email > wh
 
 Thanks for connecting > one detail from their profile or company > what you do plus a proof point > 15 minute ask
 
-## 38. Assume-not-a-priority breakup | Count: 13 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot, Hunter
+## 38. Assume-not-a-priority breakup | Count: 15 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot, Hunter, Saleshandy
 
 Say you reached out a few times > assume it is not a priority and stop > invite a reply if that assumption is wrong
 
@@ -305,7 +305,7 @@ Reference a real post of theirs > a stage-specific observation > a genuine quest
 
 - A founder-to-founder tone. It starts a conversation and asks for no meeting.
 
-## 54. Audit or gap finding | Count: 14 | Source: Smartlead, LeadsMonky, HubSpot, Proposify
+## 54. Audit or gap finding | Count: 16 | Source: Smartlead, LeadsMonky, HubSpot, Proposify, Saleshandy
 
 A specific finding from a quick check of their ads, content or site > proof you fixed something similar > offer the full findings in a short call
 
@@ -315,7 +315,7 @@ A specific finding from a quick check of their ads, content or site > proof you 
 
 Warm: refer to the actual conversation and the promised resource > a low-pressure line saying you can go deeper if the topic is still live. Cold: a shared session or event > a short link to what you do > short call ask
 
-## 56. Re-engagement | Count: 9 | Source: Smartlead, HubSpot, Hunter
+## 56. Re-engagement | Count: 10 | Source: Smartlead, HubSpot, Hunter, Saleshandy
 
 Refer to the earlier conversation or a trigger since then > ask whether the topic is still on their radar > offer two clean paths (revisit now or follow up next quarter)
 
@@ -427,7 +427,7 @@ Thank a current customer > ask for a testimonial and say how it helps others > o
 
 - For existing customers only. A different job from cold prospecting, so do not reuse a sales template.
 
-## 76. Job application email | Count: 16 | Source: Warmupinbox, Proposify, Hunter
+## 76. Job application email | Count: 17 | Source: Warmupinbox, Proposify, Hunter, Saleshandy
 
 Say which role you are applying for > your years of experience and a result that fits their goals > one specific thing you admire about the company > ask for a discussion and name the day you will follow up
 
@@ -527,7 +527,7 @@ Reference something specific they said or wrote > describe your situation and yo
 
 Say a specific article, post or talk of theirs brought you to mind > one specific point you liked and how it links to your work > a light ask to catch up
 
-## 93. Internship pitch with a concrete project idea | Count: 6 | Source: Hunter
+## 93. Internship pitch with a concrete project idea | Count: 7 | Source: Hunter, Saleshandy
 
 Show you studied their product or work > describe one specific project or analysis you could do, grounded in their real work > your year, school, skill and one relevant project > ask about the season
 
@@ -572,6 +572,38 @@ Say you wanted to try a different approach > offer a smaller alternative (a shor
 ## 101. Webinar clip follow-up | Count: 6 | Source: Hunter
 
 For someone who registered but missed it: offer the single best five-minute clip instead of the full recording > a link to the full version > ask if it is worth a watch
+
+## 102. Permission to share an idea | Count: 5 | Source: Saleshandy
+
+Say you looked at something specific about their work > name a problem teams like theirs hit > say you helped a similar team > ask if it would be useful to share the idea in a short reply
+
+- The ask is permission, not a meeting. Often the lightest possible first ask.
+
+## 103. Seven-element annotated example | Count: 1 | Source: Saleshandy
+
+Curiosity-based subject > a personal context opener (a real hiring or growth signal) > stage-specific pain framing > a value proposition > soft social proof (one recent team, no overclaim) > a low-friction CTA that offers a call or a brief note > a signature block with role and company
+
+- Mirrors the best examples in this repo. Keep the proof soft and true.
+
+## 104. Podcast guest pitch | Count: 1 | Source: Saleshandy
+
+Praise a specific episode and the question the host asked > your credibility in one line > two or three concrete topic angles with real examples > offer a short outline or a recorded sample
+
+## 105. Event invite, relevance first | Count: 1 | Source: Saleshandy
+
+Date, topic and time > tie it to something specific they have done or said > two concrete takeaways for their audience > duration and a link
+
+- Avoid a promotional tone. Make attendance about their work.
+
+## 106. Launch support request | Count: 1 | Source: Saleshandy
+
+Say you launched today > one line on who it helps and how > ask for an upvote or a comment > offer to return the favor
+
+- Only for community goodwill and a real relationship. Not a cold sales pattern.
+
+## 107. Founder-to-founder integration idea | Count: 1 | Source: Saleshandy
+
+Say what you are building > what you noticed about their approach and the idea it sparked > where you are in your journey (exploring partnerships, pricing, integrations) > a quick call for a specific purpose
 
 ## Sequences and cadence
 

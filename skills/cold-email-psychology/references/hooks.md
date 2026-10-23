@@ -1,6 +1,6 @@
 # Hooks and Subject Lines
 
-Emails analyzed so far: 907 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 923 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## Opening line patterns
 
@@ -15,7 +15,7 @@ Emails analyzed so far: 907 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Cour
 | Headcount growth hook | Mention a visible team expansion and ask how they will handle the next step | 2 | Clay |
 | Website visit hook | "I looked through your site and put together a few ideas" | 2 | Clay |
 | Peer result hook | Lead with a similar company's or customer's result and tie it to their goal | 14 | Apollo, Salesloft, ZoomInfo, Smartlead, SmartWriter, Warmupinbox, HubSpot |
-| Mutual connection hook | Open with a real shared contact and an outcome | 29 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, HubSpot, Hunter, SmartReach |
+| Mutual connection hook | Open with a real shared contact and an outcome | 30 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, HubSpot, Hunter, SmartReach, Breakcold |
 | LinkedIn post or profile hook | Refer to a specific post or profile detail, then tie it to a shared roadblock or fit | 13 | Salesloft, Woodpecker, Smartlead, Cognism, Warmupinbox |
 | Shared event or meeting hook | Refer to an event you both attend or a place you met | 20 | Woodpecker, Smartlead, SmartReach |
 | Self-aware opener | Acknowledge the interruption in one light line ("you probably get a lot of these") | 5 | Woodpecker, HubSpot |
@@ -48,6 +48,13 @@ Emails analyzed so far: 907 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Cour
 | Team page gap hook | Notice a gap on their team page and a shared interest, then offer to fill it | 1 | Proposify |
 | Engagement-tracked follow-up hook (risky) | Say you saw them open your report. Can feel like surveillance | 1 | Proposify |
 | Event invite relevance hook | Invite them to an event and tie it to something they have done or said | 1 | Saleshandy |
+| Absence hook | Say you noticed they are not using a solution and ask why, out of curiosity | 1 | Breakcold |
+| Research interview hook | Say you are writing an article or doing research and ask one question. Only if true | 1 | Breakcold |
+| Employee-named hook | Name a specific employee of theirs and tie them to your idea | 1 | Breakcold |
+| Mentioned-online hook | Say their company was mentioned in a post you saw | 1 | Breakcold |
+| Local hook | Say your product is built for people in their city | 1 | Breakcold |
+| Domain authority hook | Say you share a similar authority range and audience without competing, and propose a swap | 1 | Breakcold |
+| Broken link hook | Point to a broken link on a specific page and offer a replacement | 2 | Breakcold |
 
 Rule: the first line is about the prospect, not you. Skip empty openers ("hope you're well", "I know you're busy", "I found you on LinkedIn"). Vague observations feel weaker than specific ones. Avoid rumor-style openers (hearsay about the prospect) unless the fact is verifiable and the tone is kind.
 
@@ -156,6 +163,16 @@ Rule: the first line is about the prospect, not you. Skip empty openers ("hope y
 | Connecting around a topic | "Connecting around [topic]" | 1 | Saleshandy |
 | Direction request | "Point me in the right direction?" | 1 | Saleshandy |
 | Quick one | "Quick one [First name]" | 2 | SmartReach |
+| Lowercase casual | "about your company growth" (a lowercase subject to stand out) | 3 | Breakcold |
+| Reading-time subject (gimmick) | "[First name] - quick question (10.51 s reading time)" | 1 | Breakcold |
+| Should we explore | "should we explore?" | 1 | Breakcold |
+| Via a referrer | "Reaching out to you via [name]" | 2 | Breakcold |
+| Mentioned online | "[Company] was mentioned on LinkedIn" | 1 | Breakcold |
+| About an employee | "About [employee first name]" | 1 | Breakcold |
+| Community invite | "Growing a community" | 1 | Breakcold |
+| Share learnings | "Want to share learnings [first name]?" | 1 | Breakcold |
+| Broken link subject | "Broken link on [Company]" | 1 | Breakcold |
+| Authority swap | "Let's share our domain authority" | 1 | Breakcold |
 
 Hunter library statistics (from its 510 templates): in the curated set of 228 (six per subcategory), about 90% of subjects carry a custom detail field, subjects average about 6 words, only about 7% are questions, and none use "hope you are well" openers. In the older community-submitted set of 282, about 34% of subjects carry a custom field, about 18% are questions, 13% open with "hope you are well" and 14% open with "my name is". Specific, short and detail-led subjects dominate the better group.
 

@@ -55,6 +55,8 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] Personal hooks are professional and public: no fandom, hobbies or private details pulled from personal social accounts
 - [ ] No stacked unverifiable statistics (for example "98% of our placements hit quota") or audience-size claims
 - [ ] If you mention AI sourcing or automation, say so honestly and add the human judgment
+- [ ] Never claim to be writing an article or doing research unless it is true
+- [ ] Jokes, memes and images are used only when they fit, and the deliverability cost is accepted on purpose
 - [ ] No attachments on the first touch
 - [ ] No feature lists or pricing details in a first cold email
 - [ ] Plain, conversational words. No jargon or hype words ("game changer", "revolutionary")

@@ -497,3 +497,30 @@ Prefer a short chat first? Just say so.
 [Your name]
 
 **Why it works:** the compliment is specific and true, the exercise replaces effort-heavy steps, and there is an easy alternative if they would rather talk.
+
+---
+
+## Example 19: HR compliance software for a startup people lead
+
+**Prospect:** Head of People at a fast-growing startup
+**Psychology:** intent signal (a post they wrote), reciprocity (a case study), specificity, commitment minimization
+**Pattern from:** Breakcold (#018), interest-signal case study offer
+
+**Subject options**
+1. saw your post on [topic]
+2. how [similar company] handled [topic]
+3. [First name], a short write-up
+
+**Email**
+
+Hi [First name],
+
+I saw your post last week on [specific topic] and thought of how [similar company] handled the same issue: [real result in real timeframe].
+
+Want me to send the short write-up?
+
+[Your name]
+
+P.S. Here is the post I mean: [link]
+
+**Why it works:** the P.S. proves the signal is real, the result is relevant, and the ask is a yes.

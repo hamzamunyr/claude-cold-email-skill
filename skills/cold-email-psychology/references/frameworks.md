@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 907 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 923 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN | Source: Clay, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox
 
@@ -47,7 +47,7 @@ Trend > what most companies do > a better way > peer result > curiosity question
 
 - Needs real expertise and a real result, or the contrarian line sounds empty.
 
-## 8. Referral | Count: 6 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot
+## 8. Referral | Count: 7 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold
 
 Mutual contact > outcome achieved > fit with their goal > short call ask
 
@@ -169,7 +169,7 @@ Empathize > give one reason it did not work > offer a fresh idea > ask to talk
 
 Congratulate > offer help with leftover questions > ask them to keep you in mind for referrals
 
-## 30. Networking introduction | Count: 7 | Source: Woodpecker
+## 30. Networking introduction | Count: 8 | Source: Woodpecker, Breakcold
 
 Who you are > what you noticed about them > a small coffee, chat or connect ask
 
@@ -335,7 +335,7 @@ A friendly opener > "I have an idea I can explain in 10 minutes" tied to a concr
 
 - SmartWriter says this one reportedly drew a 57% open rate and a 21% response rate (unverified). It needs a real idea and a real result.
 
-## 60. Three-sentence email | Count: 2 | Source: SmartWriter, HubSpot
+## 60. Three-sentence email | Count: 3 | Source: SmartWriter, HubSpot, Breakcold
 
 Who you are and that you will be quick > what you do for people like them > one small ask
 
@@ -415,7 +415,7 @@ Check their domain (rankings, ads, site) > check their top competitor > scan the
 
 - LeadsMonky claims that referencing an activity signal lifts replies by 20 to 35% (unverified).
 
-## 74. Link-building swap | Count: 50 | Source: Warmupinbox, Hunter, SmartReach
+## 74. Link-building swap | Count: 52 | Source: Warmupinbox, Hunter, SmartReach, Breakcold
 
 A specific compliment on their article > your related piece and what it adds > ask them to consider linking to it > offer to share theirs with your audience in return
 
@@ -636,6 +636,40 @@ Say what you are writing and where it will appear > ask for one short answer to 
 Say you saw their content on the topic > list the concrete terms (rate, bonus, resources, a named contact) > a link to join
 
 - Keep terms real and checkable.
+
+## 114. Curiosity-gap question | Count: 1 | Source: Breakcold
+
+Say you noticed they are not using a type of solution and ask why, out of genuine curiosity > say you run a related business and like to learn how others choose > no pitch
+
+- Works because it is not selling. Needs a real, checkable observation.
+
+## 115. Research-interview opener | Count: 1 | Source: Breakcold
+
+A personal first line > say you are writing an article or researching a topic > one simple yes-or-no question about their situation
+
+- Only use it if you really are researching. A fake pretext is deceptive.
+
+## 116. Interest-signal case study offer | Count: 1 | Source: Breakcold
+
+Say you saw they posted an interest in a topic > one line on a result for a past client > offer to send the case study > a P.S. that shows the post you saw
+
+- Showing the signal in a P.S. proves why you are writing.
+
+## 117. Employee-named hook | Count: 1 | Source: Breakcold
+
+Name a specific employee who is helping them grow > ask a question tied to what that person does > a playful P.S.
+
+- Takes research. Keep it professional and public.
+
+## 118. Community invite | Count: 1 | Source: Breakcold
+
+Say you are growing a community for a specific audience > its size and three topics members share > one link to join
+
+## 119. Casual one-liner pitch | Count: 1 | Source: Breakcold
+
+"Not sure this is for you, but I figured I would ask" > one line on what you are building and an example > a short question
+
+- Short and honest. Works for early products and founder outreach.
 
 ## Sequences and cadence
 

@@ -1,14 +1,14 @@
 # Calls to Action
 
-Emails analyzed so far: 907 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 923 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 | CTA type | Example shape | When it works | Count | Sources |
 |---|---|---|---|---|
-| Open call or meeting ask | "Do you have time this week to talk?" | Warm leads, senior prospects, strong proof. Higher friction | 283 | Apollo, Salesloft, Woodpecker, Coursera, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach |
-| Interest check | "If I could help with [problem], would that be useful?" or "Could this work for [company]?" | Cold first touch. Best default | 37 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, HubSpot, Saleshandy |
+| Open call or meeting ask | "Do you have time this week to talk?" | Warm leads, senior prospects, strong proof. Higher friction | 284 | Apollo, Salesloft, Woodpecker, Coursera, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold |
+| Interest check | "If I could help with [problem], would that be useful?" or "Could this work for [company]?" | Cold first touch. Best default | 45 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, HubSpot, Saleshandy, Breakcold |
 | Short call ask (time-boxed) | "Can we do a 10 minute call?" | Value is clear and the prospect is senior. Name the duration | 108 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, LeadsMonky, HubSpot, Hunter, Saleshandy, SmartReach |
-| Register or click a link | "Use the link below to save your place" | Event or session invites, trials, sign-ups | 18 | Woodpecker, SmartWriter, Cognism, Saleshandy, SmartReach |
-| Short asset offer | "Can I send a short video, breakdown, case study or menu?" | You have something quick to show. Lowest friction | 31 | Clay, Apollo, Woodpecker, Cognism, LeadsMonky, HubSpot, Proposify, Saleshandy, SmartReach |
+| Register or click a link | "Use the link below to save your place" | Event or session invites, trials, sign-ups | 19 | Woodpecker, SmartWriter, Cognism, Saleshandy, SmartReach, Breakcold |
+| Short asset offer | "Can I send a short video, breakdown, case study or menu?" | You have something quick to show. Lowest friction | 32 | Clay, Apollo, Woodpecker, Cognism, LeadsMonky, HubSpot, Proposify, Saleshandy, SmartReach, Breakcold |
 | Calendar link | A link to book a time | After interest is shown, or for recruiter office hours | 48 | Apollo, Woodpecker, SmartWriter, Warmupinbox, HubSpot, Hunter |
 | Reply with feedback or a pick | "Tell me which of these are a no, and why" | You sent a short list. Easy to answer and useful for you | 4 | Woodpecker |
 | Coffee or LinkedIn connect | "Could I invite you for a coffee?" | Networking, not sales | 4 | Woodpecker |
@@ -26,7 +26,7 @@ Emails analyzed so far: 907 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Cour
 | Reply if I am wrong | Invite a reply if your assumption is off, and offer to set a time | Final follow-up. Assume it is not a priority and leave the door open | 3 | ZoomInfo, FirstSales |
 | Two-answer question | Ask if it is on their list now, or if you should check back later | A short nudge. Both answers move things forward | 4 | FirstSales, Smartlead, HubSpot |
 | Reply either way | Ask for a quick reply whether yes or no | A follow-up with a new angle. Lowers the bar to answer | 2 | FirstSales, Saleshandy |
-| Dialogue question | Ask a real question about how they handle it today, with no meeting ask | Founders and senior buyers. Builds a conversation first | 2 | Smartlead, Proposify |
+| Dialogue question | Ask a real question about how they handle it today, with no meeting ask | Founders and senior buyers. Builds a conversation first | 5 | Smartlead, Proposify, Breakcold |
 | What would need to be true | Ask what would need to be true for your solution to make sense now | A day 7 follow-up with a different angle | 1 | Smartlead |
 | Introduction request | Ask someone to introduce you to a person they know, and offer a forwardable note | When a real mutual contact exists. Easier if you keep the ask small | 3 | SmartWriter, Warmupinbox |
 | Free access for a review | Offer a free account in return for an honest review | Creators and reviewers. Be clear about what you are asking for | 1 | SmartWriter |
@@ -46,5 +46,6 @@ Emails analyzed so far: 907 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Cour
 | Ask for a launch upvote | Ask for an upvote or comment on a launch and offer to return the favor | Launch day and community goodwill only | 1 | Saleshandy |
 | Reply with a single word | Ask them to reply "yes" and you will send the resource | Resource or audit offers. Lowest effort | 3 | SmartReach |
 | Ask for a contribution | Ask for a short quote or a few short answers for an article | Content and PR outreach to experts | 4 | SmartReach |
+| Yes-or-no research question | Ask one simple question that is easy to answer yes or no | Interview-style outreach. People often explain themselves | 1 | Breakcold |
 
 Rule: one CTA per email. Phrase it as a small offer, not a request for their time. About half of the Woodpecker templates ask for a call outright, and Apollo and Salesloft use short call asks in several templates, while Clay advises against asking for a call in a first email. Default to a smaller ask, and use a call ask for senior prospects when the proof is strong. Do not stack a link, an opinion ask and a phone number in one email. Avoid assumptive or guilt-based closings (for example, assuming they surely have time).

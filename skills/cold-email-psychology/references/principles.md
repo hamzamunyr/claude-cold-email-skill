@@ -1,28 +1,28 @@
 # Psychology Principles
 
-Listed by frequency across analyzed emails (final ranking and cleanup happen at FINALIZE). Counts go up whenever another email uses the pattern. Emails analyzed so far: 995 (6 Clay, 6 Apollo, 9 Salesloft, 75 Woodpecker, 17 ZoomInfo, 3 Coursera, 8 FirstSales, 19 Smartlead, 21 SmartWriter, 15 Cognism, 12 LeadsMonky, 15 Warmupinbox, 22 HubSpot, 12 Proposify, 510 Hunter, 28 Saleshandy, 129 SmartReach, 16 Breakcold, 9 Truelist, 10 Datalane, 10 Salesforge, 31 Salesbread, 12 DemandCurve). Hunter counts come from keyword and length analysis of all 510 plus a read of 124, so treat them as estimates.
+Listed by frequency across analyzed emails (final ranking and cleanup happen at FINALIZE). Counts go up whenever another email uses the pattern. Emails analyzed so far: 1005 (6 Clay, 6 Apollo, 9 Salesloft, 75 Woodpecker, 17 ZoomInfo, 3 Coursera, 8 FirstSales, 19 Smartlead, 21 SmartWriter, 15 Cognism, 12 LeadsMonky, 15 Warmupinbox, 22 HubSpot, 12 Proposify, 510 Hunter, 28 Saleshandy, 129 SmartReach, 16 Breakcold, 9 Truelist, 10 Datalane, 10 Salesforge, 31 Salesbread, 12 DemandCurve, 10 Outplay). Hunter counts come from keyword and length analysis of all 510 plus a read of 124, so treat them as estimates.
 
 | Rank | Principle | Count | Sources |
 |---|---|---|---|
-| 1 | Effort reduction (short, one idea per sentence) | 879 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve |
-| 2 | Commitment minimization (low-friction, time-boxed ask) | 447 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve |
-| 3 | Specificity (observed trigger plus concrete details) | 360 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve |
-| 4 | Social proof (named or similar company, bandwagon, testimonials) | 207 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve |
-| 5 | Reciprocity (value before ask) | 184 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve |
+| 1 | Effort reduction (short, one idea per sentence) | 889 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay |
+| 2 | Commitment minimization (low-friction, time-boxed ask) | 455 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay |
+| 3 | Specificity (observed trigger plus concrete details) | 364 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay |
+| 4 | Social proof (named or similar company, bandwagon, testimonials) | 211 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay |
+| 5 | Reciprocity (value before ask) | 187 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay |
 | 6 | Consistency (reference a prior touch) | 154 | Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Truelist, Datalane, Salesbread, DemandCurve |
-| 7 | Quantified benefit | 90 | Woodpecker, Coursera, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve |
-| 8 | Curiosity gap (including question subjects) | 89 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Saleshandy, Breakcold, Truelist, Datalane, Salesforge |
+| 7 | Quantified benefit | 92 | Woodpecker, Coursera, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay |
+| 8 | Curiosity gap (including question subjects) | 90 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Saleshandy, Breakcold, Truelist, Datalane, Salesforge, Outplay |
 | 9 | Easy exit (breakup, wrong-person check, polite out) | 83 | Clay, Apollo, Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Datalane, Salesbread |
-| 10 | Liking through a specific compliment | 62 | Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Saleshandy, SmartReach, Salesforge, Salesbread, DemandCurve |
+| 10 | Liking through a specific compliment | 63 | Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Saleshandy, SmartReach, Salesforge, Salesbread, DemandCurve, Outplay |
 | 11 | Lighter ask (offer a smaller version of the ask) | 43 | Hunter, Saleshandy, Truelist |
 | 12 | Borrowed trust (referral or mutual contact) | 36 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, HubSpot, Hunter, SmartReach, Breakcold, Truelist, Salesbread |
 | 13 | Intent signal (they visited or downloaded) | 35 | Salesloft, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, HubSpot, Proposify, Hunter, Breakcold, Truelist, Datalane, Salesbread |
 | 14 | Self-aware honesty (acknowledge the interruption) | 29 | Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, HubSpot, Proposify, Saleshandy, Breakcold, Truelist |
-| 15 | Authority (association, expertise, original data, experience) | 24 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, SmartWriter, Cognism, Saleshandy, Salesbread, DemandCurve |
-| 16 | Competitive comparison (peer benchmark) | 23 | Apollo, Salesloft, ZoomInfo, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Saleshandy, Truelist, DemandCurve |
+| 15 | Authority (association, expertise, original data, experience) | 25 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, SmartWriter, Cognism, Saleshandy, Salesbread, DemandCurve, Outplay |
+| 16 | Competitive comparison (peer benchmark) | 24 | Apollo, Salesloft, ZoomInfo, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Saleshandy, Truelist, DemandCurve, Outplay |
 | 17 | Problem agitation | 22 | Woodpecker, ZoomInfo, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Saleshandy, Truelist |
 | 18 | Forced choice (two specific options) | 20 | Salesloft, FirstSales, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot, Proposify, Salesbread |
-| 19 | Scarcity and urgency | 19 | Woodpecker, ZoomInfo, Coursera, LeadsMonky, SmartReach, Salesbread, DemandCurve |
+| 19 | Scarcity and urgency | 20 | Woodpecker, ZoomInfo, Coursera, LeadsMonky, SmartReach, Salesbread, DemandCurve, Outplay |
 | 20 | Unique mechanism (one claim competitors cannot make) | 17 | Clay, Apollo, ZoomInfo, Smartlead, SmartWriter, Warmupinbox, Datalane |
 | 21 | Empathy (name the feeling) | 16 | Woodpecker, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot, Proposify, Saleshandy |
 | 22 | Loss aversion (cost of inaction) | 14 | Clay, Apollo, ZoomInfo, Smartlead, HubSpot |
@@ -30,7 +30,7 @@ Listed by frequency across analyzed emails (final ranking and cleanup happen at 
 | 24 | Humor and playfulness | 14 | Cognism, HubSpot, Proposify, Breakcold, Salesbread, DemandCurve |
 | 25 | Mutual benefit (win-win swap) | 14 | SmartWriter, Warmupinbox, Saleshandy, Breakcold, Salesforge, DemandCurve |
 | 26 | Show the work (a concrete idea or draft) | 11 | Hunter |
-| 27 | Similarity (shared role or interest) | 8 | Woodpecker, Cognism, Proposify, Breakcold, Salesforge |
+| 27 | Similarity (shared role or interest) | 9 | Woodpecker, Cognism, Proposify, Breakcold, Salesforge, Outplay |
 | 28 | Contrarian angle (common approach is weak) | 7 | Apollo, SmartWriter, HubSpot, Proposify, Datalane |
 | 29 | Risk reversal (low-stakes framing, no reply needed) | 7 | HubSpot, Proposify, Datalane, DemandCurve |
 | 30 | No-ask framing (say outright that you want nothing) | 5 | ZoomInfo, Truelist, Datalane, Salesforge |
@@ -39,10 +39,10 @@ Listed by frequency across analyzed emails (final ranking and cleanup happen at 
 | 33 | Objection pre-emption (name the doubt first) | 5 | HubSpot, DemandCurve |
 | 34 | Personal video (humanization) | 4 | Salesloft, HubSpot, Proposify |
 | 35 | Assumptive close (risky, use with care) | 3 | Woodpecker |
-| 36 | Exclusivity (confidential or selective opportunity) | 2 | Smartlead, SmartWriter |
-| 37 | Price transparency | 2 | Salesloft, DemandCurve |
-| 38 | No-oriented question (a "no" is easy to give) | 1 | Salesloft |
-| 39 | Topical hook (ride a subject they already care about) | 1 | Clay |
+| 36 | Topical hook (ride a subject they already care about) | 3 | Clay, Outplay |
+| 37 | Exclusivity (confidential or selective opportunity) | 2 | Smartlead, SmartWriter |
+| 38 | Price transparency | 2 | Salesloft, DemandCurve |
+| 39 | No-oriented question (a "no" is easy to give) | 1 | Salesloft |
 | 40 | Peer norm (most people reply). Risky, only with real data | 1 | Cognism |
 | 41 | Custom calculation (do the math for them) | 1 | HubSpot |
 

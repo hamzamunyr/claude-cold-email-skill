@@ -1,6 +1,6 @@
 # Hooks and Subject Lines
 
-Emails analyzed so far: 995 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1005 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## Opening line patterns
 
@@ -10,19 +10,19 @@ Emails analyzed so far: 995 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Cour
 | Job posting or open role hook | Reference an open role or hiring post that points at a problem you solve | 28 | Clay, Woodpecker, Proposify, Hunter, Saleshandy |
 | Trigger event plus insight | "I noticed [event]. In my experience that usually means [insight]." | 182 | Clay, Apollo, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, HubSpot, Hunter, Saleshandy, SmartReach, Truelist, Datalane, Salesforge |
 | Empathy opener | Name the frustration first ("I know a stalled listing is frustrating") | 11 | Woodpecker, Smartlead, SmartWriter, Cognism, HubSpot |
-| Pain question opener | Start with a question about the problem they live with | 8 | Woodpecker, SmartWriter, HubSpot |
-| Milestone congrats hook | Congratulate on a sale, purchase, graduation or achievement, then tie to the next step | 29 | Woodpecker, SmartWriter, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Truelist |
+| Pain question opener | Start with a question about the problem they live with | 9 | Woodpecker, SmartWriter, HubSpot, Outplay |
+| Milestone congrats hook | Congratulate on a sale, purchase, graduation or achievement, then tie to the next step | 30 | Woodpecker, SmartWriter, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Truelist, Outplay |
 | Headcount growth hook | Mention a visible team expansion and ask how they will handle the next step | 2 | Clay |
 | Website visit hook | "I looked through your site and put together a few ideas" | 3 | Clay, Salesbread |
-| Peer result hook | Lead with a similar company's or customer's result and tie it to their goal | 14 | Apollo, Salesloft, ZoomInfo, Smartlead, SmartWriter, Warmupinbox, HubSpot |
+| Peer result hook | Lead with a similar company's or customer's result and tie it to their goal | 15 | Apollo, Salesloft, ZoomInfo, Smartlead, SmartWriter, Warmupinbox, HubSpot, Outplay |
 | Mutual connection hook | Open with a real shared contact and an outcome | 33 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, HubSpot, Hunter, SmartReach, Breakcold, Truelist, Salesbread |
 | LinkedIn post or profile hook | Refer to a specific post or profile detail, then tie it to a shared roadblock or fit | 15 | Salesloft, Woodpecker, Smartlead, Cognism, Warmupinbox, Truelist |
 | Shared event or meeting hook | Refer to an event you both attend or a place you met | 20 | Woodpecker, Smartlead, SmartReach |
 | Self-aware opener | Acknowledge the interruption in one light line ("you probably get a lot of these") | 6 | Woodpecker, HubSpot, DemandCurve |
-| Similarity opener | Mention a real shared role or interest | 3 | Woodpecker, Salesforge |
+| Similarity opener | Mention a real shared role or interest | 4 | Woodpecker, Salesforge, Outplay |
 | Metric check hook | Cite a public data point that moved or that you checked (traffic, authority score) | 4 | Clay, Woodpecker, DemandCurve |
 | Recent event hook | Congratulate on funding, a launch, a hire or an award, then name the challenge it likely creates | 2 | Apollo, ZoomInfo |
-| Industry trend hook | Name a trend or market change affecting their market, then say the usual response falls short | 2 | Apollo, Woodpecker |
+| Industry trend hook | Name a trend or market change affecting their market, then say the usual response falls short | 4 | Apollo, Woodpecker, Outplay |
 | Visitor hook | Acknowledge that they visited or downloaded from you, then offer a next step | 23 | Salesloft, SmartWriter, HubSpot, Hunter |
 | Thank-you response hook | Thank them for a demo request or trial signup and give the next step | 4 | Woodpecker, Cognism, Salesbread |
 | Podcast or content compliment | Praise a specific episode or piece, then bridge to an idea | 20 | Salesloft, ZoomInfo, Coursera, SmartWriter, Warmupinbox, Saleshandy, Truelist, Salesforge, Salesbread, DemandCurve |
@@ -37,7 +37,7 @@ Emails analyzed so far: 995 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Cour
 | Public statement hook | Refer to something they said publicly about a need, then offer help | 1 | Coursera |
 | Engagement signal hook | Say you saw them engage with a post on [topic] and guess it is on their mind | 1 | FirstSales |
 | Local listing hook | Say you came across their business while looking at [type] in [city], plus one real detail from their listing or site | 1 | FirstSales |
-| Research finding hook | Say you ran a quick audit or check of their site, ads or content and found a specific gap | 17 | Smartlead, LeadsMonky, HubSpot, Proposify, Saleshandy, Datalane |
+| Research finding hook | Say you ran a quick audit or check of their site, ads or content and found a specific gap | 18 | Smartlead, LeadsMonky, HubSpot, Proposify, Saleshandy, Datalane, Outplay |
 | Re-engagement hook | Refer to an earlier conversation, or a trigger that happened since you last talked | 4 | Smartlead, HubSpot, Datalane |
 | Confidential opportunity hook | Signal a private, selective opportunity for a specific profile | 1 | Smartlead |
 | Connection-based intro request hook | Say you saw they are connected to someone and ask for an introduction | 2 | SmartWriter |
@@ -65,7 +65,7 @@ Rule: the first line is about the prospect, not you. Skip empty openers ("hope y
 
 | Pattern | Example shape | Count | Sources |
 |---|---|---|---|
-| Question about their situation | "Still looking for a new [role]?" or "Ready to try selling again?" | 66 | Woodpecker, ZoomInfo, LeadsMonky, Warmupinbox, Saleshandy, SmartReach, Salesforge, Salesbread |
+| Question about their situation | "Still looking for a new [role]?" or "Ready to try selling again?" | 67 | Woodpecker, ZoomInfo, LeadsMonky, Warmupinbox, Saleshandy, SmartReach, Salesforge, Salesbread, Outplay |
 | Plain benefit or offer | "We'll deliver the candidates you need" | 15 | Woodpecker |
 | Role-targeted | "Looking for work as a [role]?" | 10 | Woodpecker |
 | Still-question follow-up | "Still interested in talking?" | 7 | Woodpecker |
@@ -73,8 +73,8 @@ Rule: the first line is about the prospect, not you. Skip empty openers ("hope y
 | Event or date | "Let's connect at [event]" | 5 | Woodpecker |
 | Mutual connection | "[Name] suggested I reach out" | 14 | Apollo, Woodpecker, ZoomInfo, Smartlead, HubSpot, Truelist, Salesbread |
 | Thank-you | "Thanks for requesting a demo" | 3 | Woodpecker, Salesbread |
-| Peer result | "How [peer company] hit [metric]" | 9 | Apollo, ZoomInfo, Smartlead, HubSpot, Salesbread |
-| Event congrats | "Congrats on [specific event]" | 20 | Apollo, ZoomInfo, SmartWriter, Warmupinbox, Proposify, Hunter, Saleshandy |
+| Peer result | "How [peer company] hit [metric]" | 10 | Apollo, ZoomInfo, Smartlead, HubSpot, Salesbread, Outplay |
+| Event congrats | "Congrats on [specific event]" | 21 | Apollo, ZoomInfo, SmartWriter, Warmupinbox, Proposify, Hunter, Saleshandy, Outplay |
 | Question about a topic | "Quick question about [specific area]" | 35 | Apollo, ZoomInfo, HubSpot, Hunter, Truelist |
 | Trend thought | "[First name], quick thought on [trend]" | 1 | Apollo |
 | Short read | "2-min read: [insight] for [company]" | 1 | Apollo |
@@ -192,6 +192,8 @@ Rule: the first line is about the prospect, not you. Skip empty openers ("hope y
 | Idea for their asset | "Idea for your [playbook or guide]" | 1 | DemandCurve |
 | Service label | "Cold email as a service" | 1 | DemandCurve |
 | Incentive subject (use sparingly) | "Lunch on me?" | 1 | DemandCurve |
+| Offer to help | "Here to Help: Easing [pain point]" | 1 | Outplay |
+| Intel subject | "Crucial intel for your [industry]" | 1 | Outplay |
 
 Hunter library statistics (from its 510 templates): in the curated set of 228 (six per subcategory), about 90% of subjects carry a custom detail field, subjects average about 6 words, only about 7% are questions, and none use "hope you are well" openers. In the older community-submitted set of 282, about 34% of subjects carry a custom field, about 18% are questions, 13% open with "hope you are well" and 14% open with "my name is". Specific, short and detail-led subjects dominate the better group.
 

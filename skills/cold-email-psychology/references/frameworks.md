@@ -1,8 +1,8 @@
 # Email Frameworks
 
-Emails analyzed so far: 995 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1005 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
-## 1. Five-part first email | Count: 2 | Source: Clay
+## 1. Five-part first email | Count: 2 |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN | Source: Clay, Outplay
 
 Context > Problem and solution > Cost of inaction > Social proof > Light CTA
 
@@ -742,6 +742,24 @@ Send a follow-up that supplies the thing you forgot, such as the link you meant 
 Before writing, find one compliment, one commonality and one question to ask them, and build the opening from the strongest
 
 - A research prompt, not a format. A fake commonality ruins trust.
+
+## 132. Offer to help first | Count: 1 | Source: Outplay
+
+Say what you noticed about their responsibilities > one line on what you did for similar customers > offer a short recording of tips > ask if that would help
+
+- Value first, pitch later in the sequence. Only offer content you actually have.
+
+## 133. Shared-interest opener | Count: 1 | Source: Outplay
+
+Mention a publication or account you both follow and one thing you like about it > a soft offer to share how you helped a similar client
+
+- The shared interest must be real and public. A forced one reads as fake.
+
+## 134. User-feedback outreach | Count: 1 | Source: Outplay
+
+Say you used their product or site > one real observation > offer a few improvement ideas on a call
+
+- Only works with feedback that is true and useful to them.
 
 ## Sequences and cadence
 

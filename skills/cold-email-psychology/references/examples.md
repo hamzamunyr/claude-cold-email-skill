@@ -661,3 +661,28 @@ Interested?
 
 **Why it works:** the work is scoped, the cost objection is handled early, and the ask is a single yes or no. State the spot limit only if it is true.
 
+
+---
+
+## Example 25: Commercial insurance broker for a restaurant owner
+
+**Prospect:** Owner of a three-location restaurant group
+**Psychology:** offer to help first, specificity, effort reduction, lighter ask
+**Pattern from:** Outplay (#025), the offer to help
+
+**Subject options**
+1. a quick note on kitchen fire cover
+2. [Restaurant name] insurance, one idea
+3. three tips before renewal
+
+**Email**
+
+Hi [First name],
+
+I noticed you opened a third location this spring. New sites often mean the property and liability cover is renewed on the old terms.
+
+We have helped a few multi-site restaurants check that gap. I can send a two-minute recording of the three things I look at first. Want it?
+
+[Your name]
+
+**Why it works:** the trigger is real, the offer is small and useful, and the ask is a yes. Use a real number of past clients, not a made-up one.

@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 1261 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1270 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora, Influno). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 | Source: Clay
 
@@ -47,7 +47,7 @@ Trend > what most companies do > a better way > peer result > curiosity question
 
 - Needs real expertise and a real result, or the contrarian line sounds empty.
 
-## 8. Referral | Count: 17 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold, Truelist, Cleverly, Reachly, Salesdorado, TextMagic, ProProfsDesk, Clearout, LeadGibbon, MailGenius
+## 8. Referral | Count: 18 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold, Truelist, Cleverly, Reachly, Salesdorado, TextMagic, ProProfsDesk, Clearout, LeadGibbon, MailGenius, Influno
 
 Mutual contact > outcome achieved > fit with their goal > short call ask
 
@@ -79,7 +79,7 @@ Normalize the problem ("many people in your role struggle with X") > article or 
 
 - Works best when the problem is specific, not generic.
 
-## 14. Collaboration | Count: 27 | Source: Salesloft, Coursera, SmartWriter, Warmupinbox, Hunter, Saleshandy, SmartReach, Salesbread, DemandCurve, Waalaxy, Clearout
+## 14. Collaboration | Count: 28 | Source: Salesloft, Coursera, SmartWriter, Warmupinbox, Hunter, Saleshandy, SmartReach, Salesbread, DemandCurve, Waalaxy, Clearout, Influno
 
 Specific compliment about something they made > mutual contact > a couple of ideas > short call ask
 
@@ -121,7 +121,7 @@ Subject > Personalized opener > Problem > Observation or value > Call to action
 
 - The shared skeleton behind every Woodpecker template (69 of 75 use all five blocks). A good base to build from, but it makes emails look alike, so the opener and observation must be genuinely specific.
 
-## 21. Follow-up reminder | Count: 124 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox, Hunter, Saleshandy, SmartReach, Salesbread, Cleverly, Reachly, TextMagic, Waalaxy, Clearout, LeadGibbon, Oppora
+## 21. Follow-up reminder | Count: 125 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox, Hunter, Saleshandy, SmartReach, Salesbread, Cleverly, Reachly, TextMagic, Waalaxy, Clearout, LeadGibbon, Oppora, Influno
 
 One line referencing the earlier email > restate or add one reason > one ask
 
@@ -637,7 +637,7 @@ Say you saw their content on the topic > list the concrete terms (rate, bonus, r
 
 - Keep terms real and checkable.
 
-## 114. Curiosity-gap question | Count: 2 | Source: Breakcold, MailGenius
+## 114. Curiosity-gap question | Count: 3 | Source: Breakcold, MailGenius, Influno
 
 Say you noticed they are not using a type of solution and ask why, out of genuine curiosity > say you run a related business and like to learn how others choose > no pitch
 
@@ -701,7 +701,7 @@ Open with one specific number about their market, say what it means for their pi
 
 - The number must be real and sourced. An invented statistic here destroys the whole email.
 
-## 125. Partnership win-win pitch | Count: 1 | Source: Salesforge
+## 125. Partnership win-win pitch | Count: 2 | Source: Salesforge, Influno
 
 Praise a specific strength of theirs > say who you serve and where the audiences overlap > mention one past partnership and how customers reacted > a short call to explore
 
@@ -989,6 +989,24 @@ Imply that their name came up in a shared space when it did not
 
 - Only say it if it is true and you can name the context. Otherwise use a real trigger.
 
+## 173. Link insertion pitch | Count: 1 | Source: Influno
+
+Name their article and the exact section > one line on what your resource adds > the link > offer anchor text or a short summary
+
+- Only suggest it where it genuinely helps their readers. Name the section so it does not read as a mass request.
+
+## 174. Content-gap fix pitch | Count: 1 | Source: Influno
+
+Praise the piece > point to one weak or missing angle > offer a resource or a sentence that fills it
+
+- Be kind and specific. A vague criticism reads as a hook for a link.
+
+## 175. Guest article pitch | Count: 1 | Source: Influno
+
+Name a post you liked > propose a title that builds on it > a two line summary > offer an outline
+
+- Make it fit their audience and style. Offer the outline, not the full draft.
+
 ## Sequences and cadence
 
 **Four-email sequence | Count: 1 | Clay.** Email 1: full pitch. Email 2: how it works. Email 3: change the angle. Email 4: breakup, ask who else should handle it.
@@ -1030,3 +1048,5 @@ Imply that their name came up in a shared space when it did not
 **Grid check before sending | Count: 1 | Salesdorado.** Score a draft on six points: asks for interest not a time slot, under 100 words, no product description, short subject without numbers, no ROI promise, a specific verifiable trigger. The page says to bin a template that fails two or more. Its figures are cited from other sources and unverified here.
 
 **Email plus LinkedIn ten-day plan | Count: 1 | Starnus.** Day 1 email, day 2 LinkedIn connection note referencing the email, day 5 a thoughtful comment on their post, day 7 email follow-up with a proof point, day 10 a short breakup. The page suggests 3 to 5 touches over 10 to 14 days and 50 to 125 words per email.
+
+**Outreach timing and sending setup | Count: 1 | Influno.** Plan two or three follow-ups over about two weeks: a reminder after 4 to 7 days, then one that adds a new angle or resource. Send Tuesday to Thursday mornings in the recipient's time zone, and use a separate, properly warmed domain for cold outreach so the main domain stays safe.

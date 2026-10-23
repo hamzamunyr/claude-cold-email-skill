@@ -84,5 +84,6 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] The email stays deliverable: plain formatting, at most one link, no hype or spam words, and your sending domain is authenticated (SPF, DKIM, DMARC)
 - [ ] A first email that asks nothing still gives one concrete reason or question, or it will get no reply
 - [ ] Never imply a connection ("your name came up") that you cannot name and back up
+- [ ] Cold outreach goes out from a separate, warmed sending domain so your main domain's reputation stays safe
 - [ ] No em dashes
 - [ ] 2 to 3 subject line options provided, short and specific

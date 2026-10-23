@@ -1079,3 +1079,28 @@ I'm not selling anything here. If it's easy to share, what has worked best for y
 [Your name]
 
 **Why it works:** the reason for writing is real, the question is specific, and replying or not costs nothing. Add one concrete detail so it does not read as a template.
+
+---
+
+## Example 41: Suggesting a resource for one section of someone's article
+
+**Prospect:** Someone who wrote an article on your topic
+**Psychology:** specificity, reciprocity, a very small ask
+**Pattern from:** Influno (#041), the personalized link pitch
+
+**Subject options**
+1. a note on your [topic] article
+2. one addition for your [section] section
+3. a resource for your readers
+
+**Email**
+
+Hi [First name],
+
+I read your piece "[Article title]", and the section on [specific point] was the clearest explanation I've seen.
+
+I wrote a short guide that adds [one concrete thing, such as new data or a worked example]: [link]. If it fits, I'm happy to suggest a sentence to introduce it.
+
+[Your name]
+
+**Why it works:** it names the exact section, offers something useful, and keeps the ask tiny. Only send it if your resource truly improves that section.

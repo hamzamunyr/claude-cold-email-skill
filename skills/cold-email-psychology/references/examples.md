@@ -227,3 +227,30 @@ Is it worth a quick call, or should I leave you to it?
 [Your name]
 
 **Why it works:** the place and the real detail show it was written for them, the value line names a chore they likely dislike, and the question gives them an easy way out as well as an easy way in.
+
+---
+
+## Example 9: Localization agency for a SaaS growth lead
+
+**Prospect:** Head of Growth at a SaaS company selling into several countries
+**Psychology:** specificity (a real finding), curiosity gap, reciprocity (free findings), effort reduction
+**Pattern from:** Smartlead (#008), audit or gap finding
+
+**Subject options**
+1. your pricing page in German
+2. a gap on [Company]'s checkout
+3. quick find, [First name]
+
+**Email**
+
+Hi [First name],
+
+I ran [Company]'s pricing page through a translation check last week. In the German version, [one specific, real issue you found].
+
+We localize SaaS sites for companies at your stage, and gaps like this usually take [real timeframe] to fix.
+
+I put the rest of what I found in a short list. Want me to send it over?
+
+[Your name]
+
+**Why it works:** the finding proves real work, the list is useful even if they never hire you, and the ask is just a yes. Only use it if you actually ran the check.

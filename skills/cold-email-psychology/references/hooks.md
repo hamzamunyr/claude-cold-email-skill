@@ -1,23 +1,23 @@
 # Hooks and Subject Lines
 
-Emails analyzed so far: 124 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales). Woodpecker counts are approximate.
+Emails analyzed so far: 143 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead). Woodpecker counts are approximate.
 
 ## Opening line patterns
 
 | Pattern | Formula | Count | Sources |
 |---|---|---|---|
-| Prior touch hook | "Following up on my last email about [topic]" plus one new reason | 30 | Salesloft, Woodpecker, ZoomInfo |
+| Prior touch hook | "Following up on my last email about [topic]" plus one new reason | 37 | Salesloft, Woodpecker, ZoomInfo, Smartlead |
 | Job posting or open role hook | Reference an open role or hiring post that points at a problem you solve | 7 | Clay, Woodpecker |
-| Trigger event plus insight | "I noticed [event]. In my experience that usually means [insight]." | 9 | Clay, Apollo, Woodpecker, ZoomInfo, Coursera, FirstSales |
-| Empathy opener | Name the frustration first ("I know a stalled listing is frustrating") | 6 | Woodpecker |
+| Trigger event plus insight | "I noticed [event]. In my experience that usually means [insight]." | 12 | Clay, Apollo, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead |
+| Empathy opener | Name the frustration first ("I know a stalled listing is frustrating") | 7 | Woodpecker, Smartlead |
 | Pain question opener | Start with a question about the problem they live with | 5 | Woodpecker |
 | Milestone congrats hook | Congratulate on a sale, purchase, graduation or achievement, then tie to the next step | 4 | Woodpecker |
 | Headcount growth hook | Mention a visible team expansion and ask how they will handle the next step | 2 | Clay |
 | Website visit hook | "I looked through your site and put together a few ideas" | 2 | Clay |
-| Peer result hook | Lead with a similar company's or customer's result and tie it to their goal | 5 | Apollo, Salesloft, ZoomInfo |
-| Mutual connection hook | Open with a real shared contact and an outcome | 7 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera |
-| LinkedIn post or profile hook | Refer to a specific post or profile detail, then tie it to a shared roadblock or fit | 6 | Salesloft, Woodpecker |
-| Shared event or meeting hook | Refer to an event you both attend or a place you met | 3 | Woodpecker |
+| Peer result hook | Lead with a similar company's or customer's result and tie it to their goal | 8 | Apollo, Salesloft, ZoomInfo, Smartlead |
+| Mutual connection hook | Open with a real shared contact and an outcome | 9 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead |
+| LinkedIn post or profile hook | Refer to a specific post or profile detail, then tie it to a shared roadblock or fit | 10 | Salesloft, Woodpecker, Smartlead |
+| Shared event or meeting hook | Refer to an event you both attend or a place you met | 5 | Woodpecker, Smartlead |
 | Self-aware opener | Acknowledge the interruption in one light line ("you probably get a lot of these") | 3 | Woodpecker |
 | Similarity opener | Mention a real shared role or interest | 2 | Woodpecker |
 | Metric check hook | Cite a public data point that moved or that you checked (traffic, authority score) | 3 | Clay, Woodpecker |
@@ -31,12 +31,15 @@ Emails analyzed so far: 124 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Cour
 | Fresh resource hook | "We just got [new data]. Thought it could help with [their pain]" | 1 | Salesloft |
 | Value drop hook | Give the insight in the email itself and say how long it takes to read | 1 | Apollo |
 | New role hook | Congratulate on a new role, then tie it to a hiring signal | 1 | Clay |
-| Competitor or tech-stack hook | Mention the tool they use today and why others switched | 1 | ZoomInfo |
+| Competitor or tech-stack hook | Mention the tool they use today and why others switched | 3 | ZoomInfo, Smartlead |
 | Connection accepted hook | Thank them for connecting and cite one detail from their profile | 1 | ZoomInfo |
 | Travel or proximity hook | Say you will be in their city soon and offer a short in-person meeting | 1 | Coursera |
 | Public statement hook | Refer to something they said publicly about a need, then offer help | 1 | Coursera |
 | Engagement signal hook | Say you saw them engage with a post on [topic] and guess it is on their mind | 1 | FirstSales |
 | Local listing hook | Say you came across their business while looking at [type] in [city], plus one real detail from their listing or site | 1 | FirstSales |
+| Research finding hook | Say you ran a quick audit or check of their site, ads or content and found a specific gap | 2 | Smartlead |
+| Re-engagement hook | Refer to an earlier conversation, or a trigger that happened since you last talked | 2 | Smartlead |
+| Confidential opportunity hook | Signal a private, selective opportunity for a specific profile | 1 | Smartlead |
 
 Rule: the first line is about the prospect, not you. Skip empty openers ("hope you're well", "I know you're busy", "I found you on LinkedIn"). Vague observations feel weaker than specific ones. Avoid rumor-style openers (hearsay about the prospect) unless the fact is verifiable and the tone is kind.
 
@@ -50,9 +53,9 @@ Rule: the first line is about the prospect, not you. Skip empty openers ("hope y
 | Still-question follow-up | "Still interested in talking?" | 7 | Woodpecker |
 | Urgency or deadline | "Don't forget about our Open House on [date]!" | 6 | Woodpecker |
 | Event or date | "Let's connect at [event]" | 5 | Woodpecker |
-| Mutual connection | "[Name] suggested I reach out" | 9 | Apollo, Woodpecker, ZoomInfo |
+| Mutual connection | "[Name] suggested I reach out" | 11 | Apollo, Woodpecker, ZoomInfo, Smartlead |
 | Thank-you | "Thanks for requesting a demo" | 2 | Woodpecker |
-| Peer result | "How [peer company] hit [metric]" | 5 | Apollo, ZoomInfo |
+| Peer result | "How [peer company] hit [metric]" | 6 | Apollo, ZoomInfo, Smartlead |
 | Event congrats | "Congrats on [specific event]" | 4 | Apollo, ZoomInfo |
 | Question about a topic | "Quick question about [specific area]" | 2 | Apollo, ZoomInfo |
 | Trend thought | "[First name], quick thought on [trend]" | 1 | Apollo |
@@ -72,8 +75,8 @@ Rule: the first line is about the prospect, not you. Skip empty openers ("hope y
 | Metric improvement | "[Specific metric] improvement for [Company]" | 1 | ZoomInfo |
 | Hiring trigger | "Saw [Company] is hiring [role], quick thought" | 1 | ZoomInfo |
 | Compliment | "Impressed by [specific achievement]" | 1 | ZoomInfo |
-| Thanks for connecting | "Thanks for connecting" | 1 | ZoomInfo |
-| Close-file breakup | "Should I close your file?" | 2 (last-chance framing, use with care) | ZoomInfo, FirstSales |
+| Thanks for connecting | "Thanks for connecting" | 2 | ZoomInfo, Smartlead |
+| Close-file breakup | "Should I close your file?" | 3 (last-chance framing, use with care) | ZoomInfo, FirstSales, Smartlead |
 | Topic label | "Video production partners" (plain noun phrase, low curiosity) | 1 | Coursera |
 | Quantified benefit subject | "Cut hiring costs by 30 percent" (only with a real, provable number) | 1 | Coursera |
 | Response to a stated need | "Response to your need for [service]" | 1 | Coursera |
@@ -81,8 +84,20 @@ Rule: the first line is about the prospect, not you. Skip empty openers ("hope y
 | Company and result | "[Company] and [the result you deliver]" | 1 | FirstSales |
 | Right-person subject | "Who handles [area] at [Company]?" | 1 | FirstSales |
 | Same-thread follow-up | "Re: [your first subject]" (only when sent in the same thread) | 2 | FirstSales |
-| Signal reference | "That post on [topic]" | 1 | FirstSales |
+| Signal reference | "That post on [topic]" | 2 | FirstSales, Smartlead |
 | Local place | "[Business name] in [City]" | 1 | FirstSales |
+| Research reference | "your Google ads vs [competitor]'s" | 2 | Smartlead |
+| Competitor name | "switching from [competitor]?" | 2 | Smartlead |
+| Stack question | "quick Q about your outbound stack" | 1 | Smartlead |
+| Dialogue question | "how you're handling [challenge] at [Company]" | 1 | Smartlead |
+| Role open to chat | "[role] at [your company], open to a chat?" | 1 | Smartlead |
+| Executive conversation | "board-level conversation about [function]" | 1 | Smartlead |
+| Shared event | "great talking at [conference]" or "we were both at [conference]" | 2 | Smartlead |
+| Re-engagement | "still relevant?" | 1 | Smartlead |
+| Trigger event mention | "saw [Company] just [event]" | 1 | Smartlead |
+| Different question | "different question" | 1 | Smartlead |
+
+Pairing rule (Smartlead): the subject and the first line should read as one continuous thought. If the subject says one thing and the email opens on another, you lose the reader. Match the subject to the opener: reference what you found, name the event, name the competitor, lead with proof, name the connection, or ask the question.
 
 Pre-header (the preview line after the subject): Coursera suggests using it for a real industry insight or statistic, not a repeat of the subject.
 

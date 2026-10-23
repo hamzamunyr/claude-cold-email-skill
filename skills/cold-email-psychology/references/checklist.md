@@ -26,6 +26,9 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] Every bracket is replaced with a true detail. Delete any line you cannot make true
 - [ ] The sign-off is just a name. No banners, images or long link blocks
 - [ ] The follow-ups are planned with the first email, and each adds something new
+- [ ] The subject and the first line read as one continuous thought
+- [ ] Proof comes from the same vertical when possible (cross-vertical proof reads as desperation)
+- [ ] Any audit, finding or "I noticed" claim is real and specific, not invented
 - [ ] No attachments on the first touch
 - [ ] No feature lists or pricing details in a first cold email
 - [ ] Plain, conversational words. No jargon or hype words ("game changer", "revolutionary")

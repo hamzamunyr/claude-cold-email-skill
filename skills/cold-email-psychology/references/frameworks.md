@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 124 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales). Woodpecker counts are approximate.
+Emails analyzed so far: 143 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead). Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 | Source: Clay
 
@@ -47,7 +47,7 @@ Trend > what most companies do > a better way > peer result > curiosity question
 
 - Needs real expertise and a real result, or the contrarian line sounds empty.
 
-## 8. Referral | Count: 2 | Source: Apollo, ZoomInfo
+## 8. Referral | Count: 4 | Source: Apollo, ZoomInfo, Smartlead
 
 Mutual contact > outcome achieved > fit with their goal > short call ask
 
@@ -121,7 +121,7 @@ Subject > Personalized opener > Problem > Observation or value > Call to action
 
 - The shared skeleton behind every Woodpecker template (69 of 75 use all five blocks). A good base to build from, but it makes emails look alike, so the opener and observation must be genuinely specific.
 
-## 21. Follow-up reminder | Count: 28 | Source: Woodpecker, ZoomInfo, FirstSales
+## 21. Follow-up reminder | Count: 29 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead
 
 One line referencing the earlier email > restate or add one reason > one ask
 
@@ -175,7 +175,7 @@ Who you are > what you noticed about them > a small coffee, chat or connect ask
 
 - Works when the compliment is specific and the ask is easy to decline.
 
-## 31. Candidate or employer recruiting outreach | Count: 19 | Source: Woodpecker
+## 31. Candidate or employer recruiting outreach | Count: 21 | Source: Woodpecker, Smartlead
 
 To candidates: profile or role trigger > why it fits > a few reasons > time ask. To employers: open role seen > proof and candidates on file > call ask.
 
@@ -189,7 +189,7 @@ Trigger event > the challenge companies in their position usually face > what yo
 
 - A three-sentence base. Needs a real trigger, or it reads as generic.
 
-## 34. Competitor mention | Count: 1 | Source: ZoomInfo
+## 34. Competitor mention | Count: 3 | Source: ZoomInfo, Smartlead
 
 Observed tool they use today > why others switched > a similar company's result > interest check
 
@@ -207,11 +207,11 @@ What you published and the data behind it > three key findings in the email > wh
 
 - Putting the findings in the email makes it useful even if they never click.
 
-## 37. LinkedIn connection follow-up | Count: 1 | Source: ZoomInfo
+## 37. LinkedIn connection follow-up | Count: 2 | Source: ZoomInfo, Smartlead
 
 Thanks for connecting > one detail from their profile or company > what you do plus a proof point > 15 minute ask
 
-## 38. Assume-not-a-priority breakup | Count: 3 | Source: ZoomInfo, FirstSales
+## 38. Assume-not-a-priority breakup | Count: 4 | Source: ZoomInfo, FirstSales, Smartlead
 
 Say you reached out a few times > assume it is not a priority and stop > invite a reply if that assumption is wrong
 
@@ -275,7 +275,7 @@ Ask in two short lines whether the problem is on their list now, or whether you 
 
 Name the place and one real detail from their listing or site > "we help local [type] get [result]" > ask if a short chat is worthwhile or the timing is off
 
-## 49. Engagement signal | Count: 1 | Source: FirstSales
+## 49. Engagement signal | Count: 2 | Source: FirstSales, Smartlead
 
 You saw them engage with a post on [topic], and say you guessed it is on their mind > how you help in one sentence > offer to share how it works
 
@@ -286,6 +286,48 @@ You saw them engage with a post on [topic], and say you guessed it is on their m
 "We help [type of company] get [one result] without [the usual cost or chore]"
 
 - One line, in their words. Used as the "what you do" line in several templates.
+
+## 51. Three-part core (opener, bridge, ask) | Count: 19 | Source: Smartlead
+
+Opener that proves it was written for them > one bridge sentence tying their world to one outcome (with proof if you have it) > one low-friction ask
+
+- Smartlead's view: the first sentence matters most, the bridge is an outcome and not a feature list, and the ask should be specific and bounded.
+
+## 52. Tech-stack trigger | Count: 1 | Source: Smartlead
+
+A tool they use plus their growth stage > the wall teams at that stage hit > what you do and one proof number > short call ask
+
+- Needs a verifiable tech signal. A wrong guess about their stack kills the email.
+
+## 53. Dialogue question | Count: 1 | Source: Smartlead
+
+Reference a real post of theirs > a stage-specific observation > a genuine question about how they handle it today > a line saying you are not pitching
+
+- A founder-to-founder tone. It starts a conversation and asks for no meeting.
+
+## 54. Audit or gap finding | Count: 2 | Source: Smartlead
+
+A specific finding from a quick check of their ads, content or site > proof you fixed something similar > offer the full findings in a short call
+
+- The finding must be real and specific (real keywords, real pages). A made-up audit is deceptive.
+
+## 55. Event follow-up | Count: 2 | Source: Smartlead
+
+Warm: refer to the actual conversation and the promised resource > a low-pressure line saying you can go deeper if the topic is still live. Cold: a shared session or event > a short link to what you do > short call ask
+
+## 56. Re-engagement | Count: 2 | Source: Smartlead
+
+Refer to the earlier conversation or a trigger since then > ask whether the topic is still on their radar > offer two clean paths (revisit now or follow up next quarter)
+
+## 57. Different-question follow-up | Count: 1 | Source: Smartlead
+
+Skip making the case again > ask what would need to be true for your solution to make sense now > state that you have no agenda, offer to reconnect later
+
+## 58. Four customization variables | Count: 1 | Source: Smartlead
+
+Trigger event (hardest to find, highest value) > role-specific pain (not "efficiency") > proof point from the same vertical (cross-vertical proof reads as desperation) > an ask that matches their buying stage
+
+- If you can fill all four with real detail it is a personalized email. If you only fill name and company it will perform like a template.
 
 ## Sequences and cadence
 
@@ -304,3 +346,5 @@ You saw them engage with a post on [topic], and say you guessed it is on their m
 **Follow-up volume and timing | Count: 1 | ZoomInfo.** Plan three to five follow-ups a few days apart before sending the first email. Each follow-up should add a new angle or value, and most replies arrive after the second or third touch. Weekday mornings (8 to 10 AM in the prospect's time zone) are suggested, which matches Apollo's advice. ZoomInfo also suggests keeping emails under about 150 words and testing subject lines and body copy as separate variables.
 
 **Four-step sequence (days 0, 3, 7, 12) | Count: 1 | FirstSales.** Day 0: one easy question. Day 3: a follow-up with a new angle (a cost, a risk or time saved) and one line of proof you can back up. Day 7: a short nudge with two easy answers. Day 12: a polite last email that says you will stop. Plan the follow-ups when you write the first email, and stop the sequence as soon as the person replies or opts out. Change one thing at a time when testing (the subject or the ask, not both).
+
+**Smartlead follow-up and testing guidance | Count: 1 | Smartlead.** Use four to six touches for B2B, and give each follow-up a new angle (a new insight, a different framing, a related resource or a different stakeholder). Day 3 can add a new insight, day 7 a different question, then a warm break-up. Practitioners cited by the page report this order of impact (unverified): the offer you make beats the template, the first line beats the subject line, specificity beats length, and a new follow-up angle beats follow-up timing. The page also says reply rate is the main metric, and that open rate is increasingly unreliable.

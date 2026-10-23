@@ -2,6 +2,25 @@
 
 Emails analyzed so far: 1614 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora, Influno, Reachoutly, LeadFuze, Distribute, Semrush, FreebiesMockup, Maildoso, Scalelist, SellingSignals, Outboundly, EmailSneak, FirstSales72, Close, Saleshandy, Follow-up guides). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
+## Quick pick: the most-used frameworks by job
+
+Search this file for the number to read the full structure. Counts show how many analyzed emails used it.
+
+| Job | Framework (number) |
+|---|---|
+| First email to a stranger | #20 Five-block builder, #51 Three-part core, #98 Question-first intro, #145 Six-part signal-first format, #1 Five-part first email |
+| Lead with a real finding | #54 Audit or gap finding, #34 Competitor mention |
+| Lead with proof | #12 Case study first, #25 Social proof pitch |
+| Problem-led | #22 PAS, #15 AIDA, #23 Before-After-Bridge |
+| Wrong contact | #32 Right-person redirect, #8 Referral |
+| Follow-up | #21 Follow-up reminder (use the new-fact version), the follow-up types in followups.md |
+| Last touch | #38 Assume-not-a-priority breakup |
+| Old lead | #56 Re-engagement, #96 Win-back with a new reason |
+| Events | #4 Event hook, #26 Event or office-hours invite, #55 Event follow-up |
+| Partnerships and links | #14 Collaboration, #74 Link-building swap |
+| Recruiting and jobs | #31 Candidate or employer outreach, #76 Job application email |
+| Networking and advice | #30 Networking introduction, #91 Advice request with an email-only option |
+
 ## 1. Five-part first email | Count: 2 | Source: Clay
 
 Context > Problem and solution > Cost of inaction > Social proof > Light CTA

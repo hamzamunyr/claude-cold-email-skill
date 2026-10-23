@@ -303,6 +303,138 @@ stop here. Otherwise, would a short call next week help?
 
 ---
 
+## ✅ Tested on 5 scenarios
+
+Before release the finished skill was run on five common requests, and every output was checked against the pre-send checklist (length, one ask, one proof, no hype, no em dashes). Facts in brackets are placeholders you confirm.
+
+<details>
+<summary><b>1. First email to a business buyer</b></summary>
+
+**Request:** I sell expense-tracking software. Write to a finance manager at a 50-person company that just opened a second office.
+
+```text
+Subject options: second office expenses / [Company]'s new office
+
+Hi [First name],
+
+I saw [Company] opened a second office in [city]. Two locations usually
+means expense reports arrive from more people in more formats, and
+month-end takes longer.
+
+A 60-person team we work with cut their close from six days to three
+after moving receipts into one place [confirm this result before sending].
+
+Worth 10 minutes to see if it fits yours?
+
+[Your name]
+```
+
+65 words, one proof, one small ask.
+
+</details>
+
+<details>
+<summary><b>2. A freelancer pitching a new client</b></summary>
+
+**Request:** I'm a freelance copywriter. Pitch an online store whose top product page lists specs but not who it is for.
+
+```text
+Subject options: one idea for the [product] page / who is [product] for?
+
+Hi [First name],
+
+I read the [product] page on your site. The specs are clear, but the
+first screen does not say who it is for or why it beats the cheaper
+options, which is usually where visitors decide.
+
+I wrote a short rewrite of the top section. Want me to send it over?
+
+[Your name]
+```
+
+56 words, free value first, a yes-or-no ask, no invented proof.
+
+</details>
+
+<details>
+<summary><b>3. A 3-email follow-up sequence</b></summary>
+
+**Request:** They did not reply to scenario 1. Write 3 follow-ups.
+
+```text
+Day 3 (same thread): a new fact
+Hi [First name],
+One addition since my note: your careers page lists two new accounting
+roles. Teams that add staff and a location at the same time often find
+receipt chasing is the first thing to slow down.
+Is expense collection already sorted, or still open?
+
+Day 8 (same thread): proof
+Hi [First name],
+One example that may map: a 40-person firm with two offices had expense
+reports arriving in three formats. They moved to a single submission
+form and cut approval time from about a week to two days [confirm a
+real example before sending].
+Not sure it matches [Company]. Should I send the one-page summary?
+
+Day 15 (same thread): a calm close
+Hi [First name],
+I will stop here so I am not filling your inbox. If expense collection
+moves up the list once the new hires settle in, reply and I will pick
+it up. If someone else owns this, a name would help. Either way, good
+luck with the second office.
+```
+
+Each follow-up adds something new, widens the gap and ends without guilt.
+
+</details>
+
+<details>
+<summary><b>4. Improving a bad draft</b></summary>
+
+**Request:** Improve this: "AMAZING OPPORTUNITY!!! I hope this email finds you well. I am the founder of GrowthPro, the leading provider of innovative marketing solutions... a 45 minute call... Click here to book. Brochure attached."
+
+```text
+Subject options: [Company]'s [recent launch] / question about [launch]
+
+Hi [First name],
+
+I saw [Company] launched [specific thing] last [month]. Launches like
+that often bring a spike of visitors who leave before they find [what
+it does].
+
+We helped [a real, similar client] [real result]. Worth 10 minutes to
+see if the same approach would fit?
+
+[Your name]
+```
+
+**What changed:** hype subject and all caps removed, "leading provider" claims replaced by one real proof point, a real detail about them, a 45 minute ask cut to 10, the link and attachment dropped. The skill also flags that the proof and detail must be real.
+
+</details>
+
+<details>
+<summary><b>5. Subject lines</b></summary>
+
+**Request:** 6 subject lines for payroll checks aimed at small business owners.
+
+```text
+payroll question
+overtime at [Company]
+one payroll error to check
+quick payroll check
+who runs payroll at [Company]?
+a note on payroll timing
+```
+
+All under six words, specific, honest and free of hype or fake "Re:".
+
+</details>
+
+> These are the skill's own outputs on illustrative requests, not measured reply rates. No source in this repo gives verified reply rates, so none are claimed.
+
+---
+
 ## 🌍 Where the patterns come from
 
 The skill is built on **75 public sources**: template libraries, vendor guides and real example emails. A few of the biggest:

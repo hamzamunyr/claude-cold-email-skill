@@ -281,3 +281,57 @@ Would it suit your readers? I'm happy to change the angle or the length.
 [Your name]
 
 **Why it works:** the gap shows real reading, the draft is useful work done up front, and the question is a simple yes or no that invites edits.
+
+---
+
+## Example 11: Commercial HVAC maintenance for a facilities manager
+
+**Prospect:** Facilities manager at an office building adding tenants
+**Psychology:** specificity (a real change at the property), reciprocity (a small gift and two ideas), forced choice, local detail
+**Pattern from:** Cognism (#010), small gift with two time windows
+
+**Subject options**
+1. coffee near [Property]?
+2. two ideas for [Property]'s move-ins
+3. [First name], quick one
+
+**Email**
+
+Hi [First name],
+
+I saw [Property] is adding tenants on the [number] floor this quarter, which usually puts more load on the HVAC system.
+
+We service commercial buildings in [City], and I put together two ideas for keeping it steady through the move-ins.
+
+I'd like to buy you a coffee at [real café near the property] and walk you through them. Would Wednesday or Thursday morning work?
+
+[Your name]
+
+**Why it works:** the change at the property is real and relevant, the coffee is a small gift with a local touch, and two windows make the yes easy.
+
+---
+
+## Example 12: Accessibility consultant for a restaurant group
+
+**Prospect:** Marketing manager at a regional restaurant group
+**Psychology:** specificity (a real finding), curiosity gap, reciprocity (the findings), effort reduction
+**Pattern from:** LeadsMonky (#011), research finding
+
+**Subject options**
+1. [Group]'s menu pages and screen readers
+2. found [number] issues on [domain.com]
+3. a quick observation about your menus
+
+**Email**
+
+Hi [First name],
+
+I ran [Group]'s online menu pages through a screen reader check last week. [One specific, real issue you found, such as the page or the element.]
+
+It can also affect how those pages show up in search. We fix this for restaurant groups, and I wrote up the short list of what I found.
+
+Want me to send it over?
+
+[Your name]
+
+**Why it works:** the finding is concrete and checkable, the list is useful on its own, and the ask is a yes. Only send it if you really ran the check.

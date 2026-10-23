@@ -33,6 +33,10 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] Generic flattery ("big fan of your product") is cut unless it names something specific
 - [ ] No contradictions, such as promising no obligation and then asking for something in return
 - [ ] The subject avoids exclamation marks and spam phrases ("click here", "best price", "winner", "double your")
+- [ ] No invented statistics to pressure a reply (for example a made-up chance of replying)
+- [ ] A P.S., humor or emoji is used only if it fits the prospect and is true (no made-up "we adopted your idea")
+- [ ] Do not announce a phone follow-up unless you really will call
+- [ ] Do not ban a word in the advice and then use it in your own subject (for example "free")
 - [ ] No attachments on the first touch
 - [ ] No feature lists or pricing details in a first cold email
 - [ ] Plain, conversational words. No jargon or hype words ("game changer", "revolutionary")

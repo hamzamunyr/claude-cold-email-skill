@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 164 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter). Woodpecker counts are approximate.
+Emails analyzed so far: 191 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky). Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 | Source: Clay
 
@@ -47,7 +47,7 @@ Trend > what most companies do > a better way > peer result > curiosity question
 
 - Needs real expertise and a real result, or the contrarian line sounds empty.
 
-## 8. Referral | Count: 4 | Source: Apollo, ZoomInfo, Smartlead
+## 8. Referral | Count: 5 | Source: Apollo, ZoomInfo, Smartlead, Cognism
 
 Mutual contact > outcome achieved > fit with their goal > short call ask
 
@@ -61,13 +61,13 @@ Their initiative > peer story > the insight written inline > "could this work fo
 
 - Best when you can fit a real insight in two sentences.
 
-## 11. Resource share | Count: 3 | Source: Salesloft, ZoomInfo, SmartWriter
+## 11. Resource share | Count: 4 | Source: Salesloft, ZoomInfo, SmartWriter, Cognism
 
 Fresh resource and why you are sending it > how it connects to their pain > open offer of more help
 
 - No hard ask, so it works as a relationship starter. Put the insight in the email or a link, not an attachment. Add one small question to invite a reply.
 
-## 12. Case study first | Count: 3 | Source: Salesloft, ZoomInfo, Coursera
+## 12. Case study first | Count: 4 | Source: Salesloft, ZoomInfo, Coursera, Cognism
 
 Customer result with a link > another win with the same customer > ask for a call with two named days
 
@@ -85,7 +85,7 @@ Specific compliment about something they made > mutual contact > a couple of ide
 
 - Needs a real piece of their content and a real mutual contact.
 
-## 15. AIDA | Count: 4 | Source: Salesloft, Woodpecker, ZoomInfo, SmartWriter
+## 15. AIDA | Count: 5 | Source: Salesloft, Woodpecker, ZoomInfo, SmartWriter, Cognism
 
 Attention (subject) > Interest (their post or news) > Desire (shared roadblock plus research) > Action (one CTA)
 
@@ -121,13 +121,13 @@ Subject > Personalized opener > Problem > Observation or value > Call to action
 
 - The shared skeleton behind every Woodpecker template (69 of 75 use all five blocks). A good base to build from, but it makes emails look alike, so the opener and observation must be genuinely specific.
 
-## 21. Follow-up reminder | Count: 29 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead
+## 21. Follow-up reminder | Count: 31 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky
 
 One line referencing the earlier email > restate or add one reason > one ask
 
 - Best for: a second or third touch. Keep it under about 80 words and bring something new (a fresh reason, a short resource), not just "checking in".
 
-## 22. PAS (problem, agitate, solution) | Count: 6 | Source: Woodpecker, ZoomInfo, SmartWriter
+## 22. PAS (problem, agitate, solution) | Count: 7 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism
 
 Pain question > deepen the cost of the pain > present the fix with proof > ask to click or chat
 
@@ -179,17 +179,17 @@ Who you are > what you noticed about them > a small coffee, chat or connect ask
 
 To candidates: profile or role trigger > why it fits > a few reasons > time ask. To employers: open role seen > proof and candidates on file > call ask.
 
-## 32. Right-person redirect | Count: 4 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter
+## 32. Right-person redirect | Count: 5 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism
 
 Say you are trying to reach whoever handles [area] > ask if that is them or someone else > one line of context with proof > thank them for the pointer
 
-## 33. Standard intro | Count: 1 | Source: ZoomInfo
+## 33. Standard intro | Count: 2 | Source: ZoomInfo, Cognism
 
 Trigger event > the challenge companies in their position usually face > what you do and for whom > "worth a conversation?"
 
 - A three-sentence base. Needs a real trigger, or it reads as generic.
 
-## 34. Competitor mention | Count: 4 | Source: ZoomInfo, Smartlead, SmartWriter
+## 34. Competitor mention | Count: 5 | Source: ZoomInfo, Smartlead, SmartWriter, Cognism
 
 Observed tool they use today > why others switched > a similar company's result > interest check
 
@@ -207,11 +207,11 @@ What you published and the data behind it > three key findings in the email > wh
 
 - Putting the findings in the email makes it useful even if they never click.
 
-## 37. LinkedIn connection follow-up | Count: 2 | Source: ZoomInfo, Smartlead
+## 37. LinkedIn connection follow-up | Count: 3 | Source: ZoomInfo, Smartlead, Cognism
 
 Thanks for connecting > one detail from their profile or company > what you do plus a proof point > 15 minute ask
 
-## 38. Assume-not-a-priority breakup | Count: 4 | Source: ZoomInfo, FirstSales, Smartlead
+## 38. Assume-not-a-priority breakup | Count: 5 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky
 
 Say you reached out a few times > assume it is not a priority and stop > invite a reply if that assumption is wrong
 
@@ -305,7 +305,7 @@ Reference a real post of theirs > a stage-specific observation > a genuine quest
 
 - A founder-to-founder tone. It starts a conversation and asks for no meeting.
 
-## 54. Audit or gap finding | Count: 2 | Source: Smartlead
+## 54. Audit or gap finding | Count: 11 | Source: Smartlead, LeadsMonky
 
 A specific finding from a quick check of their ads, content or site > proof you fixed something similar > offer the full findings in a short call
 
@@ -377,6 +377,44 @@ A real detail about their site or audience and a common contact if you have one 
 
 - Giving finished work up front is a strong form of reciprocity.
 
+## 67. Thank-you after a download | Count: 1 | Source: Cognism
+
+Thank them for the specific download or webinar > point to one more useful resource > ask if they would like more insights
+
+- A nurture email, not a pitch. Keep it short and avoid listing features.
+
+## 68. Freebie offer | Count: 1 | Source: Cognism
+
+Acknowledge they are busy > offer something small and useful at no cost (leads, an audit, a voucher) > a link to claim it
+
+- Avoid the word "free" in the subject (spam filters). A synonym such as "complimentary" works.
+
+## 69. Personal video email | Count: 1 | Source: Cognism
+
+One line that shows you read their profile > say you will skip a long email > a short personal video > a virtual coffee ask with two windows
+
+## 70. Humorous breakup with a favor ask | Count: 1 | Source: Cognism
+
+Say now may not be the right time and that is fine > share something of yours (a podcast) > ask for a light favor (a subscription) > a playful P.S.
+
+- Only if it suits your brand and the prospect. A joke can fall flat or look flippant.
+
+## 71. Seven-part build with a P.S. | Count: 1 | Source: Cognism
+
+Research > subject > first two sentences (one about them as a person, one about their company) > value proposition with a number > social proof with a named voice > a different kind of CTA > a P.S. that makes them feel valued
+
+- The P.S. only works if true. A made-up claim ("we started using your idea") is deceptive.
+
+## 72. Three research avenues | Count: 1 | Source: Cognism
+
+Business-personal (their LinkedIn bio and focus) > business-business (company news such as growth or acquisitions) > personal (hobbies or recent posts)
+
+## 73. Five-minute research system | Count: 1 | Source: LeadsMonky
+
+Check their domain (rankings, ads, site) > check their top competitor > scan their LinkedIn posts > check an ad library > pick one specific thing (a keyword gap, a weak ad, a missing page) and make it your opening line
+
+- LeadsMonky claims that referencing an activity signal lifts replies by 20 to 35% (unverified).
+
 ## Sequences and cadence
 
 **Four-email sequence | Count: 1 | Clay.** Email 1: full pitch. Email 2: how it works. Email 3: change the angle. Email 4: breakup, ask who else should handle it.
@@ -394,5 +432,9 @@ A real detail about their site or audience and a common contact if you have one 
 **Follow-up volume and timing | Count: 1 | ZoomInfo.** Plan three to five follow-ups a few days apart before sending the first email. Each follow-up should add a new angle or value, and most replies arrive after the second or third touch. Weekday mornings (8 to 10 AM in the prospect's time zone) are suggested, which matches Apollo's advice. ZoomInfo also suggests keeping emails under about 150 words and testing subject lines and body copy as separate variables.
 
 **Four-step sequence (days 0, 3, 7, 12) | Count: 1 | FirstSales.** Day 0: one easy question. Day 3: a follow-up with a new angle (a cost, a risk or time saved) and one line of proof you can back up. Day 7: a short nudge with two easy answers. Day 12: a polite last email that says you will stop. Plan the follow-ups when you write the first email, and stop the sequence as soon as the person replies or opts out. Change one thing at a time when testing (the subject or the ask, not both).
+
+**Three-email follow-up (days 3, 7, 14) | Count: 1 | LeadsMonky.** Day 3: a short reminder that promises something useful. Day 7: a three-point observation about their business, useful whether or not you work together. Day 14: a break-up that assumes the timing is wrong and leaves the door open. LeadsMonky claims three follow-ups raise response by about 28% and that the break-up gets the highest reply rate (unverified). Its day 3 email is a plain bump, which other sources warn against, so add something new instead.
+
+**Deliverability basics | Count: 2 | ZoomInfo, LeadsMonky.** Send from a separate domain, not your main business domain. Set up SPF, DKIM and DMARC. Warm up new domains gradually (about 10 to 20 emails a day, growing over several weeks). Keep bounce rate low (about 2 to 3% or under) by verifying lists. Use a human sender name, plain text and an opt-out. These claims come from vendors selling email tools.
 
 **Smartlead follow-up and testing guidance | Count: 1 | Smartlead.** Use four to six touches for B2B, and give each follow-up a new angle (a new insight, a different framing, a related resource or a different stakeholder). Day 3 can add a new insight, day 7 a different question, then a warm break-up. Practitioners cited by the page report this order of impact (unverified): the offer you make beats the template, the first line beats the subject line, specificity beats length, and a new follow-up angle beats follow-up timing. The page also says reply rate is the main metric, and that open rate is increasingly unreliable.

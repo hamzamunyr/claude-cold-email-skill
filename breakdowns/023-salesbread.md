@@ -15,7 +15,7 @@
 | Follow-up (5) | "Call", "Voicemail", "Next Step?", "Reconnecting", "Goodbye?" | A reminder of an earlier request, a voicemail note, a still-relevant question, a reconnect question, a closing-files line |
 | Playful (2) | "Yes/No?", "Quick Question, {First Name}!" | Three possible reasons for silence, a humorous reply-A-or-B choice |
 | Authority (3) | "Google's Only Recommended CRM", "{First Name}, quick idea for {Company}", "{First Name}, we did this for Uber & Shopify" | Big-brand claims, a result placeholder, an offer of a breakdown or a chat |
-| Warm outreach (3) | "Loved Your Work—Would Love to Connect!", "Would Love to Have You as a Speaker!", "Would Love to Feature You in Our Podcast" | A generic profile compliment, a speaker invite, an interview invite |
+| Warm outreach (3) | "Loved Your Work - Would Love to Connect!", "Would Love to Have You as a Speaker!", "Would Love to Feature You in Our Podcast" | A generic profile compliment, a speaker invite, an interview invite |
 | Product and demo (4) | "Salesbread App", "Feedback Tool for {company}", "Interested in Learning More?", "A Personal Thank You" | A reply-yes offer, a free trial, a post-demo chat, a thank-you with a feedback ask |
 | SEO and content (2) | "SEO?", "Re: {Last Subject-line}" | A link to a thread and a question, a check on a sent resource with a 7 minute ask |
 

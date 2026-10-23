@@ -46,6 +46,9 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] The email does not announce that you saw them open or click something
 - [ ] A risky joke is either cut or kept kind (do not add "not sure if this is appropriate")
 - [ ] Numbers are consistent within the email (for example, the same savings figure everywhere)
+- [ ] A busy or senior recipient is offered a lighter version of the ask (an email answer, one question, a one-line reply)
+- [ ] When asking for an opportunity, a concrete idea or finished draft is included, not just interest
+- [ ] No stock openers ("hope you are well", "my name is"): the first line is about them
 - [ ] No attachments on the first touch
 - [ ] No feature lists or pricing details in a first cold email
 - [ ] Plain, conversational words. No jargon or hype words ("game changer", "revolutionary")

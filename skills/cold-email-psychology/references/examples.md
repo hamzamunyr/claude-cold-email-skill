@@ -416,3 +416,30 @@ Anything you'd like me to look at next?
 [Your name]
 
 **Why it works:** the video is about their own site, so it is clearly written for them, the finding is concrete, and the trial removes the risk without asking for a call. Only send it if you really made the video.
+
+---
+
+## Example 16: Architecture student asking a small firm for an internship
+
+**Prospect:** Principal at a small architecture firm
+**Psychology:** show the work (a concrete idea), specificity, lighter ask, effort reduction
+**Pattern from:** Hunter (#015), internship pitch with a concrete project idea
+
+**Subject options**
+1. an idea for [Firm]'s [named project]
+2. a specific way I could help with [project]
+3. [Year] student: one concrete idea
+
+**Email**
+
+Hi [First name],
+
+I've been studying [Firm]'s [specific project] and have a concrete idea for how I could help as an intern: [two real sentences describing a specific drawing set or analysis you would produce].
+
+I'm a [year] architecture student at [school] with experience in [skill]. My closest project: [one sentence with an outcome].
+
+If that kind of help is useful, I'd love to talk about [season]. A short reply by email works too.
+
+[Your name]
+
+**Why it works:** the idea is specific enough to picture, it is grounded in their real work, and the email-only option keeps the ask light.

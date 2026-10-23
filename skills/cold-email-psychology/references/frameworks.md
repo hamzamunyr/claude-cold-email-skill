@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 240 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify). Woodpecker counts are approximate.
+Emails analyzed so far: 750 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN | Source: Clay, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox
 
@@ -67,7 +67,7 @@ Fresh resource and why you are sending it > how it connects to their pain > open
 
 - No hard ask, so it works as a relationship starter. Put the insight in the email or a link, not an attachment. Add one small question to invite a reply.
 
-## 12. Case study first | Count: 4 | Source: Salesloft, ZoomInfo, Coursera, Cognism
+## 12. Case study first | Count: 10 | Source: Salesloft, ZoomInfo, Coursera, Cognism, Hunter
 
 Customer result with a link > another win with the same customer > ask for a call with two named days
 
@@ -79,7 +79,7 @@ Normalize the problem ("many people in your role struggle with X") > article or 
 
 - Works best when the problem is specific, not generic.
 
-## 14. Collaboration | Count: 4 | Source: Salesloft, Coursera, SmartWriter, Warmupinbox
+## 14. Collaboration | Count: 10 | Source: Salesloft, Coursera, SmartWriter, Warmupinbox, Hunter
 
 Specific compliment about something they made > mutual contact > a couple of ideas > short call ask
 
@@ -121,7 +121,7 @@ Subject > Personalized opener > Problem > Observation or value > Call to action
 
 - The shared skeleton behind every Woodpecker template (69 of 75 use all five blocks). A good base to build from, but it makes emails look alike, so the opener and observation must be genuinely specific.
 
-## 21. Follow-up reminder | Count: 32 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox
+## 21. Follow-up reminder | Count: 90 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox, Hunter
 
 One line referencing the earlier email > restate or add one reason > one ask
 
@@ -175,11 +175,11 @@ Who you are > what you noticed about them > a small coffee, chat or connect ask
 
 - Works when the compliment is specific and the ask is easy to decline.
 
-## 31. Candidate or employer recruiting outreach | Count: 22 | Source: Woodpecker, Smartlead, Warmupinbox
+## 31. Candidate or employer recruiting outreach | Count: 36 | Source: Woodpecker, Smartlead, Warmupinbox, Hunter
 
 To candidates: profile or role trigger > why it fits > a few reasons > time ask. To employers: open role seen > proof and candidates on file > call ask.
 
-## 32. Right-person redirect | Count: 8 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism, Warmupinbox, HubSpot
+## 32. Right-person redirect | Count: 14 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism, Warmupinbox, HubSpot, Hunter
 
 Say you are trying to reach whoever handles [area] > ask if that is them or someone else > one line of context with proof > thank them for the pointer
 
@@ -211,7 +211,7 @@ What you published and the data behind it > three key findings in the email > wh
 
 Thanks for connecting > one detail from their profile or company > what you do plus a proof point > 15 minute ask
 
-## 38. Assume-not-a-priority breakup | Count: 6 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot
+## 38. Assume-not-a-priority breakup | Count: 13 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot, Hunter
 
 Say you reached out a few times > assume it is not a priority and stop > invite a reply if that assumption is wrong
 
@@ -311,11 +311,11 @@ A specific finding from a quick check of their ads, content or site > proof you 
 
 - The finding must be real and specific (real keywords, real pages). A made-up audit is deceptive.
 
-## 55. Event follow-up | Count: 2 | Source: Smartlead
+## 55. Event follow-up | Count: 8 | Source: Smartlead, Hunter
 
 Warm: refer to the actual conversation and the promised resource > a low-pressure line saying you can go deeper if the topic is still live. Cold: a shared session or event > a short link to what you do > short call ask
 
-## 56. Re-engagement | Count: 3 | Source: Smartlead, HubSpot
+## 56. Re-engagement | Count: 9 | Source: Smartlead, HubSpot, Hunter
 
 Refer to the earlier conversation or a trigger since then > ask whether the topic is still on their radar > offer two clean paths (revisit now or follow up next quarter)
 
@@ -347,7 +347,7 @@ Sincere praise for a real recent achievement > picture what they could do with y
 
 - The praise must be real and specific. Do not pair it with an unrelated pitch.
 
-## 62. Website visitor follow-up | Count: 1 | Source: SmartWriter
+## 62. Website visitor follow-up | Count: 7 | Source: SmartWriter, Hunter
 
 Acknowledge what they did on your site > recommend related resources > mention one relevant offer > ask for a short call with two time options
 
@@ -415,19 +415,19 @@ Check their domain (rankings, ads, site) > check their top competitor > scan the
 
 - LeadsMonky claims that referencing an activity signal lifts replies by 20 to 35% (unverified).
 
-## 74. Link-building swap | Count: 1 | Source: Warmupinbox
+## 74. Link-building swap | Count: 43 | Source: Warmupinbox, Hunter
 
 A specific compliment on their article > your related piece and what it adds > ask them to consider linking to it > offer to share theirs with your audience in return
 
 - Only offer an audience you really have. Name its real size.
 
-## 75. Testimonial request | Count: 1 | Source: Warmupinbox
+## 75. Testimonial request | Count: 7 | Source: Warmupinbox, Hunter
 
 Thank a current customer > ask for a testimonial and say how it helps others > offer a small thank-you reward
 
 - For existing customers only. A different job from cold prospecting, so do not reuse a sales template.
 
-## 76. Job application email | Count: 2 | Source: Warmupinbox, Proposify
+## 76. Job application email | Count: 16 | Source: Warmupinbox, Proposify, Hunter
 
 Say which role you are applying for > your years of experience and a result that fits their goals > one specific thing you admire about the company > ask for a discussion and name the day you will follow up
 
@@ -516,6 +516,62 @@ Refer to the report you sent > say there is room to improve > offer a short demo
 Define the ideal customer (role, company size, revenue, industry) > build a short list of fits > research each one before writing
 
 - Proposify's best example felt personal because it was sent to one clear fit, not a purchased list.
+
+## 91. Advice request with an email-only option | Count: 6 | Source: Hunter
+
+Reference something specific they said or wrote > describe your situation and your current thinking in two lines > ask for their view > say they can answer by email if a call is too much
+
+- A follow-up can shrink the ask further to one specific question they can answer in a few sentences. Close with a thank-you note that says what you did with their advice.
+
+## 92. Reconnect through their content | Count: 6 | Source: Hunter
+
+Say a specific article, post or talk of theirs brought you to mind > one specific point you liked and how it links to your work > a light ask to catch up
+
+## 93. Internship pitch with a concrete project idea | Count: 6 | Source: Hunter
+
+Show you studied their product or work > describe one specific project or analysis you could do, grounded in their real work > your year, school, skill and one relevant project > ask about the season
+
+- A concrete idea they can picture beats a general "I'd love to learn".
+
+## 94. Congratulation with no ask | Count: 6 | Source: Hunter
+
+Name a specific milestone (an anniversary, a funding round, a launch) > one line on what impressed you > no request at all
+
+- Builds goodwill. Use it before you ask for anything.
+
+## 95. Speculative job inquiry | Count: 6 | Source: Hunter
+
+Say you are not aware of an open role > one line on relevant experience and a specific accomplishment > the specific thing about their company you admire > ask for a brief conversation
+
+## 96. Win-back with a new reason | Count: 6 | Source: Hunter
+
+Refer to what they used or wanted before > name one concrete change since (a feature, a restructured offer) > a small invitation to take a fresh look
+
+- A genuine change is the reason. Avoid generic "we miss you".
+
+## 97. Investor outreach | Count: 6 | Source: Hunter
+
+Why this person specifically (their expertise or thesis) > one line on the company, traction and round > a short call ask, with a deck on request or attached
+
+- Use a real mutual introduction where possible.
+
+## 98. Question-first intro | Count: 6 | Source: Hunter
+
+Something specific you looked at on their site > a genuine question about how they handle it > say you are not pitching and will say so if you can help
+
+- Gets a conversation going without selling.
+
+## 99. Fit-statement pitch | Count: 6 | Source: Hunter
+
+Say it will be short > explain why they fit your best customer profile > a typical result with a number > two day options for a short call
+
+## 100. Lighter-alternative follow-up | Count: 6 | Source: Hunter
+
+Say you wanted to try a different approach > offer a smaller alternative (a short doc, a resource, an introduction) instead of repeating the ask > no pressure either way
+
+## 101. Webinar clip follow-up | Count: 6 | Source: Hunter
+
+For someone who registered but missed it: offer the single best five-minute clip instead of the full recording > a link to the full version > ask if it is worth a watch
 
 ## Sequences and cadence
 

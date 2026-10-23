@@ -64,5 +64,6 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] No feature lists or pricing details in a first cold email
 - [ ] Plain, conversational words. No jargon or hype words ("game changer", "revolutionary")
 - [ ] Proofread for typos and grammar slips
+- [ ] Any "similar teams saw X to Y" claim is labeled as illustrative or backed by a real, permitted result
 - [ ] No em dashes
 - [ ] 2 to 3 subject line options provided, short and specific

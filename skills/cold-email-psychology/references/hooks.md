@@ -1,14 +1,14 @@
 # Hooks and Subject Lines
 
-Emails analyzed so far: 932 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 942 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## Opening line patterns
 
 | Pattern | Formula | Count | Sources |
 |---|---|---|---|
-| Prior touch hook | "Following up on my last email about [topic]" plus one new reason | 137 | Salesloft, Woodpecker, ZoomInfo, Smartlead, Cognism, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Truelist |
+| Prior touch hook | "Following up on my last email about [topic]" plus one new reason | 138 | Salesloft, Woodpecker, ZoomInfo, Smartlead, Cognism, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Truelist, Datalane |
 | Job posting or open role hook | Reference an open role or hiring post that points at a problem you solve | 28 | Clay, Woodpecker, Proposify, Hunter, Saleshandy |
-| Trigger event plus insight | "I noticed [event]. In my experience that usually means [insight]." | 176 | Clay, Apollo, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, HubSpot, Hunter, Saleshandy, SmartReach, Truelist |
+| Trigger event plus insight | "I noticed [event]. In my experience that usually means [insight]." | 178 | Clay, Apollo, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, HubSpot, Hunter, Saleshandy, SmartReach, Truelist, Datalane |
 | Empathy opener | Name the frustration first ("I know a stalled listing is frustrating") | 11 | Woodpecker, Smartlead, SmartWriter, Cognism, HubSpot |
 | Pain question opener | Start with a question about the problem they live with | 8 | Woodpecker, SmartWriter, HubSpot |
 | Milestone congrats hook | Congratulate on a sale, purchase, graduation or achievement, then tie to the next step | 29 | Woodpecker, SmartWriter, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Truelist |
@@ -37,8 +37,8 @@ Emails analyzed so far: 932 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Cour
 | Public statement hook | Refer to something they said publicly about a need, then offer help | 1 | Coursera |
 | Engagement signal hook | Say you saw them engage with a post on [topic] and guess it is on their mind | 1 | FirstSales |
 | Local listing hook | Say you came across their business while looking at [type] in [city], plus one real detail from their listing or site | 1 | FirstSales |
-| Research finding hook | Say you ran a quick audit or check of their site, ads or content and found a specific gap | 16 | Smartlead, LeadsMonky, HubSpot, Proposify, Saleshandy |
-| Re-engagement hook | Refer to an earlier conversation, or a trigger that happened since you last talked | 3 | Smartlead, HubSpot |
+| Research finding hook | Say you ran a quick audit or check of their site, ads or content and found a specific gap | 17 | Smartlead, LeadsMonky, HubSpot, Proposify, Saleshandy, Datalane |
+| Re-engagement hook | Refer to an earlier conversation, or a trigger that happened since you last talked | 4 | Smartlead, HubSpot, Datalane |
 | Confidential opportunity hook | Signal a private, selective opportunity for a specific profile | 1 | Smartlead |
 | Connection-based intro request hook | Say you saw they are connected to someone and ask for an introduction | 2 | SmartWriter |
 | Own-content share hook | Open with a light check-in, then share your own podcast, report or article | 1 | Cognism |

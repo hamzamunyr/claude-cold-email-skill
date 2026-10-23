@@ -551,3 +551,29 @@ I can send a one-pager on what we did, including what didn't work the first time
 [Your name]
 
 **Why it works:** the trigger is real and time-bound, the hypothesis shows you understand the stage, and admitting what went wrong makes the proof more believable.
+
+---
+
+## Example 21: Fleet telematics for a regional trucking company
+
+**Prospect:** Operations Director at a 60-truck regional carrier
+**Psychology:** permission framing, data point hook, easy exit, effort reduction
+**Pattern from:** Datalane (#020), permission framing plus a data point
+
+**Subject options**
+1. idle time on regional routes
+2. a number on your fleet
+3. quick question, [First name]
+
+**Email**
+
+Hi [First name],
+
+Would it be out of line to ask for 15 minutes? I pulled idle-time figures for regional carriers your size, and the gap between the best and worst quarter of fleets is bigger than most people expect.
+
+I'd walk through where it shows up and let you judge whether it applies to you. If the timing is off, no worries at all.
+
+[Your name]
+
+**Why it works:** the ask is framed as a courtesy, the data is about their segment, and the exit is written in. Only use real figures you can show.
+

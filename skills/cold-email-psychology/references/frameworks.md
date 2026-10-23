@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 932 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 942 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN | Source: Clay, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox
 
@@ -61,7 +61,7 @@ Their initiative > peer story > the insight written inline > "could this work fo
 
 - Best when you can fit a real insight in two sentences.
 
-## 11. Resource share | Count: 7 | Source: Salesloft, ZoomInfo, SmartWriter, Cognism, Warmupinbox, Truelist
+## 11. Resource share | Count: 8 | Source: Salesloft, ZoomInfo, SmartWriter, Cognism, Warmupinbox, Truelist, Datalane
 
 Fresh resource and why you are sending it > how it connects to their pain > open offer of more help
 
@@ -211,7 +211,7 @@ What you published and the data behind it > three key findings in the email > wh
 
 Thanks for connecting > one detail from their profile or company > what you do plus a proof point > 15 minute ask
 
-## 38. Assume-not-a-priority breakup | Count: 19 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot, Hunter, Saleshandy, SmartReach
+## 38. Assume-not-a-priority breakup | Count: 20 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot, Hunter, Saleshandy, SmartReach, Datalane
 
 Say you reached out a few times > assume it is not a priority and stop > invite a reply if that assumption is wrong
 
@@ -315,7 +315,7 @@ A specific finding from a quick check of their ads, content or site > proof you 
 
 Warm: refer to the actual conversation and the promised resource > a low-pressure line saying you can go deeper if the topic is still live. Cold: a shared session or event > a short link to what you do > short call ask
 
-## 56. Re-engagement | Count: 13 | Source: Smartlead, HubSpot, Hunter, Saleshandy, SmartReach
+## 56. Re-engagement | Count: 14 | Source: Smartlead, HubSpot, Hunter, Saleshandy, SmartReach, Datalane
 
 Refer to the earlier conversation or a trigger since then > ask whether the topic is still on their radar > offer two clean paths (revisit now or follow up next quarter)
 
@@ -335,7 +335,7 @@ A friendly opener > "I have an idea I can explain in 10 minutes" tied to a concr
 
 - SmartWriter says this one reportedly drew a 57% open rate and a 21% response rate (unverified). It needs a real idea and a real result.
 
-## 60. Three-sentence email | Count: 3 | Source: SmartWriter, HubSpot, Breakcold
+## 60. Three-sentence email | Count: 4 | Source: SmartWriter, HubSpot, Breakcold, Datalane
 
 Who you are and that you will be quick > what you do for people like them > one small ask
 
@@ -688,6 +688,18 @@ Comment on their post a week before > then say you commented and are closing the
 Name the account trigger (a funding round, a new hire, a launch) > a specific hypothesis about the operational pain that follows that stage > a comparable company's approach > offer a one-pager that includes what you would do differently
 
 - Volunteering a lesson learned adds credibility. Use it for your top 50 to 100 accounts, within the 60 to 180 day window after the trigger, and coordinate across your team.
+
+## 123. Permission framing | Count: 1 | Source: Datalane
+
+Ask whether it would be out of line to request a short slice of time, name what you would share, and add a plain "no worries if not"
+
+- Turns the ask into a polite question, so a no costs nothing. Works when the relevance is real but a direct call request might feel pushy.
+
+## 124. Data point hook | Count: 1 | Source: Datalane
+
+Open with one specific number about their market, say what it means for their pipeline, then ask whether the same gap shows up on their side
+
+- The number must be real and sourced. An invented statistic here destroys the whole email.
 
 ## Sequences and cadence
 

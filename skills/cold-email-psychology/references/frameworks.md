@@ -1,8 +1,8 @@
 # Email Frameworks
 
-Emails analyzed so far: 1005 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1020 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
-## 1. Five-part first email | Count: 2 |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN | Source: Clay, Outplay
+## 1. Five-part first email | Count: 2 |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN | Source: Clay, Outplay, Cleverly
 
 Context > Problem and solution > Cost of inaction > Social proof > Light CTA
 
@@ -761,6 +761,18 @@ Say you used their product or site > one real observation > offer a few improvem
 
 - Only works with feedback that is true and useful to them.
 
+## 135. Content-led connection request | Count: 1 | Source: Cleverly
+
+Answer your buyers' top five questions as posts first > send a short connection note mentioning your niche and one high-engagement post
+
+- Needs real posts behind it. Keep the note plain, not overly casual.
+
+## 136. Breakdown-first ask | Count: 1 | Source: Cleverly
+
+Offer to send a short breakdown of what worked for companies like theirs before asking for a meeting
+
+- A smaller first yes. Follow with a case study in the next touch.
+
 ## Sequences and cadence
 
 **Four-email sequence | Count: 1 | Clay.** Email 1: full pitch. Email 2: how it works. Email 3: change the angle. Email 4: breakup, ask who else should handle it.
@@ -794,3 +806,5 @@ Say you used their product or site > one real observation > offer a few improvem
 **Micro-campaign split test | Count: 1 | Salesbread.** Send one email and one follow-up to two separate lists with two versions, then compare both the copy and the list.
 
 **Follow-up spacing | Count: 2 | Salesbread, Copy.ai.** Space touches on a widening gap (Salesbread suggests the Fibonacci sequence), and plan three or four follow-ups that each add something. Copy.ai advises mentioning in the email that you will follow up.
+
+**Four-touch cadence | Count: 1 | Cleverly.** Day 1 first email, day 4 value add in the same thread, day 9 honest re-engage that offers to stop, day 14 breakup. Run one template for 50 to 100 sends before changing it, and change one thing at a time.

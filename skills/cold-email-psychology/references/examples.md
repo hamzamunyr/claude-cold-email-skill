@@ -686,3 +686,30 @@ We have helped a few multi-site restaurants check that gap. I can send a two-min
 [Your name]
 
 **Why it works:** the trigger is real, the offer is small and useful, and the ask is a yes. Use a real number of past clients, not a made-up one.
+
+---
+
+## Example 26: Document scanning service for a regional law firm
+
+**Prospect:** Office manager at a 30-person law firm
+**Psychology:** problem, agitate, solution, specificity, lighter ask
+**Pattern from:** Cleverly (#026), the PAS template
+
+**Subject options**
+1. paper files
+2. quick thought, [First name]
+3. [Firm name] archive
+
+**Email**
+
+Hi [First name],
+
+I noticed the firm is hiring a records clerk. That usually means a backlog of paper files is eating someone's week.
+
+Most firms your size end up paying for storage and still cannot find a file in under ten minutes. We have helped [real client type] move to searchable scans without a long project.
+
+Want a short breakdown of how it works?
+
+[Your name]
+
+**Why it works:** it names a specific, checkable trigger, makes the cost clear in one line, and offers a small first step. Use only a client type and result you can support.

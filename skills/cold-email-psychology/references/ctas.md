@@ -1,18 +1,18 @@
 # Calls to Action
 
-Emails analyzed so far: 1005 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1020 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 | CTA type | Example shape | When it works | Count | Sources |
 |---|---|---|---|---|
-| Open call or meeting ask | "Do you have time this week to talk?" | Warm leads, senior prospects, strong proof. Higher friction | 287 | Apollo, Salesloft, Woodpecker, Coursera, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Salesbread |
-| Interest check | "If I could help with [problem], would that be useful?" or "Could this work for [company]?" | Cold first touch. Best default | 55 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, HubSpot, Saleshandy, Breakcold, Truelist, Salesbread, DemandCurve |
-| Short call ask (time-boxed) | "Can we do a 10 minute call?" | Value is clear and the prospect is senior. Name the duration | 138 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, LeadsMonky, HubSpot, Hunter, Saleshandy, SmartReach, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay |
+| Open call or meeting ask | "Do you have time this week to talk?" | Warm leads, senior prospects, strong proof. Higher friction | 289 | Apollo, Salesloft, Woodpecker, Coursera, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Salesbread, Cleverly |
+| Interest check | "If I could help with [problem], would that be useful?" or "Could this work for [company]?" | Cold first touch. Best default | 57 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, HubSpot, Saleshandy, Breakcold, Truelist, Salesbread, DemandCurve, Cleverly |
+| Short call ask (time-boxed) | "Can we do a 10 minute call?" | Value is clear and the prospect is senior. Name the duration | 142 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, LeadsMonky, HubSpot, Hunter, Saleshandy, SmartReach, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly |
 | Register or click a link | "Use the link below to save your place" | Event or session invites, trials, sign-ups | 19 | Woodpecker, SmartWriter, Cognism, Saleshandy, SmartReach, Breakcold |
-| Short asset offer | "Can I send a short video, breakdown, case study or menu?" | You have something quick to show. Lowest friction | 38 | Clay, Apollo, Woodpecker, Cognism, LeadsMonky, HubSpot, Proposify, Saleshandy, SmartReach, Breakcold, Truelist, Salesbread, Outplay |
+| Short asset offer | "Can I send a short video, breakdown, case study or menu?" | You have something quick to show. Lowest friction | 43 | Clay, Apollo, Woodpecker, Cognism, LeadsMonky, HubSpot, Proposify, Saleshandy, SmartReach, Breakcold, Truelist, Salesbread, Outplay, Cleverly |
 | Calendar link | A link to book a time | After interest is shown, or for recruiter office hours | 53 | Apollo, Woodpecker, SmartWriter, Warmupinbox, HubSpot, Hunter, DemandCurve, Outplay |
 | Reply with feedback or a pick | "Tell me which of these are a no, and why" | You sent a short list. Easy to answer and useful for you | 9 | Woodpecker, Salesbread |
-| Coffee or LinkedIn connect | "Could I invite you for a coffee?" | Networking, not sales | 6 | Woodpecker, Salesforge |
-| Specific time options | "Do you have time Tuesday or Wednesday?" | Warm leads or strong proof. Two named options beat "when are you free?" | 23 | Salesloft, FirstSales, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot, Proposify, Hunter, SmartReach, Truelist, DemandCurve |
+| Coffee or LinkedIn connect | "Could I invite you for a coffee?" | Networking, not sales | 7 | Woodpecker, Salesforge, Cleverly |
+| Specific time options | "Do you have time Tuesday or Wednesday?" | Warm leads or strong proof. Two named options beat "when are you free?" | 24 | Salesloft, FirstSales, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot, Proposify, Hunter, SmartReach, Truelist, DemandCurve, Cleverly |
 | Show-me offer | "Want me to walk you through it?" | You have a clear demo of the idea you just described | 3 | Clay, FirstSales |
 | Open offer of help | "Let me know if there is anything else I can help with" | Resource shares and warm follow-ups. Low pressure, low reply rate | 7 | Salesloft, Smartlead, Proposify, Salesforge |
 | Referral or recommendation ask | "If you know someone who is buying or selling, please keep me in mind" | After a successful result, when the client is happy | 2 | Woodpecker |
@@ -22,10 +22,10 @@ Emails analyzed so far: 1005 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Cou
 | Referral ask (wrong person) | "Is there someone else I should speak to?" | Final follow-up, or when the contact may be wrong | 43 | Clay, Woodpecker, ZoomInfo, FirstSales, Cognism, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach |
 | Phone number | Give a phone number to call if interested | Weak in cold email. Adds an extra step | 2 | Salesloft, Cognism |
 | Direct meeting ask | "Do you have 15 minutes this week?" | Only when value is already obvious. Raises resistance in a cold first email | 3 (Clay advises against, Salesloft uses one) | Clay, Salesloft, DemandCurve |
-| No-ask close | A plain line saying you are not asking for anything | High-value accounts or resource shares. Builds goodwill, weak reply rate | 5 | ZoomInfo, Smartlead, Truelist, Datalane |
+| No-ask close | A plain line saying you are not asking for anything | High-value accounts or resource shares. Builds goodwill, weak reply rate | 6 | ZoomInfo, Smartlead, Truelist, Datalane, Cleverly |
 | Reply if I am wrong | Invite a reply if your assumption is off, and offer to set a time | Final follow-up. Assume it is not a priority and leave the door open | 3 | ZoomInfo, FirstSales |
 | Two-answer question | Ask if it is on their list now, or if you should check back later | A short nudge. Both answers move things forward | 4 | FirstSales, Smartlead, HubSpot |
-| Reply either way | Ask for a quick reply whether yes or no | A follow-up with a new angle. Lowers the bar to answer | 2 | FirstSales, Saleshandy |
+| Reply either way | Ask for a quick reply whether yes or no | A follow-up with a new angle. Lowers the bar to answer | 3 | FirstSales, Saleshandy, Cleverly |
 | Dialogue question | Ask a real question about how they handle it today, with no meeting ask | Founders and senior buyers. Builds a conversation first | 13 | Smartlead, Proposify, Breakcold, Datalane, Salesforge, Salesbread, Outplay |
 | What would need to be true | Ask what would need to be true for your solution to make sense now | A day 7 follow-up with a different angle | 1 | Smartlead |
 | Introduction request | Ask someone to introduce you to a person they know, and offer a forwardable note | When a real mutual contact exists. Easier if you keep the ask small | 4 | SmartWriter, Warmupinbox, DemandCurve |

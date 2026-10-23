@@ -2,7 +2,7 @@
 
 Emails analyzed so far: 1020 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
-## 1. Five-part first email | Count: 2 |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN | Source: Clay, Outplay, Cleverly
+## 1. Five-part first email | Count: 2 | Source: Clay
 
 Context > Problem and solution > Cost of inaction > Social proof > Light CTA
 
@@ -25,7 +25,7 @@ Observation about their site > "have you considered these?" question > three ide
 - Best for: agencies, tools and services where you can show what you would do for them.
 - Weak when: the ideas are generic or do not fit their business.
 
-## 4. Event hook | Count: 6 | Source: Apollo, ZoomInfo, SmartWriter, Warmupinbox, Saleshandy, Truelist
+## 4. Event hook | Count: 7 | Source: Apollo, ZoomInfo, SmartWriter, Warmupinbox, Saleshandy, Truelist, Outplay
 
 Recent event > the challenge it likely creates > peer result > short call ask
 
@@ -41,13 +41,13 @@ Peer result > note that the method is unusual for the industry > link to the pro
 
 - Best when you have a strong, shareable case study.
 
-## 7. Industry insight | Count: 1 | Source: Apollo
+## 7. Industry insight | Count: 3 | Source: Apollo, Outplay
 
 Trend > what most companies do > a better way > peer result > curiosity question
 
 - Needs real expertise and a real result, or the contrarian line sounds empty.
 
-## 8. Referral | Count: 8 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold, Truelist
+## 8. Referral | Count: 9 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold, Truelist, Cleverly
 
 Mutual contact > outcome achieved > fit with their goal > short call ask
 
@@ -61,13 +61,13 @@ Their initiative > peer story > the insight written inline > "could this work fo
 
 - Best when you can fit a real insight in two sentences.
 
-## 11. Resource share | Count: 9 | Source: Salesloft, ZoomInfo, SmartWriter, Cognism, Warmupinbox, Truelist, Datalane, Salesbread
+## 11. Resource share | Count: 10 | Source: Salesloft, ZoomInfo, SmartWriter, Cognism, Warmupinbox, Truelist, Datalane, Salesbread, Outplay
 
 Fresh resource and why you are sending it > how it connects to their pain > open offer of more help
 
 - No hard ask, so it works as a relationship starter. Put the insight in the email or a link, not an attachment. Add one small question to invite a reply.
 
-## 12. Case study first | Count: 13 | Source: Salesloft, ZoomInfo, Coursera, Cognism, Hunter, Salesforge, Salesbread
+## 12. Case study first | Count: 15 | Source: Salesloft, ZoomInfo, Coursera, Cognism, Hunter, Salesforge, Salesbread, Outplay, Cleverly
 
 Customer result with a link > another win with the same customer > ask for a call with two named days
 
@@ -85,7 +85,7 @@ Specific compliment about something they made > mutual contact > a couple of ide
 
 - Needs a real piece of their content and a real mutual contact.
 
-## 15. AIDA | Count: 6 | Source: Salesloft, Woodpecker, ZoomInfo, SmartWriter, Cognism, HubSpot
+## 15. AIDA | Count: 7 | Source: Salesloft, Woodpecker, ZoomInfo, SmartWriter, Cognism, HubSpot, Cleverly
 
 Attention (subject) > Interest (their post or news) > Desire (shared roadblock plus research) > Action (one CTA)
 
@@ -121,13 +121,13 @@ Subject > Personalized opener > Problem > Observation or value > Call to action
 
 - The shared skeleton behind every Woodpecker template (69 of 75 use all five blocks). A good base to build from, but it makes emails look alike, so the opener and observation must be genuinely specific.
 
-## 21. Follow-up reminder | Count: 114 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox, Hunter, Saleshandy, SmartReach, Salesbread
+## 21. Follow-up reminder | Count: 116 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox, Hunter, Saleshandy, SmartReach, Salesbread, Cleverly
 
 One line referencing the earlier email > restate or add one reason > one ask
 
 - Best for: a second or third touch. Keep it under about 80 words and bring something new (a fresh reason, a short resource), not just "checking in".
 
-## 22. PAS (problem, agitate, solution) | Count: 10 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism, Proposify, Saleshandy, Truelist
+## 22. PAS (problem, agitate, solution) | Count: 11 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism, Proposify, Saleshandy, Truelist, Cleverly
 
 Pain question > deepen the cost of the pain > present the fix with proof > ask to click or chat
 
@@ -145,7 +145,7 @@ Pain observation > what it does to the reader > solution with nearby proof > off
 
 - The tiny sample offer is the useful part. Skip rumor-based openers unless verifiable.
 
-## 25. Social proof pitch | Count: 11 | Source: Woodpecker, HubSpot, Saleshandy, Truelist, Salesbread
+## 25. Social proof pitch | Count: 12 | Source: Woodpecker, HubSpot, Saleshandy, Truelist, Salesbread, Outplay
 
 Industry or pain line > track record with named clients > "we can do the same for you" > ten minute ask
 
@@ -207,11 +207,11 @@ What you published and the data behind it > three key findings in the email > wh
 
 - Putting the findings in the email makes it useful even if they never click.
 
-## 37. LinkedIn connection follow-up | Count: 3 | Source: ZoomInfo, Smartlead, Cognism
+## 37. LinkedIn connection follow-up | Count: 4 | Source: ZoomInfo, Smartlead, Cognism, Cleverly
 
 Thanks for connecting > one detail from their profile or company > what you do plus a proof point > 15 minute ask
 
-## 38. Assume-not-a-priority breakup | Count: 21 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot, Hunter, Saleshandy, SmartReach, Datalane, Salesbread
+## 38. Assume-not-a-priority breakup | Count: 22 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot, Hunter, Saleshandy, SmartReach, Datalane, Salesbread, Cleverly
 
 Say you reached out a few times > assume it is not a priority and stop > invite a reply if that assumption is wrong
 
@@ -287,7 +287,7 @@ You saw them engage with a post on [topic], and say you guessed it is on their m
 
 - One line, in their words. Used as the "what you do" line in several templates.
 
-## 51. Three-part core (opener, bridge, ask) | Count: 19 | Source: Smartlead
+## 51. Three-part core (opener, bridge, ask) | Count: 20 | Source: Smartlead, Cleverly
 
 Opener that proves it was written for them > one bridge sentence tying their world to one outcome (with proof if you have it) > one low-friction ask
 
@@ -315,7 +315,7 @@ A specific finding from a quick check of their ads, content or site > proof you 
 
 Warm: refer to the actual conversation and the promised resource > a low-pressure line saying you can go deeper if the topic is still live. Cold: a shared session or event > a short link to what you do > short call ask
 
-## 56. Re-engagement | Count: 14 | Source: Smartlead, HubSpot, Hunter, Saleshandy, SmartReach, Datalane
+## 56. Re-engagement | Count: 15 | Source: Smartlead, HubSpot, Hunter, Saleshandy, SmartReach, Datalane, Cleverly
 
 Refer to the earlier conversation or a trigger since then > ask whether the topic is still on their radar > offer two clean paths (revisit now or follow up next quarter)
 
@@ -433,7 +433,7 @@ Say which role you are applying for > your years of experience and a result that
 
 - Covers job seekers. Keep it short, specific and truthful.
 
-## 77. Value-led pitch | Count: 3 | Source: HubSpot, Truelist, DemandCurve
+## 77. Value-led pitch | Count: 4 | Source: HubSpot, Truelist, DemandCurve, Cleverly
 
 An initiative of theirs > teams like them used an approach to reach an outcome with a number > two outcome bullets (no features) > a 15 minute call next week
 

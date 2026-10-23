@@ -117,3 +117,34 @@ Would you be against me sending a version tailored to [Company]?
 [Your name]
 
 **Why it works:** naming a common problem makes it easy to admit, the checklist gives value first, and a question where "no" is the safe answer keeps pressure low.
+
+---
+
+## Example 5: Commercial property broker for a growing company
+
+**Prospect:** Head of Operations at a company hiring several people in one city
+**Psychology:** specificity (hiring signal), reciprocity (curated shortlist), commitment minimization (feedback ask), effort reduction
+**Pattern from:** Woodpecker (#004), curated list with feedback ask
+
+**Subject options**
+1. three offices for [Company]
+2. space for your [city] team
+3. a short list, [First name]
+
+**Email**
+
+Hi [First name],
+
+I saw [Company] is hiring [number] people in [city], so I pulled three office spaces that fit a team of about [number]:
+
+- [Address 1], [one key detail]
+- [Address 2], [one key detail]
+- [Address 3], [one key detail]
+
+If any are an instant no, tell me which and why, and I'll refine the list before you spend time on it.
+
+Want details on any of them?
+
+[Your name]
+
+**Why it works:** the shortlist proves effort and relevance, the "tell me which is a no" ask is easy to answer, and the reply gives you what you need to improve the list.

@@ -14,6 +14,10 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] One concrete claim a competitor could not make
 - [ ] If the email lists ideas, each idea is specific to this prospect and easy to scan
 - [ ] The question invites a real answer, not a yes or no that ends the thread, and has no confusing double negatives
+- [ ] In a follow-up, the earlier message is referenced in one short line and something new is added (not just "checking in")
+- [ ] No guilt, pressure or assumptive lines (for example, telling them they owe it to themselves, or assuming they surely have time)
+- [ ] No guarantees or unbacked promises ("guaranteed results")
+- [ ] No rumor-style openers about the prospect unless the fact is verifiable
 - [ ] No attachments on the first touch
 - [ ] No feature lists or pricing details in a first cold email
 - [ ] Plain, conversational words. No jargon or hype words ("game changer", "revolutionary")

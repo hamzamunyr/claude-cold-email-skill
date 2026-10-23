@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 21 (Clay, Apollo, Salesloft).
+Emails analyzed so far: 96 (Clay, Apollo, Salesloft, Woodpecker). Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 | Source: Clay
 
@@ -85,7 +85,7 @@ Specific compliment about something they made > mutual contact > a couple of ide
 
 - Needs a real piece of their content and a real mutual contact.
 
-## 15. AIDA | Count: 1 | Source: Salesloft
+## 15. AIDA | Count: 2 | Source: Salesloft, Woodpecker
 
 Attention (subject) > Interest (their post or news) > Desire (shared roadblock plus research) > Action (one CTA)
 
@@ -114,6 +114,74 @@ Thanks > one-paragraph value summary > pricing and resources > open offer of mor
 Personalized line > question about their current process > peers are investing in this > no-oriented question about hearing how they use it
 
 - The personalized line carries everything. Without it the email is generic.
+
+## 20. Five-block builder | Count: 75 | Source: Woodpecker
+
+Subject > Personalized opener > Problem > Observation or value > Call to action
+
+- The shared skeleton behind every Woodpecker template (69 of 75 use all five blocks). A good base to build from, but it makes emails look alike, so the opener and observation must be genuinely specific.
+
+## 21. Follow-up reminder | Count: 26 | Source: Woodpecker
+
+One line referencing the earlier email > restate or add one reason > one ask
+
+- Best for: a second or third touch. Keep it under about 80 words and bring something new (a fresh reason, a short resource), not just "checking in".
+
+## 22. PAS (problem, agitate, solution) | Count: 3 | Source: Woodpecker
+
+Pain question > deepen the cost of the pain > present the fix with proof > ask to click or chat
+
+- Best for: pains the prospect already feels. Avoid guarantees and insulting framing.
+
+## 23. Before-After-Bridge | Count: 2 | Source: Woodpecker
+
+Describe the current problem > picture the better result > bridge with how you get there > light question
+
+- Best when you can point to a real, checkable observation (for example a metric on their site).
+
+## 24. 4T example (pain, effect, fix with local proof, tiny sample offer) | Count: 1 | Source: Woodpecker
+
+Pain observation > what it does to the reader > solution with nearby proof > offer to send a small sample
+
+- The tiny sample offer is the useful part. Skip rumor-based openers unless verifiable.
+
+## 25. Social proof pitch | Count: 5 | Source: Woodpecker
+
+Industry or pain line > track record with named clients > "we can do the same for you" > ten minute ask
+
+## 26. Event or office-hours invite | Count: 11 | Source: Woodpecker
+
+Audience-targeted opener > what they will learn, when, who speaks > register or calendar link
+
+- Gives value first. Include a recording or an alternative if they cannot attend.
+
+## 27. Curated list with feedback ask | Count: 4 | Source: Woodpecker
+
+Short list matched to what they said they want > "tell me which are a no, and why" > refine
+
+- Easy to answer and gives you data. Works whenever you can prepare a shortlist.
+
+## 28. Expired listing or stalled situation | Count: 2 | Source: Woodpecker
+
+Empathize > give one reason it did not work > offer a fresh idea > ask to talk
+
+## 29. Post-win thank you with referral ask | Count: 2 | Source: Woodpecker
+
+Congratulate > offer help with leftover questions > ask them to keep you in mind for referrals
+
+## 30. Networking introduction | Count: 7 | Source: Woodpecker
+
+Who you are > what you noticed about them > a small coffee, chat or connect ask
+
+- Works when the compliment is specific and the ask is easy to decline.
+
+## 31. Candidate or employer recruiting outreach | Count: 19 | Source: Woodpecker
+
+To candidates: profile or role trigger > why it fits > a few reasons > time ask. To employers: open role seen > proof and candidates on file > call ask.
+
+## 32. Wrong-person breakup | Count: 1 | Source: Woodpecker
+
+Light apology for a possible wrong address > ask who the right contact is > keep the offer open
 
 ## Sequences and cadence
 

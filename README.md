@@ -1,6 +1,6 @@
 # Claude Cold Email Skill: Sales Psychology for Cold Emails
 
-A **Claude Code skill** that writes **cold email** with **sales psychology**, so your **copywriting** feels written for one person and your **B2B outbound** earns more replies. It was built by studying 75 public template libraries, guides and real example emails, then turning the patterns behind them into rules Claude can apply to your prospect.
+A free **Claude Code skill** that writes **cold emails**, **follow-up emails** and **subject lines** with **sales psychology**, so your outreach reads as written for one person and your **B2B outbound** earns more replies. It was built by studying 75 public **cold email templates**, guides and real example emails, then turning the patterns behind them into rules Claude applies to your prospect. Use it for cold email examples, follow-up sequences, breakup emails, outreach and a pre-send checklist.
 
 <p align="center">
   <a href="https://github.com/hamzamunyr/claude-cold-email-skill/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hamzamunyr/claude-cold-email-skill?style=for-the-badge&color=f5c542"></a>
@@ -10,11 +10,11 @@ A **Claude Code skill** that writes **cold email** with **sales psychology**, so
 </p>
 
 <p align="center">
-  <img alt="75 sources" src="https://img.shields.io/badge/sources%20studied-75-1f6feb">
-  <img alt="Emails analyzed" src="https://img.shields.io/badge/emails%20analyzed-1600%2B-1f6feb">
-  <img alt="Principles" src="https://img.shields.io/badge/psychology%20principles-40%2B-1f6feb">
-  <img alt="Frameworks" src="https://img.shields.io/badge/email%20frameworks-100%2B-1f6feb">
-  <img alt="Checklist" src="https://img.shields.io/badge/checklist%20items-55%2B-1f6feb">
+  <img alt="75 cold email sources studied" src="https://img.shields.io/badge/sources%20studied-75-1f6feb">
+  <img alt="1600 plus cold emails analyzed" src="https://img.shields.io/badge/emails%20analyzed-1600%2B-1f6feb">
+  <img alt="40 plus sales psychology principles" src="https://img.shields.io/badge/psychology%20principles-40%2B-1f6feb">
+  <img alt="100 plus cold email frameworks" src="https://img.shields.io/badge/email%20frameworks-100%2B-1f6feb">
+  <img alt="55 plus item cold email checklist" src="https://img.shields.io/badge/checklist%20items-55%2B-1f6feb">
 </p>
 
 <p align="center">
@@ -24,6 +24,7 @@ A **Claude Code skill** that writes **cold email** with **sales psychology**, so
   <a href="#-the-psychology-toolkit">Principles</a> ·
   <a href="#-pick-your-angle">Pick your angle</a> ·
   <a href="#-before-and-after">Before and after</a> ·
+  <a href="#-cold-email-faq">FAQ</a> ·
   <a href="#-where-the-patterns-come-from">Sources</a>
 </p>
 
@@ -432,6 +433,39 @@ All under six words, specific, honest and free of hype or fake "Re:".
 </details>
 
 > These are the skill's own outputs on illustrative requests, not measured reply rates. No source in this repo gives verified reply rates, so none are claimed.
+
+---
+
+## 📚 Cold email templates, examples and follow-ups
+
+Everything the skill knows is plain Markdown you can read without installing anything:
+
+- [Cold email examples](skills/cold-email-psychology/references/examples.md): 53 original examples with the psychology behind each
+- [Cold email frameworks and structures](skills/cold-email-psychology/references/frameworks.md): 200+ structures with a quick-pick table
+- [Cold email follow-up playbook](skills/cold-email-psychology/references/followups.md): how many follow-ups, timing and what each one should add
+- [Cold email subject lines and opening lines](skills/cold-email-psychology/references/hooks.md)
+- [Call to action types](skills/cold-email-psychology/references/ctas.md)
+- [Cold email best practices and deliverability](skills/cold-email-psychology/references/practices.md)
+- [Cold email pre-send checklist](skills/cold-email-psychology/references/checklist.md)
+- [75 source breakdowns](breakdowns/README.md)
+
+---
+
+## ❓ Cold email FAQ
+
+**How long should a cold email be?** Most sources land between 50 and 150 words. The skill aims for 50 to 120 for a first email and under about 100 for a follow-up, with one idea per sentence and one ask.
+
+**How many follow-ups should I send?** The sources disagree (from 2 to 9). The skill defaults to the first email plus 3 follow-ups, and every follow-up has to add something new. See the [follow-up playbook](skills/cold-email-psychology/references/followups.md).
+
+**When should I send the first follow-up?** About 2 to 3 business days after the first email, then widen the gaps.
+
+**What makes a good cold email subject line?** Short (2 to 5 words), specific and honest. No hype words, no fake "Re:" and no clickbait.
+
+**Is cold email spam?** It depends on consent rules where the recipient is, on whether it is relevant and honest, and on how you send it. The skill's [practices guide](skills/cold-email-psychology/references/practices.md) summarizes the basics (CAN-SPAM, GDPR, opt-outs, authentication). It is not legal advice.
+
+**Does the skill guarantee replies?** No. It gives you a stronger draft built on patterns from real emails. Results depend on your list, offer and timing, and no reply rates are claimed here.
+
+**How do I install it?** Run `/plugin marketplace add hamzamunyr/claude-cold-email-skill` in Claude Code, then install the plugin. See [Install](#-install).
 
 ---
 

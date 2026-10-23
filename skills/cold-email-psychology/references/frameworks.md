@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 228 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot). Woodpecker counts are approximate.
+Emails analyzed so far: 240 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify). Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN | Source: Clay, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox
 
@@ -127,7 +127,7 @@ One line referencing the earlier email > restate or add one reason > one ask
 
 - Best for: a second or third touch. Keep it under about 80 words and bring something new (a fresh reason, a short resource), not just "checking in".
 
-## 22. PAS (problem, agitate, solution) | Count: 7 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism
+## 22. PAS (problem, agitate, solution) | Count: 8 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism, Proposify
 
 Pain question > deepen the cost of the pain > present the fix with proof > ask to click or chat
 
@@ -189,7 +189,7 @@ Trigger event > the challenge companies in their position usually face > what yo
 
 - A three-sentence base. Needs a real trigger, or it reads as generic.
 
-## 34. Competitor mention | Count: 7 | Source: ZoomInfo, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot
+## 34. Competitor mention | Count: 8 | Source: ZoomInfo, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot, Proposify
 
 Observed tool they use today > why others switched > a similar company's result > interest check
 
@@ -305,7 +305,7 @@ Reference a real post of theirs > a stage-specific observation > a genuine quest
 
 - A founder-to-founder tone. It starts a conversation and asks for no meeting.
 
-## 54. Audit or gap finding | Count: 13 | Source: Smartlead, LeadsMonky, HubSpot
+## 54. Audit or gap finding | Count: 14 | Source: Smartlead, LeadsMonky, HubSpot, Proposify
 
 A specific finding from a quick check of their ads, content or site > proof you fixed something similar > offer the full findings in a short call
 
@@ -389,7 +389,7 @@ Acknowledge they are busy > offer something small and useful at no cost (leads, 
 
 - Avoid the word "free" in the subject (spam filters). A synonym such as "complimentary" works.
 
-## 69. Personal video email | Count: 2 | Source: Cognism, HubSpot
+## 69. Personal video email | Count: 3 | Source: Cognism, HubSpot, Proposify
 
 One line that shows you read their profile > say you will skip a long email > a short personal video > a virtual coffee ask with two windows
 
@@ -427,7 +427,7 @@ Thank a current customer > ask for a testimonial and say how it helps others > o
 
 - For existing customers only. A different job from cold prospecting, so do not reuse a sales template.
 
-## 76. Job application email | Count: 1 | Source: Warmupinbox
+## 76. Job application email | Count: 2 | Source: Warmupinbox, Proposify
 
 Say which role you are applying for > your years of experience and a result that fits their goals > one specific thing you admire about the company > ask for a discussion and name the day you will follow up
 
@@ -439,7 +439,7 @@ An initiative of theirs > teams like them used an approach to reach an outcome w
 
 - Keep features for the demo. Lead with outcomes.
 
-## 78. Warm welcome to a new contact | Count: 1 | Source: HubSpot
+## 78. Warm welcome to a new contact | Count: 2 | Source: HubSpot, Proposify
 
 Congratulate a new contact at an existing account > mention who at your company worked with their team > offer to share what has worked and quick wins > a short call to compare notes
 
@@ -457,7 +457,7 @@ Acknowledge how busy they are > name two specific time options > add a calendar 
 
 - Time options let them reply with a time instead of clicking a link.
 
-## 81. Multiple-choice breakup | Count: 2 | Source: HubSpot
+## 81. Multiple-choice breakup | Count: 3 | Source: HubSpot, Proposify
 
 Say you have reached out a few times > list three likely reasons for the silence (not a priority, happy now, wrong person) > ask which one it is, and for a referral if it is the wrong person > say you will stop if it is one of the first two
 
@@ -480,6 +480,42 @@ Say you did quick math on their size and industry > show the assumptions and the
 Pick the format before writing: value-led (an outcome), problem-led (a pain they feel), trigger-led (a recent event), social-proof-led (what similar companies achieved) or resource-led (an audit, benchmark or guide)
 
 - Also use role-specific subject lines, a one-sentence bridge (a comparable company used a solution to reach an outcome in a timeframe), and one low-friction CTA.
+
+## 85. Free trial with a no-risk close | Count: 2 | Source: Proposify
+
+A short intro > one benefit question without the pain they want to avoid > offer a free trial > a three-line close that removes the risk (no card, no commitment, no risk) > a link
+
+- Proposify likes that it does not ask for a call. Only offer a trial you really provide on those terms.
+
+## 86. Offer a custom video only to those who reply | Count: 1 | Source: Proposify
+
+A follow-up that references the first email > say you made a short video with ideas for their site > ask whether to send it to them or to someone better placed to act on it
+
+- Record the video only for people who say yes, so your effort goes to warm leads.
+
+## 87. Careers-page trigger | Count: 1 | Source: Proposify
+
+Name the open role and one duty from their careers page > say how your product removes that burden > a line of named client proof > three outcome bullets > ask for a call next week
+
+- The first line is custom, the rest can be reused. Use only real client names and results.
+
+## 88. Personalized report lead magnet | Count: 1 | Source: Proposify
+
+Prepare a short report or video about their own site, with their logo on the cover > send a screenshot linked to the download, not the whole report > follow up based on what they do
+
+- Tools like a site analytics report can supply the data. Showing their own brand first proves the email is about them.
+
+## 89. Follow-up after they open your report | Count: 1 | Source: Proposify
+
+Refer to the report you sent > say there is room to improve > offer a short demo or a recorded webinar with a similar company result
+
+- Risky: telling someone you saw them open it can feel like surveillance. Prefer to follow up without announcing it.
+
+## 90. Narrow target and lead list | Count: 1 | Source: Proposify
+
+Define the ideal customer (role, company size, revenue, industry) > build a short list of fits > research each one before writing
+
+- Proposify's best example felt personal because it was sent to one clear fit, not a purchased list.
 
 ## Sequences and cadence
 

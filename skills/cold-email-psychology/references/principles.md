@@ -1,42 +1,42 @@
 # Psychology Principles
 
-Listed by frequency across analyzed emails (final ranking and cleanup happen at FINALIZE). Counts go up whenever another email uses the pattern. Emails analyzed so far: 228 (6 Clay, 6 Apollo, 9 Salesloft, 75 Woodpecker, 17 ZoomInfo, 3 Coursera, 8 FirstSales, 19 Smartlead, 21 SmartWriter, 15 Cognism, 12 LeadsMonky, 15 Warmupinbox, 22 HubSpot).
+Listed by frequency across analyzed emails (final ranking and cleanup happen at FINALIZE). Counts go up whenever another email uses the pattern. Emails analyzed so far: 240 (6 Clay, 6 Apollo, 9 Salesloft, 75 Woodpecker, 17 ZoomInfo, 3 Coursera, 8 FirstSales, 19 Smartlead, 21 SmartWriter, 15 Cognism, 12 LeadsMonky, 15 Warmupinbox, 22 HubSpot, 12 Proposify).
 
 | Rank | Principle | Count | Sources |
 |---|---|---|---|
-| 1 | Effort reduction (short, one idea per sentence) | 200 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot |
-| 2 | Commitment minimization (low-friction, time-boxed ask) | 143 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot |
-| 3 | Specificity (observed trigger plus concrete details) | 134 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot |
-| 4 | Social proof (named or similar company, bandwagon, testimonials) | 90 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot |
-| 5 | Reciprocity (value before ask) | 72 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot |
-| 6 | Curiosity gap (including question subjects) | 70 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot |
-| 7 | Consistency (reference a prior touch) | 55 | Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox, HubSpot |
-| 8 | Quantified benefit | 31 | Woodpecker, Coursera, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot |
-| 9 | Easy exit (breakup, wrong-person check, polite out) | 29 | Clay, Apollo, Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot |
-| 10 | Liking through a specific compliment | 28 | Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot |
-| 11 | Self-aware honesty (acknowledge the interruption) | 20 | Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, HubSpot |
+| 1 | Effort reduction (short, one idea per sentence) | 211 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify |
+| 2 | Commitment minimization (low-friction, time-boxed ask) | 153 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify |
+| 3 | Specificity (observed trigger plus concrete details) | 142 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify |
+| 4 | Social proof (named or similar company, bandwagon, testimonials) | 93 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify |
+| 5 | Reciprocity (value before ask) | 78 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify |
+| 6 | Curiosity gap (including question subjects) | 72 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify |
+| 7 | Consistency (reference a prior touch) | 58 | Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify |
+| 8 | Quantified benefit | 34 | Woodpecker, Coursera, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify |
+| 9 | Easy exit (breakup, wrong-person check, polite out) | 32 | Clay, Apollo, Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify |
+| 10 | Liking through a specific compliment | 31 | Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify |
+| 11 | Self-aware honesty (acknowledge the interruption) | 24 | Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, HubSpot, Proposify |
 | 12 | Authority (association, expertise, original data, experience) | 19 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, SmartWriter, Cognism |
-| 13 | Problem agitation | 18 | Woodpecker, ZoomInfo, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot |
-| 14 | Competitive comparison (peer benchmark) | 18 | Apollo, Salesloft, ZoomInfo, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot |
-| 15 | Forced choice (two specific options) | 17 | Salesloft, FirstSales, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot |
-| 16 | Unique mechanism (one claim competitors cannot make) | 14 | Clay, Apollo, ZoomInfo, Smartlead, SmartWriter, Warmupinbox |
-| 17 | Empathy (name the feeling) | 14 | Woodpecker, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot |
+| 13 | Competitive comparison (peer benchmark) | 19 | Apollo, Salesloft, ZoomInfo, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify |
+| 14 | Problem agitation | 18 | Woodpecker, ZoomInfo, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot |
+| 15 | Forced choice (two specific options) | 18 | Salesloft, FirstSales, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot, Proposify |
+| 16 | Empathy (name the feeling) | 15 | Woodpecker, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot, Proposify |
+| 17 | Unique mechanism (one claim competitors cannot make) | 14 | Clay, Apollo, ZoomInfo, Smartlead, SmartWriter, Warmupinbox |
 | 18 | Loss aversion (cost of inaction) | 14 | Clay, Apollo, ZoomInfo, Smartlead, HubSpot |
 | 19 | Scarcity and urgency | 13 | Woodpecker, ZoomInfo, Coursera, LeadsMonky |
 | 20 | Borrowed trust (referral or mutual contact) | 12 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, HubSpot |
-| 21 | Intent signal (they visited or downloaded) | 10 | Salesloft, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, HubSpot |
-| 22 | Contrarian angle (common approach is weak) | 5 | Apollo, SmartWriter, HubSpot |
-| 23 | Similarity (shared role or interest) | 4 | Woodpecker, Cognism |
-| 24 | Mutual benefit (win-win swap) | 4 | SmartWriter, Warmupinbox |
-| 25 | Assumptive close (risky, use with care) | 3 | Woodpecker |
-| 26 | Normalization (shared problem) | 3 | Salesloft, Coursera |
-| 27 | Reminder of prior interest | 2 | Woodpecker |
-| 28 | No-ask framing (say outright that you want nothing) | 2 | ZoomInfo |
-| 29 | Convenience and accommodation (offer to come to them, flexible times) | 2 | Coursera |
-| 30 | Exclusivity (confidential or selective opportunity) | 2 | Smartlead, SmartWriter |
-| 31 | Personal video (humanization) | 2 | Salesloft, HubSpot |
-| 32 | Humor and playfulness | 2 | Cognism, HubSpot |
-| 33 | Risk reversal (low-stakes framing, no reply needed) | 2 | HubSpot |
+| 21 | Intent signal (they visited or downloaded) | 11 | Salesloft, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, HubSpot, Proposify |
+| 22 | Humor and playfulness | 7 | Cognism, HubSpot, Proposify |
+| 23 | Contrarian angle (common approach is weak) | 6 | Apollo, SmartWriter, HubSpot, Proposify |
+| 24 | Similarity (shared role or interest) | 5 | Woodpecker, Cognism, Proposify |
+| 25 | Mutual benefit (win-win swap) | 4 | SmartWriter, Warmupinbox |
+| 26 | Personal video (humanization) | 4 | Salesloft, HubSpot, Proposify |
+| 27 | Assumptive close (risky, use with care) | 3 | Woodpecker |
+| 28 | Normalization (shared problem) | 3 | Salesloft, Coursera |
+| 29 | Risk reversal (low-stakes framing, no reply needed) | 3 | HubSpot, Proposify |
+| 30 | Reminder of prior interest | 2 | Woodpecker |
+| 31 | No-ask framing (say outright that you want nothing) | 2 | ZoomInfo |
+| 32 | Convenience and accommodation (offer to come to them, flexible times) | 2 | Coursera |
+| 33 | Exclusivity (confidential or selective opportunity) | 2 | Smartlead, SmartWriter |
 | 34 | No-oriented question (a "no" is easy to give) | 1 | Salesloft |
 | 35 | Price transparency | 1 | Salesloft |
 | 36 | Topical hook (ride a subject they already care about) | 1 | Clay |

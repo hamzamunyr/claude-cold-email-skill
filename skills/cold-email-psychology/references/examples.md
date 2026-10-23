@@ -389,3 +389,30 @@ Want me to send the full calculation with the assumptions, so you can check them
 [Your name]
 
 **Why it works:** the estimate is specific to them, the assumptions are open to checking, and the ask is a yes. Only send it with real, defensible inputs.
+
+---
+
+## Example 15: Scheduling software for a local plumbing company
+
+**Prospect:** Owner of a local plumbing company
+**Psychology:** a custom demo of their own site, specificity, reciprocity (the video), risk reversal (a no-card trial)
+**Pattern from:** Proposify (#014), custom video of their site
+
+**Subject options**
+1. a 40-second look at [Company]'s booking page
+2. I tried to book a plumber
+3. quick find on [Company]'s site
+
+**Email**
+
+Hi [First name],
+
+I recorded a 40-second video of me trying to book an appointment on [Company]'s website, and found [one specific, real friction point]: [video link].
+
+We help local service businesses fix that with [one-line solution]. You can try it free for [real trial length], no card needed.
+
+Anything you'd like me to look at next?
+
+[Your name]
+
+**Why it works:** the video is about their own site, so it is clearly written for them, the finding is concrete, and the trial removes the risk without asking for a call. Only send it if you really made the video.

@@ -1,17 +1,17 @@
 # Hooks and Subject Lines
 
-Emails analyzed so far: 228 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot). Woodpecker counts are approximate.
+Emails analyzed so far: 240 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify). Woodpecker counts are approximate.
 
 ## Opening line patterns
 
 | Pattern | Formula | Count | Sources |
 |---|---|---|---|
-| Prior touch hook | "Following up on my last email about [topic]" plus one new reason | 46 | Salesloft, Woodpecker, ZoomInfo, Smartlead, Cognism, Warmupinbox, HubSpot |
-| Job posting or open role hook | Reference an open role or hiring post that points at a problem you solve | 7 | Clay, Woodpecker |
+| Prior touch hook | "Following up on my last email about [topic]" plus one new reason | 49 | Salesloft, Woodpecker, ZoomInfo, Smartlead, Cognism, Warmupinbox, HubSpot, Proposify |
+| Job posting or open role hook | Reference an open role or hiring post that points at a problem you solve | 8 | Clay, Woodpecker, Proposify |
 | Trigger event plus insight | "I noticed [event]. In my experience that usually means [insight]." | 14 | Clay, Apollo, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, HubSpot |
 | Empathy opener | Name the frustration first ("I know a stalled listing is frustrating") | 11 | Woodpecker, Smartlead, SmartWriter, Cognism, HubSpot |
 | Pain question opener | Start with a question about the problem they live with | 8 | Woodpecker, SmartWriter, HubSpot |
-| Milestone congrats hook | Congratulate on a sale, purchase, graduation or achievement, then tie to the next step | 8 | Woodpecker, SmartWriter, Warmupinbox, HubSpot |
+| Milestone congrats hook | Congratulate on a sale, purchase, graduation or achievement, then tie to the next step | 9 | Woodpecker, SmartWriter, Warmupinbox, HubSpot, Proposify |
 | Headcount growth hook | Mention a visible team expansion and ask how they will handle the next step | 2 | Clay |
 | Website visit hook | "I looked through your site and put together a few ideas" | 2 | Clay |
 | Peer result hook | Lead with a similar company's or customer's result and tie it to their goal | 14 | Apollo, Salesloft, ZoomInfo, Smartlead, SmartWriter, Warmupinbox, HubSpot |
@@ -31,19 +31,22 @@ Emails analyzed so far: 228 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Cour
 | Fresh resource hook | "We just got [new data]. Thought it could help with [their pain]" | 1 | Salesloft |
 | Value drop hook | Give the insight in the email itself and say how long it takes to read | 1 | Apollo |
 | New role hook | Congratulate on a new role, then tie it to a hiring signal | 1 | Clay |
-| Competitor or tech-stack hook | Mention the tool they use today and why others switched | 6 | ZoomInfo, Smartlead, SmartWriter, Cognism, Warmupinbox |
+| Competitor or tech-stack hook | Mention the tool they use today and why others switched | 7 | ZoomInfo, Smartlead, SmartWriter, Cognism, Warmupinbox, Proposify |
 | Connection accepted hook | Thank them for connecting and cite one detail from their profile | 2 | ZoomInfo, Cognism |
 | Travel or proximity hook | Say you will be in their city soon and offer a short in-person meeting | 1 | Coursera |
 | Public statement hook | Refer to something they said publicly about a need, then offer help | 1 | Coursera |
 | Engagement signal hook | Say you saw them engage with a post on [topic] and guess it is on their mind | 1 | FirstSales |
 | Local listing hook | Say you came across their business while looking at [type] in [city], plus one real detail from their listing or site | 1 | FirstSales |
-| Research finding hook | Say you ran a quick audit or check of their site, ads or content and found a specific gap | 13 | Smartlead, LeadsMonky, HubSpot |
+| Research finding hook | Say you ran a quick audit or check of their site, ads or content and found a specific gap | 14 | Smartlead, LeadsMonky, HubSpot, Proposify |
 | Re-engagement hook | Refer to an earlier conversation, or a trigger that happened since you last talked | 3 | Smartlead, HubSpot |
 | Confidential opportunity hook | Signal a private, selective opportunity for a specific profile | 1 | Smartlead |
 | Connection-based intro request hook | Say you saw they are connected to someone and ask for an introduction | 2 | SmartWriter |
 | Own-content share hook | Open with a light check-in, then share your own podcast, report or article | 1 | Cognism |
 | Audience overlap hook | Say you share a similar audience without competing, and propose a swap | 1 | Warmupinbox |
 | Quick math hook | Say you did quick math on their size and what a gap probably costs, then show the working | 1 | HubSpot |
+| Custom demo of their site hook | Record a short video of you using their own website and send it | 1 | Proposify |
+| Team page gap hook | Notice a gap on their team page and a shared interest, then offer to fill it | 1 | Proposify |
+| Engagement-tracked follow-up hook (risky) | Say you saw them open your report. Can feel like surveillance | 1 | Proposify |
 
 Rule: the first line is about the prospect, not you. Skip empty openers ("hope you're well", "I know you're busy", "I found you on LinkedIn"). Vague observations feel weaker than specific ones. Avoid rumor-style openers (hearsay about the prospect) unless the fact is verifiable and the tone is kind.
 
@@ -60,7 +63,7 @@ Rule: the first line is about the prospect, not you. Skip empty openers ("hope y
 | Mutual connection | "[Name] suggested I reach out" | 12 | Apollo, Woodpecker, ZoomInfo, Smartlead, HubSpot |
 | Thank-you | "Thanks for requesting a demo" | 2 | Woodpecker |
 | Peer result | "How [peer company] hit [metric]" | 7 | Apollo, ZoomInfo, Smartlead, HubSpot |
-| Event congrats | "Congrats on [specific event]" | 6 | Apollo, ZoomInfo, SmartWriter, Warmupinbox |
+| Event congrats | "Congrats on [specific event]" | 7 | Apollo, ZoomInfo, SmartWriter, Warmupinbox, Proposify |
 | Question about a topic | "Quick question about [specific area]" | 3 | Apollo, ZoomInfo, HubSpot |
 | Trend thought | "[First name], quick thought on [trend]" | 1 | Apollo |
 | Short read | "2-min read: [insight] for [company]" | 1 | Apollo |
@@ -131,6 +134,12 @@ Rule: the first line is about the prospect, not you. Skip empty openers ("hope y
 | Video subject | "60-second video for [Name]" | 1 | HubSpot |
 | ROI question | "3.2x ROI in 6 months?" (only with a real figure) | 1 | HubSpot |
 | Role-specific benefit | A short benefit phrased in the recipient's role language, for example reducing a team's backlog | 3 | HubSpot |
+| Metaphor label | "Magic [analog tool closest to your solution]" | 1 | Proposify |
+| Plain quick question | "Quick question" | 1 | Proposify |
+| Free to chat | "[Company Name]: Free to chat?" | 1 | Proposify |
+| Strategy line | "strategies and ideas for site" | 1 | Proposify |
+| Applicant with a hobby | "Interested [title] (+ Part-time [hobby])" | 1 | Proposify |
+| Sender and fix | "[Name], it's [Sender] from [Company] (quick fix suggestion)" | 1 | Proposify |
 
 Extra subject guidance from SmartWriter (not verified): a Leadium analysis it cites says subject lines of no more than four words performed best. It lists phrases that often trigger spam filters ("Click Here", "Best Price", "Winner", "Money Making", "Double Your", "Why Pay More?"), and says a friendly conversational subject beats a stiff one.
 

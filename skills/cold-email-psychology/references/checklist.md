@@ -43,6 +43,9 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] No customer's or competitor's results are shared without permission
 - [ ] When offering a time, give two time options as well as a calendar link
 - [ ] Wording about a download or site visit is about the content, not about tracking them
+- [ ] The email does not announce that you saw them open or click something
+- [ ] A risky joke is either cut or kept kind (do not add "not sure if this is appropriate")
+- [ ] Numbers are consistent within the email (for example, the same savings figure everywhere)
 - [ ] No attachments on the first touch
 - [ ] No feature lists or pricing details in a first cold email
 - [ ] Plain, conversational words. No jargon or hype words ("game changer", "revolutionary")

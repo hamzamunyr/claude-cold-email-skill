@@ -1156,3 +1156,28 @@ Either answer helps me plan.
 [Your name]
 
 **Why it works:** it is one line, it does not say they ignored you, and it makes a no easy. Keep it in the same thread.
+
+---
+
+## Example 44: A pilot invitation with a real deadline
+
+**Prospect:** A manager who would benefit from a new tool or service
+**Psychology:** legitimate scarcity, fit, a clear next step
+**Pattern from:** Distribute.you (#044), the urgency template done honestly
+
+**Subject options**
+1. a small pilot group for [month]
+2. [Company] and [specific use]
+3. before the pilot batch closes
+
+**Email**
+
+Hi [First name],
+
+We are onboarding a small pilot group of [type of team] to test [specific thing] this [month]. It fits teams that are [specific situation, such as planning a launch].
+
+The batch closes on [real date]. If it sounds relevant, I can send the details before then.
+
+[Your name]
+
+**Why it works:** the limit and date are real, the fit is specific, and the ask is small. Do not say it if the deadline is made up.

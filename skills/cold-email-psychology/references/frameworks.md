@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 1315 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora, Influno, Reachoutly, LeadFuze). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1332 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora, Influno, Reachoutly, LeadFuze, Distribute). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 | Source: Clay
 
@@ -25,7 +25,7 @@ Observation about their site > "have you considered these?" question > three ide
 - Best for: agencies, tools and services where you can show what you would do for them.
 - Weak when: the ideas are generic or do not fit their business.
 
-## 4. Event hook | Count: 13 | Source: Apollo, ZoomInfo, SmartWriter, Warmupinbox, Saleshandy, Truelist, Outplay, Artisan, Salesdorado, TextMagic, Starnus, Oppora
+## 4. Event hook | Count: 14 | Source: Apollo, ZoomInfo, SmartWriter, Warmupinbox, Saleshandy, Truelist, Outplay, Artisan, Salesdorado, TextMagic, Starnus, Oppora, Distribute
 
 Recent event > the challenge it likely creates > peer result > short call ask
 
@@ -47,7 +47,7 @@ Trend > what most companies do > a better way > peer result > curiosity question
 
 - Needs real expertise and a real result, or the contrarian line sounds empty.
 
-## 8. Referral | Count: 21 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold, Truelist, Cleverly, Reachly, Salesdorado, TextMagic, ProProfsDesk, Clearout, LeadGibbon, MailGenius, Influno, Reachoutly
+## 8. Referral | Count: 22 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold, Truelist, Cleverly, Reachly, Salesdorado, TextMagic, ProProfsDesk, Clearout, LeadGibbon, MailGenius, Influno, Reachoutly, Distribute
 
 Mutual contact > outcome achieved > fit with their goal > short call ask
 
@@ -55,7 +55,7 @@ Mutual contact > outcome achieved > fit with their goal > short call ask
 
 Observation > question about a trending topic > free event or session > authority proof > invite ask
 
-## 10. Quick value drop | Count: 2 | Source: Apollo, Starnus
+## 10. Quick value drop | Count: 4 | Source: Apollo, Starnus, Distribute
 
 Their initiative > peer story > the insight written inline > "could this work for you?" question
 
@@ -67,7 +67,7 @@ Fresh resource and why you are sending it > how it connects to their pain > open
 
 - No hard ask, so it works as a relationship starter. Put the insight in the email or a link, not an attachment. Add one small question to invite a reply.
 
-## 12. Case study first | Count: 20 | Source: Salesloft, ZoomInfo, Coursera, Cognism, Hunter, Salesforge, Salesbread, Outplay, Cleverly, Salesdorado, Clearout, Reachoutly
+## 12. Case study first | Count: 22 | Source: Salesloft, ZoomInfo, Coursera, Cognism, Hunter, Salesforge, Salesbread, Outplay, Cleverly, Salesdorado, Clearout, Reachoutly, Distribute
 
 Customer result with a link > another win with the same customer > ask for a call with two named days
 
@@ -127,7 +127,7 @@ One line referencing the earlier email > restate or add one reason > one ask
 
 - Best for: a second or third touch. Keep it under about 80 words and bring something new (a fresh reason, a short resource), not just "checking in".
 
-## 22. PAS (problem, agitate, solution) | Count: 18 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism, Proposify, Saleshandy, Truelist, Cleverly, Artisan, TextMagic, Starnus, MailGenius, Reachoutly
+## 22. PAS (problem, agitate, solution) | Count: 20 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism, Proposify, Saleshandy, Truelist, Cleverly, Artisan, TextMagic, Starnus, MailGenius, Reachoutly, Distribute
 
 Pain question > deepen the cost of the pain > present the fix with proof > ask to click or chat
 
@@ -145,7 +145,7 @@ Pain observation > what it does to the reader > solution with nearby proof > off
 
 - The tiny sample offer is the useful part. Skip rumor-based openers unless verifiable.
 
-## 25. Social proof pitch | Count: 22 | Source: Woodpecker, HubSpot, Saleshandy, Truelist, Salesbread, Outplay, Mailsuite, TextMagic, ProProfsDesk, Waalaxy, Clearout, Starnus, MailGenius
+## 25. Social proof pitch | Count: 23 | Source: Woodpecker, HubSpot, Saleshandy, Truelist, Salesbread, Outplay, Mailsuite, TextMagic, ProProfsDesk, Waalaxy, Clearout, Starnus, MailGenius, Distribute
 
 Industry or pain line > track record with named clients > "we can do the same for you" > ten minute ask
 
@@ -555,7 +555,7 @@ Why this person specifically (their expertise or thesis) > one line on the compa
 
 - Use a real mutual introduction where possible.
 
-## 98. Question-first intro | Count: 16 | Source: Hunter, SmartReach, Truelist, Artisan, ProProfsDesk, Clearout, Starnus, Reachoutly
+## 98. Question-first intro | Count: 18 | Source: Hunter, SmartReach, Truelist, Artisan, ProProfsDesk, Clearout, Starnus, Reachoutly, Distribute
 
 Something specific you looked at on their site > a genuine question about how they handle it > say you are not pitching and will say so if you can help
 
@@ -637,7 +637,7 @@ Say you saw their content on the topic > list the concrete terms (rate, bonus, r
 
 - Keep terms real and checkable.
 
-## 114. Curiosity-gap question | Count: 3 | Source: Breakcold, MailGenius, Influno
+## 114. Curiosity-gap question | Count: 5 | Source: Breakcold, MailGenius, Influno, Distribute
 
 Say you noticed they are not using a type of solution and ask why, out of genuine curiosity > say you run a related business and like to learn how others choose > no pitch
 
@@ -1031,6 +1031,18 @@ Say you are not sure what the next step is > ask what makes sense, if anything
 
 - A one-liner that gives the reader an easy answer. Do not say they failed to reply.
 
+## 180. Real-deadline pilot invite | Count: 1 | Source: Distribute
+
+Say you are onboarding a small group > who it fits > the real window or batch limit > offer details before it closes
+
+- Only use a deadline or limit that operations can verify. "Filling fast" with no proof reads as fake.
+
+## 181. Public proof invitation | Count: 1 | Source: Distribute
+
+Point to public examples or a documented workflow > say what is useful about it > invite them to inspect it and ask if they want the version for their stage
+
+- Works when the proof is really public. It invites checking, not belief.
+
 ## Sequences and cadence
 
 **Four-email sequence | Count: 1 | Clay.** Email 1: full pitch. Email 2: how it works. Email 3: change the angle. Email 4: breakup, ask who else should handle it.
@@ -1074,3 +1086,5 @@ Say you are not sure what the next step is > ask what makes sense, if anything
 **Email plus LinkedIn ten-day plan | Count: 1 | Starnus.** Day 1 email, day 2 LinkedIn connection note referencing the email, day 5 a thoughtful comment on their post, day 7 email follow-up with a proof point, day 10 a short breakup. The page suggests 3 to 5 touches over 10 to 14 days and 50 to 125 words per email.
 
 **Outreach timing and sending setup | Count: 1 | Influno.** Plan two or three follow-ups over about two weeks: a reminder after 4 to 7 days, then one that adds a new angle or resource. Send Tuesday to Thursday mornings in the recipient's time zone, and use a separate, properly warmed domain for cold outreach so the main domain stays safe.
+
+**Fourteen-day trigger sequence with a payload change | Count: 1 | Distribute.** Day 1 email tied to a live trigger, day 4 follow-up that adds something useful, day 7 LinkedIn touch, day 10 email with proof, day 14 closeout with an easy out. Change the payload each time. Track positive replies and cost per positive reply. Strong copy with weak positive replies usually means targeting, and strong targeting with weak opens usually means deliverability or subject lines.

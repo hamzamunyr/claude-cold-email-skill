@@ -1104,3 +1104,55 @@ I wrote a short guide that adds [one concrete thing, such as new data or a worke
 [Your name]
 
 **Why it works:** it names the exact section, offers something useful, and keeps the ask tiny. Only send it if your resource truly improves that section.
+
+---
+
+## Example 42: A quick question with a "no deck, just specifics" offer
+
+**Prospect:** A team lead or manager at a mid-size company
+**Psychology:** specificity, normalization, lighter ask, easy exit
+**Pattern from:** Reachoutly (#042), the quick question template
+
+**Subject options**
+1. quick question about [team process]
+2. [Company]'s [specific process]
+3. a 3-bullet idea for [Company]
+
+**Email**
+
+Hi [First name],
+
+I noticed [one real, specific thing about their team or process]. Teams at that stage often run into [specific consequence].
+
+We helped [similar company] [real result] in [timeframe]. I can send a three-bullet breakdown tailored to [Company]. No deck, just specifics.
+
+If someone else owns this, I'm glad to reach out to them instead.
+
+[Your name]
+
+**Why it works:** the observation is real, the proof is one line, the ask is a small file, and the exit is built in. Use only a real result.
+
+---
+
+## Example 43: A next-step question after a quiet proposal
+
+**Prospect:** Someone who received your proposal or first note and has not replied
+**Psychology:** consistency, easy exit, one short question
+**Pattern from:** LeadFuze (#043), the next-step follow-up
+
+**Subject options**
+1. what makes sense as a next step?
+2. re: [original subject]
+3. one question
+
+**Email**
+
+Hi [First name],
+
+I'm not sure what the best next step is on [topic]. Could you tell me what makes sense from your side, if anything?
+
+Either answer helps me plan.
+
+[Your name]
+
+**Why it works:** it is one line, it does not say they ignored you, and it makes a no easy. Keep it in the same thread.

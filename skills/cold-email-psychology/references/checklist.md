@@ -85,5 +85,7 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] A first email that asks nothing still gives one concrete reason or question, or it will get no reply
 - [ ] Never imply a connection ("your name came up") that you cannot name and back up
 - [ ] Cold outreach goes out from a separate, warmed sending domain so your main domain's reputation stays safe
+- [ ] Do not guess at a loss or failure the prospect has not told you about (for example a stalled sale), and do not tell them how it must feel
+- [ ] A follow-up does not say you "didn't hear back" or announce that you are following up; it adds something or asks one fresh question
 - [ ] No em dashes
 - [ ] 2 to 3 subject line options provided, short and specific

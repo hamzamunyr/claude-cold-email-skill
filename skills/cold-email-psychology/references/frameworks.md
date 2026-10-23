@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 1231 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1238 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 | Source: Clay
 
@@ -25,7 +25,7 @@ Observation about their site > "have you considered these?" question > three ide
 - Best for: agencies, tools and services where you can show what you would do for them.
 - Weak when: the ideas are generic or do not fit their business.
 
-## 4. Event hook | Count: 11 | Source: Apollo, ZoomInfo, SmartWriter, Warmupinbox, Saleshandy, Truelist, Outplay, Artisan, Salesdorado, TextMagic
+## 4. Event hook | Count: 12 | Source: Apollo, ZoomInfo, SmartWriter, Warmupinbox, Saleshandy, Truelist, Outplay, Artisan, Salesdorado, TextMagic, Starnus
 
 Recent event > the challenge it likely creates > peer result > short call ask
 
@@ -35,7 +35,7 @@ Recent event > the challenge it likely creates > peer result > short call ask
 
 Observation > peer who faced the same issue and the result > hint at a different approach > time-boxed call ask
 
-## 6. Peer benchmark | Count: 3 | Source: Apollo, ZoomInfo, Clearout
+## 6. Peer benchmark | Count: 4 | Source: Apollo, ZoomInfo, Clearout, Starnus
 
 Peer result > note that the method is unusual for the industry > link to the prospect's goal > offer a short breakdown
 
@@ -55,7 +55,7 @@ Mutual contact > outcome achieved > fit with their goal > short call ask
 
 Observation > question about a trending topic > free event or session > authority proof > invite ask
 
-## 10. Quick value drop | Count: 1 | Source: Apollo
+## 10. Quick value drop | Count: 2 | Source: Apollo, Starnus
 
 Their initiative > peer story > the insight written inline > "could this work for you?" question
 
@@ -127,7 +127,7 @@ One line referencing the earlier email > restate or add one reason > one ask
 
 - Best for: a second or third touch. Keep it under about 80 words and bring something new (a fresh reason, a short resource), not just "checking in".
 
-## 22. PAS (problem, agitate, solution) | Count: 13 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism, Proposify, Saleshandy, Truelist, Cleverly, Artisan, TextMagic
+## 22. PAS (problem, agitate, solution) | Count: 14 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism, Proposify, Saleshandy, Truelist, Cleverly, Artisan, TextMagic, Starnus
 
 Pain question > deepen the cost of the pain > present the fix with proof > ask to click or chat
 
@@ -145,7 +145,7 @@ Pain observation > what it does to the reader > solution with nearby proof > off
 
 - The tiny sample offer is the useful part. Skip rumor-based openers unless verifiable.
 
-## 25. Social proof pitch | Count: 20 | Source: Woodpecker, HubSpot, Saleshandy, Truelist, Salesbread, Outplay, Mailsuite, TextMagic, ProProfsDesk, Waalaxy, Clearout
+## 25. Social proof pitch | Count: 21 | Source: Woodpecker, HubSpot, Saleshandy, Truelist, Salesbread, Outplay, Mailsuite, TextMagic, ProProfsDesk, Waalaxy, Clearout, Starnus
 
 Industry or pain line > track record with named clients > "we can do the same for you" > ten minute ask
 
@@ -195,7 +195,7 @@ Observed tool they use today > why others switched > a similar company's result 
 
 - Do not attack the competitor. Needs a real differentiator and a real switch story.
 
-## 35. No-ask outreach | Count: 2 | Source: ZoomInfo
+## 35. No-ask outreach | Count: 3 | Source: ZoomInfo, Starnus
 
 Specific compliment or observation > who you work with on the topic > offer to compare notes > state plainly that you ask for nothing
 
@@ -555,7 +555,7 @@ Why this person specifically (their expertise or thesis) > one line on the compa
 
 - Use a real mutual introduction where possible.
 
-## 98. Question-first intro | Count: 13 | Source: Hunter, SmartReach, Truelist, Artisan, ProProfsDesk, Clearout
+## 98. Question-first intro | Count: 14 | Source: Hunter, SmartReach, Truelist, Artisan, ProProfsDesk, Clearout, Starnus
 
 Something specific you looked at on their site > a genuine question about how they handle it > say you are not pitching and will say so if you can help
 
@@ -665,7 +665,7 @@ Name a specific employee who is helping them grow > ask a question tied to what 
 
 Say you are growing a community for a specific audience > its size and three topics members share > one link to join
 
-## 119. Casual one-liner pitch | Count: 1 | Source: Breakcold
+## 119. Casual one-liner pitch | Count: 2 | Source: Breakcold, Starnus
 
 "Not sure this is for you, but I figured I would ask" > one line on what you are building and an example > a short question
 
@@ -971,6 +971,12 @@ Ask what a specific lift would mean for their revenue or output > a short call w
 
 - Use only numbers you can prove. A big unproven percentage reads as hype.
 
+## 170. Shared-thread opener (weak) | Count: 1 | Source: Starnus
+
+Say you both commented on the same public post and tie it to your pitch
+
+- A shared comment thread is not a real mutual contact. Use a real referrer or skip it.
+
 ## Sequences and cadence
 
 **Four-email sequence | Count: 1 | Clay.** Email 1: full pitch. Email 2: how it works. Email 3: change the angle. Email 4: breakup, ask who else should handle it.
@@ -1010,3 +1016,5 @@ Ask what a specific lift would mean for their revenue or output > a short call w
 **Two-email sequence with a channel pivot | Count: 1 | Reachly.** Email 1 on day 1 in the six-part format, a one-line second email 5 to 7 days later asking whether it is of interest or belongs to a colleague, then a LinkedIn note to people active there, then stop. Re-engage the same list 1.5 to 2.5 months later with a new angle or new proof.
 
 **Grid check before sending | Count: 1 | Salesdorado.** Score a draft on six points: asks for interest not a time slot, under 100 words, no product description, short subject without numbers, no ROI promise, a specific verifiable trigger. The page says to bin a template that fails two or more. Its figures are cited from other sources and unverified here.
+
+**Email plus LinkedIn ten-day plan | Count: 1 | Starnus.** Day 1 email, day 2 LinkedIn connection note referencing the email, day 5 a thoughtful comment on their post, day 7 email follow-up with a proof point, day 10 a short breakup. The page suggests 3 to 5 touches over 10 to 14 days and 50 to 125 words per email.

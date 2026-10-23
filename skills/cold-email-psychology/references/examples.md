@@ -1002,3 +1002,28 @@ Who is the best person to speak with about this? If it is someone else, I'm glad
 [Your name]
 
 **Why it works:** it opens with candor, shows who is behind it, and gives an easy way to redirect. Use only real backers, customers and counts.
+
+---
+
+## Example 38: A no-ask checklist for a newly promoted manager
+
+**Prospect:** Someone who just became a team manager
+**Psychology:** reciprocity, no-ask framing, specificity
+**Pattern from:** Starnus (#038), the value-first email
+
+**Subject options**
+1. a checklist for your first 90 days
+2. congrats on the new role
+3. something you might use
+
+**Email**
+
+Hi [First name],
+
+Congratulations on stepping into the manager role at [Company]. The first 90 days often come down to the same few conversations.
+
+I put together a one-page checklist of the ones I'd have first. No ask, I thought it might be useful: [link].
+
+[Your name]
+
+**Why it works:** the trigger is real and timely, the asset is small and useful, and nothing is requested. Only claim what the checklist actually does.

@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 206 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox). Woodpecker counts are approximate.
+Emails analyzed so far: 228 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot). Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN | Source: Clay, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox
 
@@ -47,7 +47,7 @@ Trend > what most companies do > a better way > peer result > curiosity question
 
 - Needs real expertise and a real result, or the contrarian line sounds empty.
 
-## 8. Referral | Count: 5 | Source: Apollo, ZoomInfo, Smartlead, Cognism
+## 8. Referral | Count: 6 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot
 
 Mutual contact > outcome achieved > fit with their goal > short call ask
 
@@ -85,7 +85,7 @@ Specific compliment about something they made > mutual contact > a couple of ide
 
 - Needs a real piece of their content and a real mutual contact.
 
-## 15. AIDA | Count: 5 | Source: Salesloft, Woodpecker, ZoomInfo, SmartWriter, Cognism
+## 15. AIDA | Count: 6 | Source: Salesloft, Woodpecker, ZoomInfo, SmartWriter, Cognism, HubSpot
 
 Attention (subject) > Interest (their post or news) > Desire (shared roadblock plus research) > Action (one CTA)
 
@@ -97,7 +97,7 @@ Acknowledge their interest > short intro video > teaser of what is next
 
 - Only for people who visited or downloaded. Add one clear small ask.
 
-## 17. Prior-touch follow-up | Count: 1 | Source: Salesloft
+## 17. Prior-touch follow-up | Count: 2 | Source: Salesloft, HubSpot
 
 Reference the voicemail, call or message > two specific time options
 
@@ -109,7 +109,7 @@ Thanks > one-paragraph value summary > pricing and resources > open offer of mor
 
 - A warm-only pattern. Too long and detailed for a first cold email.
 
-## 19. Pain-point question | Count: 2 | Source: Salesloft, Warmupinbox
+## 19. Pain-point question | Count: 3 | Source: Salesloft, Warmupinbox, HubSpot
 
 Personalized line > question about their current process > peers are investing in this > no-oriented question about hearing how they use it
 
@@ -145,7 +145,7 @@ Pain observation > what it does to the reader > solution with nearby proof > off
 
 - The tiny sample offer is the useful part. Skip rumor-based openers unless verifiable.
 
-## 25. Social proof pitch | Count: 5 | Source: Woodpecker
+## 25. Social proof pitch | Count: 6 | Source: Woodpecker, HubSpot
 
 Industry or pain line > track record with named clients > "we can do the same for you" > ten minute ask
 
@@ -179,7 +179,7 @@ Who you are > what you noticed about them > a small coffee, chat or connect ask
 
 To candidates: profile or role trigger > why it fits > a few reasons > time ask. To employers: open role seen > proof and candidates on file > call ask.
 
-## 32. Right-person redirect | Count: 7 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism, Warmupinbox
+## 32. Right-person redirect | Count: 8 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism, Warmupinbox, HubSpot
 
 Say you are trying to reach whoever handles [area] > ask if that is them or someone else > one line of context with proof > thank them for the pointer
 
@@ -189,7 +189,7 @@ Trigger event > the challenge companies in their position usually face > what yo
 
 - A three-sentence base. Needs a real trigger, or it reads as generic.
 
-## 34. Competitor mention | Count: 6 | Source: ZoomInfo, Smartlead, SmartWriter, Cognism, Warmupinbox
+## 34. Competitor mention | Count: 7 | Source: ZoomInfo, Smartlead, SmartWriter, Cognism, Warmupinbox, HubSpot
 
 Observed tool they use today > why others switched > a similar company's result > interest check
 
@@ -211,7 +211,7 @@ What you published and the data behind it > three key findings in the email > wh
 
 Thanks for connecting > one detail from their profile or company > what you do plus a proof point > 15 minute ask
 
-## 38. Assume-not-a-priority breakup | Count: 5 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky
+## 38. Assume-not-a-priority breakup | Count: 6 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot
 
 Say you reached out a few times > assume it is not a priority and stop > invite a reply if that assumption is wrong
 
@@ -305,7 +305,7 @@ Reference a real post of theirs > a stage-specific observation > a genuine quest
 
 - A founder-to-founder tone. It starts a conversation and asks for no meeting.
 
-## 54. Audit or gap finding | Count: 11 | Source: Smartlead, LeadsMonky
+## 54. Audit or gap finding | Count: 13 | Source: Smartlead, LeadsMonky, HubSpot
 
 A specific finding from a quick check of their ads, content or site > proof you fixed something similar > offer the full findings in a short call
 
@@ -315,7 +315,7 @@ A specific finding from a quick check of their ads, content or site > proof you 
 
 Warm: refer to the actual conversation and the promised resource > a low-pressure line saying you can go deeper if the topic is still live. Cold: a shared session or event > a short link to what you do > short call ask
 
-## 56. Re-engagement | Count: 2 | Source: Smartlead
+## 56. Re-engagement | Count: 3 | Source: Smartlead, HubSpot
 
 Refer to the earlier conversation or a trigger since then > ask whether the topic is still on their radar > offer two clean paths (revisit now or follow up next quarter)
 
@@ -335,7 +335,7 @@ A friendly opener > "I have an idea I can explain in 10 minutes" tied to a concr
 
 - SmartWriter says this one reportedly drew a 57% open rate and a 21% response rate (unverified). It needs a real idea and a real result.
 
-## 60. Three-sentence email | Count: 1 | Source: SmartWriter
+## 60. Three-sentence email | Count: 2 | Source: SmartWriter, HubSpot
 
 Who you are and that you will be quick > what you do for people like them > one small ask
 
@@ -389,7 +389,7 @@ Acknowledge they are busy > offer something small and useful at no cost (leads, 
 
 - Avoid the word "free" in the subject (spam filters). A synonym such as "complimentary" works.
 
-## 69. Personal video email | Count: 1 | Source: Cognism
+## 69. Personal video email | Count: 2 | Source: Cognism, HubSpot
 
 One line that shows you read their profile > say you will skip a long email > a short personal video > a virtual coffee ask with two windows
 
@@ -399,7 +399,7 @@ Say now may not be the right time and that is fine > share something of yours (a
 
 - Only if it suits your brand and the prospect. A joke can fall flat or look flippant.
 
-## 71. Seven-part build with a P.S. | Count: 1 | Source: Cognism
+## 71. Seven-part build with a P.S. | Count: 2 | Source: Cognism, HubSpot
 
 Research > subject > first two sentences (one about them as a person, one about their company) > value proposition with a number > social proof with a named voice > a different kind of CTA > a P.S. that makes them feel valued
 
@@ -433,6 +433,54 @@ Say which role you are applying for > your years of experience and a result that
 
 - Covers job seekers. Keep it short, specific and truthful.
 
+## 77. Value-led pitch | Count: 1 | Source: HubSpot
+
+An initiative of theirs > teams like them used an approach to reach an outcome with a number > two outcome bullets (no features) > a 15 minute call next week
+
+- Keep features for the demo. Lead with outcomes.
+
+## 78. Warm welcome to a new contact | Count: 1 | Source: HubSpot
+
+Congratulate a new contact at an existing account > mention who at your company worked with their team > offer to share what has worked and quick wins > a short call to compare notes
+
+- Build rapport before selling. Only for real existing relationships.
+
+## 79. Asset-download follow-up | Count: 2 | Source: HubSpot
+
+Say what they downloaded > what teams usually do with it, with outcomes > a short walkthrough with a scheduling link, or check they got it and offer to answer questions
+
+- Keep the wording about the content, not about tracking them. "Someone from your company" can feel invasive.
+
+## 80. Busy-schedule time options | Count: 1 | Source: HubSpot
+
+Acknowledge how busy they are > name two specific time options > add a calendar link as a backup
+
+- Time options let them reply with a time instead of clicking a link.
+
+## 81. Multiple-choice breakup | Count: 2 | Source: HubSpot
+
+Say you have reached out a few times > list three likely reasons for the silence (not a priority, happy now, wrong person) > ask which one it is, and for a referral if it is the wrong person > say you will stop if it is one of the first two
+
+- Easy to answer. A joke version can work but may look flippant.
+
+## 82. Objection pre-emption | Count: 1 | Source: HubSpot
+
+Name their likely thought ("another sales email") > say why this one differs, such as no long contract > a peer result > frame the cost as small (15 minutes) and the upside as large
+
+- Only use a real difference. Keep the tone light.
+
+## 83. Custom ROI calculation | Count: 1 | Source: HubSpot
+
+Say you did quick math on their size and industry > show the assumptions and the estimated annual impact in bullets > a similar company's real result > offer the full calculation
+
+- Show the assumptions so they can check them. Never invent the inputs.
+
+## 84. Choose a format first | Count: 1 | Source: HubSpot
+
+Pick the format before writing: value-led (an outcome), problem-led (a pain they feel), trigger-led (a recent event), social-proof-led (what similar companies achieved) or resource-led (an audit, benchmark or guide)
+
+- Also use role-specific subject lines, a one-sentence bridge (a comparable company used a solution to reach an outcome in a timeframe), and one low-friction CTA.
+
 ## Sequences and cadence
 
 **Four-email sequence | Count: 1 | Clay.** Email 1: full pitch. Email 2: how it works. Email 3: change the angle. Email 4: breakup, ask who else should handle it.
@@ -454,5 +502,7 @@ Say which role you are applying for > your years of experience and a result that
 **Three-email follow-up (days 3, 7, 14) | Count: 1 | LeadsMonky.** Day 3: a short reminder that promises something useful. Day 7: a three-point observation about their business, useful whether or not you work together. Day 14: a break-up that assumes the timing is wrong and leaves the door open. LeadsMonky claims three follow-ups raise response by about 28% and that the break-up gets the highest reply rate (unverified). Its day 3 email is a plain bump, which other sources warn against, so add something new instead.
 
 **Deliverability basics | Count: 2 | ZoomInfo, LeadsMonky.** Send from a separate domain, not your main business domain. Set up SPF, DKIM and DMARC. Warm up new domains gradually (about 10 to 20 emails a day, growing over several weeks). Keep bounce rate low (about 2 to 3% or under) by verifying lists. Use a human sender name, plain text and an opt-out. These claims come from vendors selling email tools.
+
+**HubSpot follow-up and CTA guidance | Count: 1 | HubSpot.** Aim for about three to five follow-ups over roughly 10 to 21 days, combined with calls and social touches. Beyond that, replies drop unless each touch adds something new. For senior stakeholders, soften the ask (a short reply, a forwarded intro) before asking for a full demo. HubSpot claims 3 to 5% is an average cold B2B reply rate and that the best exceed 10%, and that referrals get about four times more replies (all unverified).
 
 **Smartlead follow-up and testing guidance | Count: 1 | Smartlead.** Use four to six touches for B2B, and give each follow-up a new angle (a new insight, a different framing, a related resource or a different stakeholder). Day 3 can add a new insight, day 7 a different question, then a warm break-up. Practitioners cited by the page report this order of impact (unverified): the offer you make beats the template, the first line beats the subject line, specificity beats length, and a new follow-up angle beats follow-up timing. The page also says reply rate is the main metric, and that open rate is increasingly unreliable.

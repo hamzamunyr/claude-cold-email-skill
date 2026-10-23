@@ -39,6 +39,10 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] Do not ban a word in the advice and then use it in your own subject (for example "free")
 - [ ] No manufactured scarcity ("limited spots", "offer expires soon") unless it is real
 - [ ] The email matches the real job: a testimonial request, a job application and a cold pitch each need their own structure
+- [ ] A calculation shows its assumptions, and every input is real or clearly labeled as an estimate
+- [ ] No customer's or competitor's results are shared without permission
+- [ ] When offering a time, give two time options as well as a calendar link
+- [ ] Wording about a download or site visit is about the content, not about tracking them
 - [ ] No attachments on the first touch
 - [ ] No feature lists or pricing details in a first cold email
 - [ ] Plain, conversational words. No jargon or hype words ("game changer", "revolutionary")

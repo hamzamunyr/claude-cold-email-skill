@@ -362,3 +362,30 @@ Would you consider adding it? In return I'd be glad to share your guide with our
 [Your name]
 
 **Why it works:** the compliment is specific and true, the checklist is useful to their readers, and the swap gives them something back. Only say you used the guide if you did.
+
+---
+
+## Example 14: LED lighting retrofit for a warehouse operator
+
+**Prospect:** Operations or finance lead at a warehouse
+**Psychology:** custom calculation, specificity (their size), quantified benefit, reciprocity (the full workings)
+**Pattern from:** HubSpot (#013), ROI calculation
+
+**Subject options**
+1. quick math on [Facility]
+2. [Facility]'s lighting costs
+3. [First name], an estimate
+
+**Email**
+
+Hi [First name],
+
+I did some quick math on [Facility]. At about [square footage] and [number] operating hours, lighting likely accounts for [real estimated share] of your energy bill.
+
+Retrofits at that size typically cut it by [real range], which would be roughly [estimated amount] a year, based on [source of assumptions]. [Similar facility] saw [real result] in [timeframe].
+
+Want me to send the full calculation with the assumptions, so you can check them?
+
+[Your name]
+
+**Why it works:** the estimate is specific to them, the assumptions are open to checking, and the ask is a yes. Only send it with real, defensible inputs.

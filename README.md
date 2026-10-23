@@ -2,4 +2,4 @@
 
 A Claude Code skill for cold email, sales psychology, copywriting and B2B outbound.
 
-Templates analyzed: 0
+Templates analyzed: 1

@@ -15,9 +15,9 @@
 | 2 | Ask for a meeting | "[Company] and [the result you deliver]" | A reason for writing to them, what changes in the first month, 15 minutes at one of two named times | 55 |
 | 3 | Find the right person | "Who handles [area] at [Company]?" | Asks who looks after an area, gives a one-line offer, asks for a pointer if it is not them | 50 |
 | 4 | Follow-up with a new angle | "Re: [your first subject]" | Adds a different reason it matters (cost, risk, time) and one line of provable proof, asks for a reply either way | 50 |
-| 5 | Short nudge | "Re: [your first subject]" | Two lines: is it on your list this quarter, or should I check back later | 30 |
+| 5 | Short nudge | "Re: [your first subject]" | Two short lines asking whether the problem is a current priority or whether to return later | 30 |
 | 6 | Polite last email | "Should I close this off?" | Says it will assume the timing is wrong and stop, invites a reply if it comes up later | 45 |
-| 7 | Local business | "[Business name] in [City]" | Names the place and one real detail, offers a result, asks if a short chat is worth it or now is a bad time | 55 |
+| 7 | Local business | "[Business name] in [City]" | Names the place and one real detail, offers a result, asks whether a short chat is worthwhile or the timing is off | 55 |
 | 8 | After a LinkedIn post | "That post on [topic]" | Says they engaged with a post, guesses it is on their mind, offers to share how you help | 50 |
 
 The page also walks through a worked dental clinic example of the same shape (a new second location, a likely booking problem, a one-line offer, one question, a plain sign-off). All emails are under about 60 words.

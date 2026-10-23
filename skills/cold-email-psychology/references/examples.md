@@ -63,3 +63,30 @@ Want me to send a short plan for [Clinic]?
 [Your name]
 
 **Why it works:** the ideas show real homework, the plan offer is a small ask, and the prospect gets value even if they never reply.
+
+---
+
+## Example 3: Recruiting agency for a startup engineering leader
+
+**Prospect:** VP of Engineering at a company that just announced a funding round
+**Psychology:** specificity (recent event), social proof (similar company), reciprocity (short write-up), commitment minimization
+**Pattern from:** Apollo (#002), event hook with a peer result
+
+**Subject options**
+1. congrats on the [round]
+2. hiring after [round]
+3. [Company]'s engineering roles
+
+**Email**
+
+Hi [First name],
+
+Congrats on [funding round]. With [number] engineering roles open on your careers page, I'd guess hiring speed is top of mind right now.
+
+We recently filled [number] engineering roles for [similar-stage company] in [timeframe], and I wrote up how the search ran.
+
+It's a 2 minute read. Want me to send it over?
+
+[Your name]
+
+**Why it works:** the event proves attention, the peer result is relevant to their stage, and the ask is a short read, not a meeting.

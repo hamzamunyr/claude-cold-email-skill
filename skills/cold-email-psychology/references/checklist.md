@@ -68,5 +68,8 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] A free offer is scoped (what is included, how long) and any "limited spots" claim is real
 - [ ] A gift or incentive is offered only late, once, and you will honor it
 - [ ] A follow-up that admits an omission names the real omission and supplies it
+- [ ] The personalization passes the swap test: moving it to a different prospect would change the email
+- [ ] One question only, placed last, and no link in the first email
+- [ ] Every merge field has a fallback so a blank never reads "Hi ,"
 - [ ] No em dashes
 - [ ] 2 to 3 subject line options provided, short and specific

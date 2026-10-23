@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 1020 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1100 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 | Source: Clay
 
@@ -25,7 +25,7 @@ Observation about their site > "have you considered these?" question > three ide
 - Best for: agencies, tools and services where you can show what you would do for them.
 - Weak when: the ideas are generic or do not fit their business.
 
-## 4. Event hook | Count: 7 | Source: Apollo, ZoomInfo, SmartWriter, Warmupinbox, Saleshandy, Truelist, Outplay
+## 4. Event hook | Count: 8 | Source: Apollo, ZoomInfo, SmartWriter, Warmupinbox, Saleshandy, Truelist, Outplay, Artisan
 
 Recent event > the challenge it likely creates > peer result > short call ask
 
@@ -47,7 +47,7 @@ Trend > what most companies do > a better way > peer result > curiosity question
 
 - Needs real expertise and a real result, or the contrarian line sounds empty.
 
-## 8. Referral | Count: 9 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold, Truelist, Cleverly
+## 8. Referral | Count: 10 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold, Truelist, Cleverly, Reachly
 
 Mutual contact > outcome achieved > fit with their goal > short call ask
 
@@ -61,7 +61,7 @@ Their initiative > peer story > the insight written inline > "could this work fo
 
 - Best when you can fit a real insight in two sentences.
 
-## 11. Resource share | Count: 10 | Source: Salesloft, ZoomInfo, SmartWriter, Cognism, Warmupinbox, Truelist, Datalane, Salesbread, Outplay
+## 11. Resource share | Count: 11 | Source: Salesloft, ZoomInfo, SmartWriter, Cognism, Warmupinbox, Truelist, Datalane, Salesbread, Outplay, Reachly
 
 Fresh resource and why you are sending it > how it connects to their pain > open offer of more help
 
@@ -85,7 +85,7 @@ Specific compliment about something they made > mutual contact > a couple of ide
 
 - Needs a real piece of their content and a real mutual contact.
 
-## 15. AIDA | Count: 7 | Source: Salesloft, Woodpecker, ZoomInfo, SmartWriter, Cognism, HubSpot, Cleverly
+## 15. AIDA | Count: 8 | Source: Salesloft, Woodpecker, ZoomInfo, SmartWriter, Cognism, HubSpot, Cleverly, Artisan
 
 Attention (subject) > Interest (their post or news) > Desire (shared roadblock plus research) > Action (one CTA)
 
@@ -103,7 +103,7 @@ Reference the voicemail, call or message > two specific time options
 
 - Very short. Add a reason to meet to lift replies.
 
-## 18. Demo recap | Count: 1 | Source: Salesloft
+## 18. Demo recap | Count: 2 | Source: Salesloft, Mailsuite
 
 Thanks > one-paragraph value summary > pricing and resources > open offer of more help
 
@@ -121,19 +121,19 @@ Subject > Personalized opener > Problem > Observation or value > Call to action
 
 - The shared skeleton behind every Woodpecker template (69 of 75 use all five blocks). A good base to build from, but it makes emails look alike, so the opener and observation must be genuinely specific.
 
-## 21. Follow-up reminder | Count: 116 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox, Hunter, Saleshandy, SmartReach, Salesbread, Cleverly
+## 21. Follow-up reminder | Count: 118 | Source: Woodpecker, ZoomInfo, FirstSales, Smartlead, Cognism, LeadsMonky, Warmupinbox, Hunter, Saleshandy, SmartReach, Salesbread, Cleverly, Reachly
 
 One line referencing the earlier email > restate or add one reason > one ask
 
 - Best for: a second or third touch. Keep it under about 80 words and bring something new (a fresh reason, a short resource), not just "checking in".
 
-## 22. PAS (problem, agitate, solution) | Count: 11 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism, Proposify, Saleshandy, Truelist, Cleverly
+## 22. PAS (problem, agitate, solution) | Count: 12 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism, Proposify, Saleshandy, Truelist, Cleverly, Artisan
 
 Pain question > deepen the cost of the pain > present the fix with proof > ask to click or chat
 
 - Best for: pains the prospect already feels. Avoid guarantees and insulting framing.
 
-## 23. Before-After-Bridge | Count: 5 | Source: Woodpecker, ZoomInfo, SmartWriter
+## 23. Before-After-Bridge | Count: 6 | Source: Woodpecker, ZoomInfo, SmartWriter, Artisan
 
 Describe the current problem > picture the better result > bridge with how you get there > light question
 
@@ -145,11 +145,11 @@ Pain observation > what it does to the reader > solution with nearby proof > off
 
 - The tiny sample offer is the useful part. Skip rumor-based openers unless verifiable.
 
-## 25. Social proof pitch | Count: 12 | Source: Woodpecker, HubSpot, Saleshandy, Truelist, Salesbread, Outplay
+## 25. Social proof pitch | Count: 14 | Source: Woodpecker, HubSpot, Saleshandy, Truelist, Salesbread, Outplay, Mailsuite
 
 Industry or pain line > track record with named clients > "we can do the same for you" > ten minute ask
 
-## 26. Event or office-hours invite | Count: 11 | Source: Woodpecker
+## 26. Event or office-hours invite | Count: 18 | Source: Woodpecker, Artisan, Mailsuite
 
 Audience-targeted opener > what they will learn, when, who speaks > register or calendar link
 
@@ -179,7 +179,7 @@ Who you are > what you noticed about them > a small coffee, chat or connect ask
 
 To candidates: profile or role trigger > why it fits > a few reasons > time ask. To employers: open role seen > proof and candidates on file > call ask.
 
-## 32. Right-person redirect | Count: 32 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism, Warmupinbox, HubSpot, Hunter, Saleshandy, SmartReach, DemandCurve
+## 32. Right-person redirect | Count: 36 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism, Warmupinbox, HubSpot, Hunter, Saleshandy, SmartReach, DemandCurve, Artisan, Reachly
 
 Say you are trying to reach whoever handles [area] > ask if that is them or someone else > one line of context with proof > thank them for the pointer
 
@@ -211,7 +211,7 @@ What you published and the data behind it > three key findings in the email > wh
 
 Thanks for connecting > one detail from their profile or company > what you do plus a proof point > 15 minute ask
 
-## 38. Assume-not-a-priority breakup | Count: 22 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot, Hunter, Saleshandy, SmartReach, Datalane, Salesbread, Cleverly
+## 38. Assume-not-a-priority breakup | Count: 23 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot, Hunter, Saleshandy, SmartReach, Datalane, Salesbread, Cleverly, Reachly
 
 Say you reached out a few times > assume it is not a priority and stop > invite a reply if that assumption is wrong
 
@@ -305,17 +305,17 @@ Reference a real post of theirs > a stage-specific observation > a genuine quest
 
 - A founder-to-founder tone. It starts a conversation and asks for no meeting.
 
-## 54. Audit or gap finding | Count: 21 | Source: Smartlead, LeadsMonky, HubSpot, Proposify, Saleshandy, SmartReach, Salesforge
+## 54. Audit or gap finding | Count: 22 | Source: Smartlead, LeadsMonky, HubSpot, Proposify, Saleshandy, SmartReach, Salesforge, Reachly
 
 A specific finding from a quick check of their ads, content or site > proof you fixed something similar > offer the full findings in a short call
 
 - The finding must be real and specific (real keywords, real pages). A made-up audit is deceptive.
 
-## 55. Event follow-up | Count: 14 | Source: Smartlead, Hunter, SmartReach
+## 55. Event follow-up | Count: 15 | Source: Smartlead, Hunter, SmartReach, Artisan
 
 Warm: refer to the actual conversation and the promised resource > a low-pressure line saying you can go deeper if the topic is still live. Cold: a shared session or event > a short link to what you do > short call ask
 
-## 56. Re-engagement | Count: 15 | Source: Smartlead, HubSpot, Hunter, Saleshandy, SmartReach, Datalane, Cleverly
+## 56. Re-engagement | Count: 17 | Source: Smartlead, HubSpot, Hunter, Saleshandy, SmartReach, Datalane, Cleverly, Reachly
 
 Refer to the earlier conversation or a trigger since then > ask whether the topic is still on their radar > offer two clean paths (revisit now or follow up next quarter)
 
@@ -383,7 +383,7 @@ Thank them for the specific download or webinar > point to one more useful resou
 
 - A nurture email, not a pitch. Keep it short and avoid listing features.
 
-## 68. Freebie offer | Count: 1 | Source: Cognism
+## 68. Freebie offer | Count: 2 | Source: Cognism, Reachly
 
 Acknowledge they are busy > offer something small and useful at no cost (leads, an audit, a voucher) > a link to claim it
 
@@ -523,7 +523,7 @@ Reference something specific they said or wrote > describe your situation and yo
 
 - A follow-up can shrink the ask further to one specific question they can answer in a few sentences. Close with a thank-you note that says what you did with their advice.
 
-## 92. Reconnect through their content | Count: 6 | Source: Hunter
+## 92. Reconnect through their content | Count: 7 | Source: Hunter, Artisan
 
 Say a specific article, post or talk of theirs brought you to mind > one specific point you liked and how it links to your work > a light ask to catch up
 
@@ -543,19 +543,19 @@ Name a specific milestone (an anniversary, a funding round, a launch) > one line
 
 Say you are not aware of an open role > one line on relevant experience and a specific accomplishment > the specific thing about their company you admire > ask for a brief conversation
 
-## 96. Win-back with a new reason | Count: 6 | Source: Hunter
+## 96. Win-back with a new reason | Count: 8 | Source: Hunter, Reachly
 
 Refer to what they used or wanted before > name one concrete change since (a feature, a restructured offer) > a small invitation to take a fresh look
 
 - A genuine change is the reason. Avoid generic "we miss you".
 
-## 97. Investor outreach | Count: 7 | Source: Hunter, DemandCurve
+## 97. Investor outreach | Count: 8 | Source: Hunter, DemandCurve, Mailsuite
 
 Why this person specifically (their expertise or thesis) > one line on the company, traction and round > a short call ask, with a deck on request or attached
 
 - Use a real mutual introduction where possible.
 
-## 98. Question-first intro | Count: 10 | Source: Hunter, SmartReach, Truelist
+## 98. Question-first intro | Count: 11 | Source: Hunter, SmartReach, Truelist, Artisan
 
 Something specific you looked at on their site > a genuine question about how they handle it > say you are not pitching and will say so if you can help
 
@@ -631,7 +631,7 @@ Say what you are writing and where it will appear > ask for one short answer to 
 
 - Experts reply more easily when the question is specific and short.
 
-## 113. Affiliate or referral program invite | Count: 4 | Source: SmartReach, Salesforge
+## 113. Affiliate or referral program invite | Count: 5 | Source: SmartReach, Salesforge, Mailsuite
 
 Say you saw their content on the topic > list the concrete terms (rate, bonus, resources, a named contact) > a link to join
 
@@ -773,6 +773,84 @@ Offer to send a short breakdown of what worked for companies like theirs before 
 
 - A smaller first yes. Follow with a case study in the next touch.
 
+## 137. Feature, advantage, benefit | Count: 1 | Source: Artisan
+
+Name the newest feature > turn it into what it lets them do faster > end with the business benefit and a demo ask
+
+- Anchor it to a real prior meeting so it reads as a follow-up, not a feature list.
+
+## 138. Beta-tester invite | Count: 1 | Source: Artisan
+
+Say you are building something and need testers from their kind of company > state the perk > ask for a one-word reply
+
+- Only works when the perk is real and the tester profile is specific.
+
+## 139. Local cause favor ask | Count: 1 | Source: Artisan
+
+Name the local cause > ask them to share a post > offer to promote them back
+
+- A mutual-benefit ask for community brands. Do not claim urgency you do not have.
+
+## 140. Accusatory follow-up (avoid) | Count: 1 | Source: Artisan
+
+A follow-up that tells the prospect their own problem is their fault and calls it a last shot
+
+- Pressure and blame lower reply rates and damage trust. Offer a reason to talk, not a diagnosis.
+
+## 141. Free service offer | Count: 1 | Source: Mailsuite
+
+Say exactly what is free (a review, a valuation, a check-up) > what it covers > how to claim it with a reply
+
+- Name the scope and any limit. Avoid the word "free" in the subject line.
+
+## 142. Recap and next step after a conversation | Count: 1 | Source: Mailsuite
+
+Thank them for a specific talk > summarize two points you agreed on > propose one next step with a time
+
+- Keep it to a few lines and use their words from the call.
+
+## 143. Hype-heavy introduction (avoid) | Count: 1 | Source: Mailsuite
+
+An introduction that leans on words like revolutionary and extraordinary with no proof
+
+- Replace each hype word with one fact or number you can support.
+
+## 144. Donation or sponsorship ask | Count: 1 | Source: Mailsuite
+
+Say who you are reaching and why they fit > what the money does > one ask for a short call
+
+- Name a real outcome and amount. A generic appeal reads as a mass mail.
+
+## 145. Six-part signal-first format | Count: 1 | Source: Reachly
+
+Short lowercase subject > greeting > one signal about their company > one consequence > an offer with one real number > one yes-or-no question
+
+- Keep it under 80 words in plain text with no link. The signal must be true for this account.
+
+## 146. Role-matched signal pitch | Count: 1 | Source: Reachly
+
+Match the signal to the role (funding to a founder, hiring posts to a sales head, a new leader to a department head) and state what it usually costs
+
+- The consequence line is what makes the signal matter. Do not reuse a funding opener for someone who did not raise.
+
+## 147. Soft priority check | Count: 1 | Source: Reachly
+
+Acknowledge the inbox is busy > ask if the topic is a priority this quarter > say either answer is useful and nothing is attached
+
+- A no-pitch bump that gets answers from people who would ignore an ask.
+
+## 148. Reason-for-silence close | Count: 1 | Source: Reachly
+
+Say you will stop > ask whether it was timing or fit and that one word is enough
+
+- Gives the reader an easy reply and tells you whether to return later.
+
+## 149. Niche segment pitch | Count: 1 | Source: Reachly
+
+Use the segment's own words > name the ceiling of its usual growth method > describe your approach in one line > a short look ask
+
+- Name the segment, not a generic industry. Match the tone to the audience.
+
 ## Sequences and cadence
 
 **Four-email sequence | Count: 1 | Clay.** Email 1: full pitch. Email 2: how it works. Email 3: change the angle. Email 4: breakup, ask who else should handle it.
@@ -808,3 +886,5 @@ Offer to send a short breakdown of what worked for companies like theirs before 
 **Follow-up spacing | Count: 2 | Salesbread, Copy.ai.** Space touches on a widening gap (Salesbread suggests the Fibonacci sequence), and plan three or four follow-ups that each add something. Copy.ai advises mentioning in the email that you will follow up.
 
 **Four-touch cadence | Count: 1 | Cleverly.** Day 1 first email, day 4 value add in the same thread, day 9 honest re-engage that offers to stop, day 14 breakup. Run one template for 50 to 100 sends before changing it, and change one thing at a time.
+
+**Two-email sequence with a channel pivot | Count: 1 | Reachly.** Email 1 on day 1 in the six-part format, a one-line second email 5 to 7 days later asking whether it is of interest or belongs to a colleague, then a LinkedIn note to people active there, then stop. Re-engage the same list 1.5 to 2.5 months later with a new angle or new proof.

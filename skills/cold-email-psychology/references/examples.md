@@ -713,3 +713,82 @@ Want a short breakdown of how it works?
 [Your name]
 
 **Why it works:** it names a specific, checkable trigger, makes the cost clear in one line, and offers a small first step. Use only a client type and result you can support.
+
+---
+
+## Example 27: Construction scheduling app seeking beta testers
+
+**Prospect:** Operations lead at a mid-size general contractor
+**Psychology:** specificity, effort reduction, exclusivity, one-word reply
+**Pattern from:** Artisan (#027), the beta-tester invite
+
+**Subject options**
+1. beta testers for site scheduling
+2. [Company] crews and scheduling
+3. a quick beta ask
+
+**Email**
+
+Hi [First name],
+
+I'm building a scheduling tool for site supervisors, and I'm looking for a few contractors with 20 to 100 crew members to test it.
+
+Testers get it free through the first six months of use.
+
+If that's you, just reply "in" and I'll send the details.
+
+[Your name]
+
+**Why it works:** the tester profile is specific, the perk is clear, and the reply is one word. State the real number of seats and what feedback you want.
+
+---
+
+## Example 28: Hearing clinic offering a free check to a retirement community
+
+**Prospect:** Wellness coordinator at a retirement community
+**Psychology:** reciprocity, risk reversal, scope, effort reduction
+**Pattern from:** Mailsuite (#028), the free service offer, done with specifics
+
+**Subject options**
+1. hearing checks for residents
+2. a no-cost screening day
+3. [Community name] wellness event
+
+**Email**
+
+Hi [First name],
+
+Our audiologist can run 15 minute hearing screenings for residents on a day that suits your calendar. There is no cost and no sales talk, and any follow-up care is up to each resident.
+
+Would a short note on how the day would work help?
+
+[Your name]
+
+**Why it works:** the offer names exactly what is included, states the limit up front, and asks a small question. Only promise "no sales talk" if you will keep to it.
+
+---
+
+## Example 29: Pet insurance benefit for a fast-hiring company
+
+**Prospect:** Head of People at a company hiring about 40 people this year
+**Psychology:** signal-first, consequence, one real number, one question
+**Pattern from:** Reachly (#029), the six-part format
+
+**Subject options**
+1. hiring 40 this year
+2. [Company] benefits and offers
+3. one benefits question
+
+**Email**
+
+Hi [First name],
+
+Saw the 40 open roles on your careers page. Teams hiring that fast often lose offers to companies with a better perks package.
+
+We add a pet insurance benefit with no cost to the employer, and [real client] saw [real result] in offer acceptance in [timeframe].
+
+Worth 15 minutes this month to see if it fits?
+
+[Your name]
+
+**Why it works:** the signal is checkable, the consequence is one line, the proof is one number, and the ask is one yes or no. Use only a result you can back up.

@@ -846,3 +846,82 @@ Is that already on your list, or is it handled?
 [Your name]
 
 **Why it works:** the trigger is public, the angle names a real problem, and the question gives a respectable out. Use only a real client type and a lead-time fact you can support.
+
+---
+
+## Example 32: Solar installer offering a free payback calculator to a school
+
+**Prospect:** Business manager at a private school
+**Psychology:** reciprocity, specificity, small ask
+**Pattern from:** TextMagic (#032), the free tool offer
+
+**Subject options**
+1. a payback calculator for [School name]
+2. roof space and energy costs
+3. a quick calculator
+
+**Email**
+
+Hi [First name],
+
+Schools with large flat roofs often find the payback on solar is shorter than expected. We built a free calculator that estimates it from your roof area and annual energy bill.
+
+You can try it here: [link]. If the number looks interesting, I can talk through how we arrived at it.
+
+[Your name]
+
+**Why it works:** the tool is free and useful on its own, the output is named, and the follow-up is optional. Check that the calculator really works without a signup.
+
+---
+
+## Example 33: Veterinary software demo invitation for a clinic owner
+
+**Prospect:** Owner of a three-vet clinic
+**Psychology:** relevance first, spelled-out expectations, easy yes
+**Pattern from:** ProProfs Desk (#033), the exclusive invitation, rewritten without hype
+
+**Subject options**
+1. a 20 minute look at clinic scheduling
+2. [Clinic name] and double-booked appointments
+3. demo on [date]
+
+**Email**
+
+Hi [First name],
+
+Clinics with three or more vets often lose time to double-booked appointments. We are running a 20 minute live demo on [date] that shows how our scheduling view prevents it.
+
+You will see one real clinic's schedule before and after, and there is time for questions.
+
+Want me to hold a seat for you?
+
+[Your name]
+
+**Why it works:** the reason is relevant, the session is short and described, and the ask is one question. Skip "exclusive" and "expires soon" unless they are true.
+
+---
+
+## Example 34: Time-tracking software for a home-health agency
+
+**Prospect:** Operations director at a home-health agency
+**Psychology:** consistency, named similar customer, lighter ask
+**Pattern from:** BluLeadz (#034), the lead that went cold after a demo
+
+**Subject options**
+1. following up on the demo
+2. [Agency name] visit logging
+3. one idea since we spoke
+
+**Email**
+
+Hi [First name],
+
+It has been a few weeks since the demo of our visit-logging tool. I know timing may have shifted.
+
+Since then, [real similar agency] cut the time spent reconciling caregiver hours after adopting it. I can share how in a few lines, with no call needed.
+
+Want me to send it?
+
+[Your name]
+
+**Why it works:** it references the real demo, offers one fresh fact and a light next step. Use only a real customer and result.

@@ -76,5 +76,7 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] The first email asks for interest or a small step before a specific time slot (test both)
 - [ ] The first email leads with a fresh trigger, not a product description
 - [ ] A trigger from an alert is not used the same day, so it does not look automated
+- [ ] No hype wrappers such as "too good to be true", "expires soon" or "revolutionary" unless backed by a fact and a real deadline
+- [ ] Do not say you saw them open or click, and do not guess a hobby or fandom to force a commonality
 - [ ] No em dashes
 - [ ] 2 to 3 subject line options provided, short and specific

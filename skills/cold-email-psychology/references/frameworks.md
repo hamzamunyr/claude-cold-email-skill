@@ -37,7 +37,7 @@ Observation > peer who faced the same issue and the result > hint at a different
 
 ## 6. Peer benchmark | Count: 1 | Source: Apollo
 
-Peer result > "different from the standard playbook" > link to the prospect's goal > offer a short breakdown
+Peer result > note that the method is unusual for the industry > link to the prospect's goal > offer a short breakdown
 
 - Best when you have a strong, shareable case study.
 

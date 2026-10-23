@@ -81,7 +81,7 @@ Want me to send a short plan for [Clinic]?
 
 Hi [First name],
 
-Congrats on [funding round]. With [number] engineering roles open on your careers page, I'd guess hiring speed is top of mind right now.
+Congrats on [funding round]. With [number] engineering roles open on your careers page, I'd guess hiring fast is a priority right now.
 
 We recently filled [number] engineering roles for [similar-stage company] in [timeframe], and I wrote up how the search ran.
 

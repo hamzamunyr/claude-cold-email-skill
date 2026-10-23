@@ -78,5 +78,8 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] A trigger from an alert is not used the same day, so it does not look automated
 - [ ] No hype wrappers such as "too good to be true", "expires soon" or "revolutionary" unless backed by a fact and a real deadline
 - [ ] Do not say you saw them open or click, and do not guess a hobby or fandom to force a commonality
+- [ ] Emails to a competitor's users or an event's attendees use only data you may lawfully use, and say how you found them
+- [ ] At most one emoji, and only if it fits the brand and the recipient
+- [ ] The email does not use "limited time", "exclusive" or "select few" unless the deadline and the list are real
 - [ ] No em dashes
 - [ ] 2 to 3 subject line options provided, short and specific

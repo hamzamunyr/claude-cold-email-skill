@@ -925,3 +925,80 @@ Want me to send it?
 [Your name]
 
 **Why it works:** it references the real demo, offers one fresh fact and a light next step. Use only a real customer and result.
+
+---
+
+## Example 35: Taproom equipment seller with a no-pitch intro
+
+**Prospect:** Owner of a new craft brewery taproom
+**Psychology:** low pressure, shared field, easy question
+**Pattern from:** Waalaxy (#035), "no big sales pitch" introduction
+
+**Subject options**
+1. new taproom, new questions
+2. a note from another brewery supplier
+3. hello from [your company]
+
+**Email**
+
+Hi [First name],
+
+I work with new taprooms on draft lines and cooling, and I saw [Taproom name] opened this spring.
+
+No pitch here. I'm collecting what new owners wish they had known about their first six months of draft setup. Could I ask you one question about it?
+
+[Your name]
+
+**Why it works:** the reason for writing is true and small, the ask is one question, and nothing is sold. Only say "no pitch" if you mean it.
+
+---
+
+## Example 36: Window cleaning for a property manager, with a clarifying second email
+
+**Prospect:** Property manager for several mid-rise offices
+**Psychology:** honesty, specificity, short ask
+**Pattern from:** Clearout (#036), the problem-solver follow-up
+
+**Subject options**
+1. a clearer version of my note
+2. [Building name] window upkeep
+3. one sentence
+
+**Email**
+
+Hi [First name],
+
+My last note may not have been clear, so in one sentence: we clean exterior glass on mid-rise offices on a fixed schedule, so tenants stop calling about streaks.
+
+Want me to show how the schedule works for [Building name]?
+
+[Your name]
+
+**Why it works:** it owns the unclear first message, restates the point simply, and asks for a small yes. Keep it to one sentence of explanation.
+
+---
+
+## Example 37: Battery recycling startup with a full-transparency intro
+
+**Prospect:** Fleet manager at a city transit agency
+**Psychology:** transparency, backing, easy redirect
+**Pattern from:** Lead Gibbon (#037), the full-transparency email
+
+**Subject options**
+1. not another sales pitch
+2. a two minute video on battery recycling
+3. who handles this at [Agency]?
+
+**Email**
+
+Hi [First name],
+
+I'll be honest, this is not another sales pitch. I'd like to send you a two minute video of how we recycle depot battery packs: [link].
+
+We are a small team backed by [real backer], and two municipal fleets already use us. We offer a one-on-one with an engineer to talk through your pack lifecycle.
+
+Who is the best person to speak with about this? If it is someone else, I'm glad to be pointed there.
+
+[Your name]
+
+**Why it works:** it opens with candor, shows who is behind it, and gives an easy way to redirect. Use only real backers, customers and counts.

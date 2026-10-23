@@ -1,43 +1,43 @@
 # Hooks and Subject Lines
 
-Emails analyzed so far: 1100 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1128 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## Opening line patterns
 
 | Pattern | Formula | Count | Sources |
 |---|---|---|---|
-| Prior touch hook | "Following up on my last email about [topic]" plus one new reason | 155 | Salesloft, Woodpecker, ZoomInfo, Smartlead, Cognism, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Truelist, Datalane, Salesbread, DemandCurve, Cleverly, Mailsuite, Reachly |
-| Job posting or open role hook | Reference an open role or hiring post that points at a problem you solve | 31 | Clay, Woodpecker, Proposify, Hunter, Saleshandy, Cleverly, Reachly |
+| Prior touch hook | "Following up on my last email about [topic]" plus one new reason | 156 | Salesloft, Woodpecker, ZoomInfo, Smartlead, Cognism, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Truelist, Datalane, Salesbread, DemandCurve, Cleverly, Mailsuite, Reachly, Salesdorado |
+| Job posting or open role hook | Reference an open role or hiring post that points at a problem you solve | 33 | Clay, Woodpecker, Proposify, Hunter, Saleshandy, Cleverly, Reachly, Salesdorado |
 | Trigger event plus insight | "I noticed [event]. In my experience that usually means [insight]." | 191 | Clay, Apollo, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, HubSpot, Hunter, Saleshandy, SmartReach, Truelist, Datalane, Salesforge, Cleverly, Reachly |
 | Empathy opener | Name the frustration first ("I know a stalled listing is frustrating") | 12 | Woodpecker, Smartlead, SmartWriter, Cognism, HubSpot, Artisan |
 | Pain question opener | Start with a question about the problem they live with | 11 | Woodpecker, SmartWriter, HubSpot, Outplay, Artisan |
-| Milestone congrats hook | Congratulate on a sale, purchase, graduation or achievement, then tie to the next step | 32 | Woodpecker, SmartWriter, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Truelist, Outplay, Artisan, Reachly |
+| Milestone congrats hook | Congratulate on a sale, purchase, graduation or achievement, then tie to the next step | 33 | Woodpecker, SmartWriter, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Truelist, Outplay, Artisan, Reachly, LeadSquared |
 | Headcount growth hook | Mention a visible team expansion and ask how they will handle the next step | 3 | Clay, Cleverly |
 | Website visit hook | "I looked through your site and put together a few ideas" | 3 | Clay, Salesbread |
-| Peer result hook | Lead with a similar company's or customer's result and tie it to their goal | 15 | Apollo, Salesloft, ZoomInfo, Smartlead, SmartWriter, Warmupinbox, HubSpot, Outplay |
-| Mutual connection hook | Open with a real shared contact and an outcome | 36 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, HubSpot, Hunter, SmartReach, Breakcold, Truelist, Salesbread, Cleverly, Artisan, Reachly |
-| LinkedIn post or profile hook | Refer to a specific post or profile detail, then tie it to a shared roadblock or fit | 17 | Salesloft, Woodpecker, Smartlead, Cognism, Warmupinbox, Truelist, Cleverly, Artisan |
+| Peer result hook | Lead with a similar company's or customer's result and tie it to their goal | 16 | Apollo, Salesloft, ZoomInfo, Smartlead, SmartWriter, Warmupinbox, HubSpot, Outplay, Salesdorado |
+| Mutual connection hook | Open with a real shared contact and an outcome | 38 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter, Cognism, HubSpot, Hunter, SmartReach, Breakcold, Truelist, Salesbread, Cleverly, Artisan, Reachly, LeadSquared, Salesdorado |
+| LinkedIn post or profile hook | Refer to a specific post or profile detail, then tie it to a shared roadblock or fit | 20 | Salesloft, Woodpecker, Smartlead, Cognism, Warmupinbox, Truelist, Cleverly, Artisan, LeadSquared |
 | Shared event or meeting hook | Refer to an event you both attend or a place you met | 21 | Woodpecker, Smartlead, SmartReach, Artisan |
-| Self-aware opener | Acknowledge the interruption in one light line ("you probably get a lot of these") | 8 | Woodpecker, HubSpot, DemandCurve, Reachly |
-| Similarity opener | Mention a real shared role or interest | 4 | Woodpecker, Salesforge, Outplay |
+| Self-aware opener | Acknowledge the interruption in one light line ("you probably get a lot of these") | 9 | Woodpecker, HubSpot, DemandCurve, Reachly, Salesdorado |
+| Similarity opener | Mention a real shared role or interest | 5 | Woodpecker, Salesforge, Outplay, LeadSquared |
 | Metric check hook | Cite a public data point that moved or that you checked (traffic, authority score) | 4 | Clay, Woodpecker, DemandCurve |
-| Recent event hook | Congratulate on funding, a launch, a hire or an award, then name the challenge it likely creates | 2 | Apollo, ZoomInfo |
+| Recent event hook | Congratulate on funding, a launch, a hire or an award, then name the challenge it likely creates | 3 | Apollo, ZoomInfo, Salesdorado |
 | Industry trend hook | Name a trend or market change affecting their market, then say the usual response falls short | 4 | Apollo, Woodpecker, Outplay |
 | Visitor hook | Acknowledge that they visited or downloaded from you, then offer a next step | 23 | Salesloft, SmartWriter, HubSpot, Hunter |
 | Thank-you response hook | Thank them for a demo request or trial signup and give the next step | 4 | Woodpecker, Cognism, Salesbread |
-| Podcast or content compliment | Praise a specific episode or piece, then bridge to an idea | 20 | Salesloft, ZoomInfo, Coursera, SmartWriter, Warmupinbox, Saleshandy, Truelist, Salesforge, Salesbread, DemandCurve |
+| Podcast or content compliment | Praise a specific episode or piece, then bridge to an idea | 22 | Salesloft, ZoomInfo, Coursera, SmartWriter, Warmupinbox, Saleshandy, Truelist, Salesforge, Salesbread, DemandCurve, LeadSquared |
 | Company page hook | Refer to something seen on their LinkedIn or company page, then ask a question | 3 | Clay, Salesforge, DemandCurve |
 | Shared-problem opener | "Many people in your role struggle with [specific problem]" | 8 | Salesloft, ZoomInfo, Warmupinbox, Saleshandy |
 | Fresh resource hook | "We just got [new data]. Thought it could help with [their pain]" | 1 | Salesloft |
 | Value drop hook | Give the insight in the email itself and say how long it takes to read | 1 | Apollo |
-| New role hook | Congratulate on a new role, then tie it to a hiring signal | 1 | Clay |
-| Competitor or tech-stack hook | Mention the tool they use today and why others switched | 18 | ZoomInfo, Smartlead, SmartWriter, Cognism, Warmupinbox, Proposify, Saleshandy, SmartReach, DemandCurve, Reachly |
-| Connection accepted hook | Thank them for connecting and cite one detail from their profile | 2 | ZoomInfo, Cognism |
+| New role hook | Congratulate on a new role, then tie it to a hiring signal | 3 | Clay, LeadSquared, Salesdorado |
+| Competitor or tech-stack hook | Mention the tool they use today and why others switched | 19 | ZoomInfo, Smartlead, SmartWriter, Cognism, Warmupinbox, Proposify, Saleshandy, SmartReach, DemandCurve, Reachly, Salesdorado |
+| Connection accepted hook | Thank them for connecting and cite one detail from their profile | 3 | ZoomInfo, Cognism, LeadSquared |
 | Travel or proximity hook | Say you will be in their city soon and offer a short in-person meeting | 1 | Coursera |
-| Public statement hook | Refer to something they said publicly about a need, then offer help | 1 | Coursera |
-| Engagement signal hook | Say you saw them engage with a post on [topic] and guess it is on their mind | 1 | FirstSales |
+| Public statement hook | Refer to something they said publicly about a need, then offer help | 3 | Coursera, LeadSquared, Salesdorado |
+| Engagement signal hook | Say you saw them engage with a post on [topic] and guess it is on their mind | 2 | FirstSales, LeadSquared |
 | Local listing hook | Say you came across their business while looking at [type] in [city], plus one real detail from their listing or site | 1 | FirstSales |
-| Research finding hook | Say you ran a quick audit or check of their site, ads or content and found a specific gap | 18 | Smartlead, LeadsMonky, HubSpot, Proposify, Saleshandy, Datalane, Outplay |
+| Research finding hook | Say you ran a quick audit or check of their site, ads or content and found a specific gap | 21 | Smartlead, LeadsMonky, HubSpot, Proposify, Saleshandy, Datalane, Outplay, LeadSquared, Salesdorado |
 | Re-engagement hook | Refer to an earlier conversation, or a trigger that happened since you last talked | 6 | Smartlead, HubSpot, Datalane, Reachly |
 | Confidential opportunity hook | Signal a private, selective opportunity for a specific profile | 1 | Smartlead |
 | Connection-based intro request hook | Say you saw they are connected to someone and ask for an introduction | 2 | SmartWriter |
@@ -76,8 +76,8 @@ Rule: the first line is about the prospect, not you. Skip empty openers ("hope y
 | Mutual connection | "[Name] suggested I reach out" | 19 | Apollo, Woodpecker, ZoomInfo, Smartlead, HubSpot, Truelist, Salesbread, Cleverly, Artisan, Reachly |
 | Thank-you | "Thanks for requesting a demo" | 3 | Woodpecker, Salesbread |
 | Peer result | "How [peer company] hit [metric]" | 10 | Apollo, ZoomInfo, Smartlead, HubSpot, Salesbread, Outplay |
-| Event congrats | "Congrats on [specific event]" | 21 | Apollo, ZoomInfo, SmartWriter, Warmupinbox, Proposify, Hunter, Saleshandy, Outplay |
-| Question about a topic | "Quick question about [specific area]" | 35 | Apollo, ZoomInfo, HubSpot, Hunter, Truelist |
+| Event congrats | "Congrats on [specific event]" | 23 | Apollo, ZoomInfo, SmartWriter, Warmupinbox, Proposify, Hunter, Saleshandy, Outplay, LeadSquared |
+| Question about a topic | "Quick question about [specific area]" | 39 | Apollo, ZoomInfo, HubSpot, Hunter, Truelist, LeadSquared |
 | Trend thought | "[First name], quick thought on [trend]" | 2 | Apollo, Cleverly |
 | Short read | "2-min read: [insight] for [company]" | 1 | Apollo |
 | Initiative reference | "About your [specific initiative]" | 1 | Apollo |
@@ -94,10 +94,10 @@ Rule: the first line is about the prospect, not you. Skip empty openers ("hope y
 | Before to after | "From [current state] to [desired state]" | 1 | ZoomInfo |
 | Metric improvement | "[Specific metric] improvement for [Company]" | 1 | ZoomInfo |
 | Hiring trigger | "Saw [Company] is hiring [role], quick thought" | 1 | ZoomInfo |
-| Compliment | "Impressed by [specific achievement]" | 4 | ZoomInfo, Salesforge, Salesbread, DemandCurve |
+| Compliment | "Impressed by [specific achievement]" | 6 | ZoomInfo, Salesforge, Salesbread, DemandCurve, LeadSquared |
 | Thanks for connecting | "Thanks for connecting" | 2 | ZoomInfo, Smartlead |
 | Close-file breakup | "Should I close your file?" | 7 (last-chance framing, use with care) | ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot, Salesbread, Reachly |
-| Topic label | "Video production partners" (plain noun phrase, low curiosity) | 8 | Coursera, SmartWriter, Salesbread, Mailsuite |
+| Topic label | "Video production partners" (plain noun phrase, low curiosity) | 13 | Coursera, SmartWriter, Salesbread, Mailsuite, Salesdorado |
 | Quantified benefit subject | "Cut hiring costs by 30 percent" (only with a real, provable number) | 2 | Coursera, SmartWriter |
 | Response to a stated need | "Response to your need for [service]" | 1 | Coursera |
 | Quick question with first name | "Quick question, [First name]" | 2 | FirstSales, Salesbread |
@@ -130,7 +130,7 @@ Rule: the first line is about the prospect, not you. Skip empty openers ("hope y
 | Direct claim (risky) | "Your Google Ads are paying too much per click" | 1 | LeadsMonky |
 | Cost claim | "Cutting [Company]'s cost per lead by 30%" | 1 | LeadsMonky |
 | One more thing | "One more thing about [Company]" | 1 | LeadsMonky |
-| Compliment on content | "Great insights on [topic]!" | 5 | Warmupinbox, Saleshandy, Salesforge, Salesbread, DemandCurve |
+| Compliment on content | "Great insights on [topic]!" | 7 | Warmupinbox, Saleshandy, Salesforge, Salesbread, DemandCurve, LeadSquared |
 | Partnership invite | "Let's explore a partnership, [Name]!" or "Collaboration Opportunity?" | 3 | Warmupinbox, Saleshandy |
 | Competitor experience question | "Curious about your experience with [Competitor's Product]" | 1 | Warmupinbox |
 | Feedback request | "We'd Love Your Feedback, [Customer Name]!" | 1 | Warmupinbox |
@@ -213,6 +213,11 @@ Rule: the first line is about the prospect, not you. Skip empty openers ("hope y
 | Threaded follow-up | "re: [original subject]" inside the same thread | 2 | Reachly |
 | Casual lowercase note | "quick one, [first name]", "an update worth 60 seconds" | 3 | Reachly |
 | Asset subject | "[Industry] reply-rate benchmarks", "3 things in your [Company] outbound" | 3 | Reachly |
+| Favor subject | "[Prospect], I need a favor." / "I need your advice." | 3 | LeadSquared |
+| Guilt subject (avoid) | "We miss your blog posts!" | 1 | LeadSquared |
+| Overclaim subject (avoid) | "I know the solution!" | 1 | LeadSquared |
+| Prospect name prefix | "[Prospect], [short line]" | 12 | LeadSquared |
+| Forwarded-by subject | "Forwarded by [colleague first name]" (only if true) | 1 | Salesdorado |
 
 Hunter library statistics (from its 510 templates): in the curated set of 228 (six per subcategory), about 90% of subjects carry a custom detail field, subjects average about 6 words, only about 7% are questions, and none use "hope you are well" openers. In the older community-submitted set of 282, about 34% of subjects carry a custom field, about 18% are questions, 13% open with "hope you are well" and 14% open with "my name is". Specific, short and detail-led subjects dominate the better group.
 

@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 1100 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1128 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 | Source: Clay
 
@@ -25,7 +25,7 @@ Observation about their site > "have you considered these?" question > three ide
 - Best for: agencies, tools and services where you can show what you would do for them.
 - Weak when: the ideas are generic or do not fit their business.
 
-## 4. Event hook | Count: 8 | Source: Apollo, ZoomInfo, SmartWriter, Warmupinbox, Saleshandy, Truelist, Outplay, Artisan
+## 4. Event hook | Count: 9 | Source: Apollo, ZoomInfo, SmartWriter, Warmupinbox, Saleshandy, Truelist, Outplay, Artisan, Salesdorado
 
 Recent event > the challenge it likely creates > peer result > short call ask
 
@@ -47,7 +47,7 @@ Trend > what most companies do > a better way > peer result > curiosity question
 
 - Needs real expertise and a real result, or the contrarian line sounds empty.
 
-## 8. Referral | Count: 10 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold, Truelist, Cleverly, Reachly
+## 8. Referral | Count: 11 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold, Truelist, Cleverly, Reachly, Salesdorado
 
 Mutual contact > outcome achieved > fit with their goal > short call ask
 
@@ -67,7 +67,7 @@ Fresh resource and why you are sending it > how it connects to their pain > open
 
 - No hard ask, so it works as a relationship starter. Put the insight in the email or a link, not an attachment. Add one small question to invite a reply.
 
-## 12. Case study first | Count: 15 | Source: Salesloft, ZoomInfo, Coursera, Cognism, Hunter, Salesforge, Salesbread, Outplay, Cleverly
+## 12. Case study first | Count: 16 | Source: Salesloft, ZoomInfo, Coursera, Cognism, Hunter, Salesforge, Salesbread, Outplay, Cleverly, Salesdorado
 
 Customer result with a link > another win with the same customer > ask for a call with two named days
 
@@ -179,7 +179,7 @@ Who you are > what you noticed about them > a small coffee, chat or connect ask
 
 To candidates: profile or role trigger > why it fits > a few reasons > time ask. To employers: open role seen > proof and candidates on file > call ask.
 
-## 32. Right-person redirect | Count: 36 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism, Warmupinbox, HubSpot, Hunter, Saleshandy, SmartReach, DemandCurve, Artisan, Reachly
+## 32. Right-person redirect | Count: 37 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism, Warmupinbox, HubSpot, Hunter, Saleshandy, SmartReach, DemandCurve, Artisan, Reachly, LeadSquared
 
 Say you are trying to reach whoever handles [area] > ask if that is them or someone else > one line of context with proof > thank them for the pointer
 
@@ -293,7 +293,7 @@ Opener that proves it was written for them > one bridge sentence tying their wor
 
 - Smartlead's view: the first sentence matters most, the bridge is an outcome and not a feature list, and the ask should be specific and bounded.
 
-## 52. Tech-stack trigger | Count: 1 | Source: Smartlead
+## 52. Tech-stack trigger | Count: 2 | Source: Smartlead, Salesdorado
 
 A tool they use plus their growth stage > the wall teams at that stage hit > what you do and one proof number > short call ask
 
@@ -359,7 +359,7 @@ Challenge the way they do something today > say what you do for people in their 
 
 - Share something they may not know about. Avoid implying their current approach is wrong without a reason.
 
-## 64. Introduction request | Count: 4 | Source: SmartWriter, Warmupinbox, DemandCurve
+## 64. Introduction request | Count: 5 | Source: SmartWriter, Warmupinbox, DemandCurve, LeadSquared
 
 Say you saw they know a specific person > ask for an introduction, and say you will send a short note they can forward, or explain the mutual benefit (for example swapping audiences) > keep the ask small
 
@@ -493,7 +493,7 @@ A follow-up that references the first email > say you made a short video with id
 
 - Record the video only for people who say yes, so your effort goes to warm leads.
 
-## 87. Careers-page trigger | Count: 1 | Source: Proposify
+## 87. Careers-page trigger | Count: 2 | Source: Proposify, Salesdorado
 
 Name the open role and one duty from their careers page > say how your product removes that burden > a line of named client proof > three outcome bullets > ask for a call next week
 
@@ -517,13 +517,13 @@ Define the ideal customer (role, company size, revenue, industry) > build a shor
 
 - Proposify's best example felt personal because it was sent to one clear fit, not a purchased list.
 
-## 91. Advice request with an email-only option | Count: 7 | Source: Hunter, DemandCurve
+## 91. Advice request with an email-only option | Count: 9 | Source: Hunter, DemandCurve, LeadSquared
 
 Reference something specific they said or wrote > describe your situation and your current thinking in two lines > ask for their view > say they can answer by email if a call is too much
 
 - A follow-up can shrink the ask further to one specific question they can answer in a few sentences. Close with a thank-you note that says what you did with their advice.
 
-## 92. Reconnect through their content | Count: 7 | Source: Hunter, Artisan
+## 92. Reconnect through their content | Count: 8 | Source: Hunter, Artisan, LeadSquared
 
 Say a specific article, post or talk of theirs brought you to mind > one specific point you liked and how it links to your work > a light ask to catch up
 
@@ -533,7 +533,7 @@ Show you studied their product or work > describe one specific project or analys
 
 - A concrete idea they can picture beats a general "I'd love to learn".
 
-## 94. Congratulation with no ask | Count: 8 | Source: Hunter, SmartReach
+## 94. Congratulation with no ask | Count: 9 | Source: Hunter, SmartReach, LeadSquared
 
 Name a specific milestone (an anniversary, a funding round, a launch) > one line on what impressed you > no request at all
 
@@ -625,7 +625,7 @@ Acknowledge the objection in one line (budget, already using a competitor, no ti
 
 Say you will be at the same event or session > one line on what you can swap notes about > offer a coffee or a 10 minute chat at a named spot
 
-## 112. Quote request for an article | Count: 3 | Source: SmartReach
+## 112. Quote request for an article | Count: 4 | Source: SmartReach, LeadSquared
 
 Say what you are writing and where it will appear > ask for one short answer to a specific question > promise credit or a link
 
@@ -643,7 +643,7 @@ Say you noticed they are not using a type of solution and ask why, out of genuin
 
 - Works because it is not selling. Needs a real, checkable observation.
 
-## 115. Research-interview opener | Count: 2 | Source: Breakcold, DemandCurve
+## 115. Research-interview opener | Count: 4 | Source: Breakcold, DemandCurve, LeadSquared
 
 A personal first line > say you are writing an article or researching a topic > one simple yes-or-no question about their situation
 
@@ -851,6 +851,54 @@ Use the segment's own words > name the ceiling of its usual growth method > desc
 
 - Name the segment, not a generic industry. Match the tone to the audience.
 
+## 150. Survey participation invite | Count: 1 | Source: LeadSquared
+
+Say you are running a short survey > what it covers and how long it takes > offer early results only to participants
+
+- Promise only what you will deliver. A reward or credit line raises participation.
+
+## 151. Offer an introduction | Count: 1 | Source: LeadSquared
+
+Reference their public request > offer to introduce experts who can help > ask if they want an email intro
+
+- Pure goodwill. Only offer people who would genuinely help them.
+
+## 152. Guilt-trip nudge (avoid) | Count: 1 | Source: LeadSquared
+
+Tell them you miss something they stopped doing and imply they should resume
+
+- Reads as judgment. Replace with a specific observation and a useful offer.
+
+## 153. Insider-sourced opener (use with care) | Count: 1 | Source: LeadSquared
+
+Cite what their staff or vendors said about a struggle and ask a question about it
+
+- Sourcing must be real and appropriate. Unverifiable claims about their team read as surveillance.
+
+## 154. New-leader window | Count: 1 | Source: Salesdorado
+
+Mention the role they took in the last 90 days > what people in that role often cannot see yet > a similar client > ask if they are working on it
+
+- Wait a couple of weeks after a job-change alert. Use a real quote, not an invented one.
+
+## 155. Counterintuitive trigger line | Count: 1 | Source: Salesdorado
+
+Name the trigger > say the first difficulty is not the obvious one but another > ask if it is an issue yet
+
+- Only works if you really know the less obvious problem.
+
+## 156. Honest no-reason email | Count: 1 | Source: Salesdorado
+
+Say you have no special reason to write > share one small real field observation > ask a genuine question
+
+- Use sparingly. A small honest sample is more credible than a big percentage.
+
+## 157. Executive email with a public quote | Count: 1 | Source: Salesdorado
+
+Quote something they said publicly > the peer result tied to it > offer bullets or an introduction to a peer, not a meeting
+
+- The quote must be public, dated and accurate.
+
 ## Sequences and cadence
 
 **Four-email sequence | Count: 1 | Clay.** Email 1: full pitch. Email 2: how it works. Email 3: change the angle. Email 4: breakup, ask who else should handle it.
@@ -888,3 +936,5 @@ Use the segment's own words > name the ceiling of its usual growth method > desc
 **Four-touch cadence | Count: 1 | Cleverly.** Day 1 first email, day 4 value add in the same thread, day 9 honest re-engage that offers to stop, day 14 breakup. Run one template for 50 to 100 sends before changing it, and change one thing at a time.
 
 **Two-email sequence with a channel pivot | Count: 1 | Reachly.** Email 1 on day 1 in the six-part format, a one-line second email 5 to 7 days later asking whether it is of interest or belongs to a colleague, then a LinkedIn note to people active there, then stop. Re-engage the same list 1.5 to 2.5 months later with a new angle or new proof.
+
+**Grid check before sending | Count: 1 | Salesdorado.** Score a draft on six points: asks for interest not a time slot, under 100 words, no product description, short subject without numbers, no ROI promise, a specific verifiable trigger. The page says to bin a template that fails two or more. Its figures are cited from other sources and unverified here.

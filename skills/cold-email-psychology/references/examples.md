@@ -792,3 +792,57 @@ Worth 15 minutes this month to see if it fits?
 [Your name]
 
 **Why it works:** the signal is checkable, the consequence is one line, the proof is one number, and the ask is one yes or no. Use only a result you can back up.
+
+---
+
+## Example 30: Food testing lab offering a benchmark report to a manufacturer
+
+**Prospect:** Quality manager at a mid-size packaged food manufacturer
+**Psychology:** reciprocity, specificity, lighter ask, exclusivity (only if true)
+**Pattern from:** LeadSquared (#030), offer market research insights
+
+**Subject options**
+1. [Company] and shelf-life benchmarks
+2. a short testing benchmark
+3. would this report help?
+
+**Email**
+
+Hi [First name],
+
+I saw [Company] added a second production line this year. Plants that scale often find their shelf-life testing schedule is the first thing to slip.
+
+We compiled how 40 comparable plants schedule that testing. Your size band is in it.
+
+Want the one-page summary?
+
+[Your name]
+
+**Why it works:** the observation is real, the asset is small and relevant, and the ask is a yes. Use only a sample size you actually have.
+
+---
+
+## Example 31: EV charging installer for a delivery company opening a depot
+
+**Prospect:** Fleet operations manager at a regional delivery company
+**Psychology:** a real trigger, counterintuitive angle, easy exit, no pitch
+**Pattern from:** Salesdorado (#031), the public-announcement trigger
+
+**Subject options**
+1. Northside depot opening
+2. new depot power
+3. depot charging
+
+**Email**
+
+Hi [First name],
+
+I saw you are opening a depot on the north side. For fleets we work with, the hard part of a new depot is rarely the chargers. It is the grid connection lead time.
+
+We worked through that with [real client type].
+
+Is that already on your list, or is it handled?
+
+[Your name]
+
+**Why it works:** the trigger is public, the angle names a real problem, and the question gives a respectable out. Use only a real client type and a lead-time fact you can support.

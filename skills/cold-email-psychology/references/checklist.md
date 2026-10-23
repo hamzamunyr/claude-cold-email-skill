@@ -71,5 +71,10 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] The personalization passes the swap test: moving it to a different prospect would change the email
 - [ ] One question only, placed last, and no link in the first email
 - [ ] Every merge field has a fallback so a blank never reads "Hi ,"
+- [ ] Any claim about their staff, vendors or stopped activity is real, sourced and kind, not guilt or surveillance
+- [ ] A research or survey invite promises only results you will actually share
+- [ ] The first email asks for interest or a small step before a specific time slot (test both)
+- [ ] The first email leads with a fresh trigger, not a product description
+- [ ] A trigger from an alert is not used the same day, so it does not look automated
 - [ ] No em dashes
 - [ ] 2 to 3 subject line options provided, short and specific

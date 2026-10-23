@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 942 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 952 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN |undefined | Count: NaN | Source: Clay, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox, Warmupinbox
 
@@ -67,7 +67,7 @@ Fresh resource and why you are sending it > how it connects to their pain > open
 
 - No hard ask, so it works as a relationship starter. Put the insight in the email or a link, not an attachment. Add one small question to invite a reply.
 
-## 12. Case study first | Count: 10 | Source: Salesloft, ZoomInfo, Coursera, Cognism, Hunter
+## 12. Case study first | Count: 11 | Source: Salesloft, ZoomInfo, Coursera, Cognism, Hunter, Salesforge
 
 Customer result with a link > another win with the same customer > ask for a call with two named days
 
@@ -169,7 +169,7 @@ Empathize > give one reason it did not work > offer a fresh idea > ask to talk
 
 Congratulate > offer help with leftover questions > ask them to keep you in mind for referrals
 
-## 30. Networking introduction | Count: 8 | Source: Woodpecker, Breakcold
+## 30. Networking introduction | Count: 9 | Source: Woodpecker, Breakcold, Salesforge
 
 Who you are > what you noticed about them > a small coffee, chat or connect ask
 
@@ -305,7 +305,7 @@ Reference a real post of theirs > a stage-specific observation > a genuine quest
 
 - A founder-to-founder tone. It starts a conversation and asks for no meeting.
 
-## 54. Audit or gap finding | Count: 19 | Source: Smartlead, LeadsMonky, HubSpot, Proposify, Saleshandy, SmartReach
+## 54. Audit or gap finding | Count: 21 | Source: Smartlead, LeadsMonky, HubSpot, Proposify, Saleshandy, SmartReach, Salesforge
 
 A specific finding from a quick check of their ads, content or site > proof you fixed something similar > offer the full findings in a short call
 
@@ -427,7 +427,7 @@ Thank a current customer > ask for a testimonial and say how it helps others > o
 
 - For existing customers only. A different job from cold prospecting, so do not reuse a sales template.
 
-## 76. Job application email | Count: 19 | Source: Warmupinbox, Proposify, Hunter, Saleshandy, SmartReach
+## 76. Job application email | Count: 20 | Source: Warmupinbox, Proposify, Hunter, Saleshandy, SmartReach, Salesforge
 
 Say which role you are applying for > your years of experience and a result that fits their goals > one specific thing you admire about the company > ask for a discussion and name the day you will follow up
 
@@ -527,7 +527,7 @@ Reference something specific they said or wrote > describe your situation and yo
 
 Say a specific article, post or talk of theirs brought you to mind > one specific point you liked and how it links to your work > a light ask to catch up
 
-## 93. Internship pitch with a concrete project idea | Count: 7 | Source: Hunter, Saleshandy
+## 93. Internship pitch with a concrete project idea | Count: 8 | Source: Hunter, Saleshandy, Salesforge
 
 Show you studied their product or work > describe one specific project or analysis you could do, grounded in their real work > your year, school, skill and one relevant project > ask about the season
 
@@ -631,7 +631,7 @@ Say what you are writing and where it will appear > ask for one short answer to 
 
 - Experts reply more easily when the question is specific and short.
 
-## 113. Affiliate or referral program invite | Count: 3 | Source: SmartReach
+## 113. Affiliate or referral program invite | Count: 4 | Source: SmartReach, Salesforge
 
 Say you saw their content on the topic > list the concrete terms (rate, bonus, resources, a named contact) > a link to join
 
@@ -700,6 +700,18 @@ Ask whether it would be out of line to request a short slice of time, name what 
 Open with one specific number about their market, say what it means for their pipeline, then ask whether the same gap shows up on their side
 
 - The number must be real and sourced. An invented statistic here destroys the whole email.
+
+## 125. Partnership win-win pitch | Count: 1 | Source: Salesforge
+
+Praise a specific strength of theirs > say who you serve and where the audiences overlap > mention one past partnership and how customers reacted > a short call to explore
+
+- Frame it as mutual benefit. A request that only promotes you is not a partnership.
+
+## 126. Mentorship coffee chat | Count: 1 | Source: Salesforge
+
+Name the exact career step you admire > say where you are now > ask one specific question about a challenge they faced > propose a 15 minute chat on their terms
+
+- Specific research separates this from a generic request for mentorship. Offering to come to them lowers the effort.
 
 ## Sequences and cadence
 

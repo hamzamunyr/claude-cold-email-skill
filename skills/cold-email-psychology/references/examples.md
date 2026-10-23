@@ -577,3 +577,30 @@ I'd walk through where it shows up and let you judge whether it applies to you. 
 
 **Why it works:** the ask is framed as a courtesy, the data is about their segment, and the exit is written in. Only use real figures you can show.
 
+---
+
+## Example 22: Sustainable packaging supplier for a skincare brand
+
+**Prospect:** Operations lead at a direct-to-consumer skincare brand
+**Psychology:** specificity, gap finding, social proof, no-pitch framing
+**Pattern from:** Salesforge (#021), the "missed opportunity, no pitch" call
+
+**Subject options**
+1. your shipping box
+2. [Brand] unboxing, one gap
+3. quick packaging thought
+
+**Email**
+
+Hi [First name],
+
+Your refill pouch launch looked great. One thing I noticed: the outer mailer is still the old size, which usually means paying to ship a lot of empty space.
+
+We helped [similar real customer] cut that [real figure] once they right-sized.
+
+Open to a 15 minute call where I show what I found? No pitch, just the numbers.
+
+[Your name]
+
+**Why it works:** the observation is specific and checkable, the proof is from a similar brand, and the ask is small and honest. Use only a real result and a gap you actually verified.
+

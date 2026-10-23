@@ -1,6 +1,6 @@
 # Claude Cold Email Skill: Sales Psychology for Cold Emails
 
-A **Claude Code skill** that writes **cold email** with **sales psychology**, so your **copywriting** feels written for one person and your **B2B outbound** earns more replies. It was built by studying 20 public template libraries, guides and real example emails, then turning the patterns behind them into rules Claude can apply to your prospect.
+A **Claude Code skill** that writes **cold email** with **sales psychology**, so your **copywriting** feels written for one person and your **B2B outbound** earns more replies. It was built by studying 21 public template libraries, guides and real example emails, then turning the patterns behind them into rules Claude can apply to your prospect.
 
 <p align="center">
   <a href="https://github.com/hamzamunyr/claude-cold-email-skill/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hamzamunyr/claude-cold-email-skill?style=for-the-badge&color=f5c542"></a>
@@ -10,7 +10,7 @@ A **Claude Code skill** that writes **cold email** with **sales psychology**, so
 </p>
 
 <p align="center">
-  <img alt="20 sources" src="https://img.shields.io/badge/sources%20studied-20-1f6feb">
+  <img alt="21 sources" src="https://img.shields.io/badge/sources%20studied-21-1f6feb">
   <img alt="Emails analyzed" src="https://img.shields.io/badge/emails%20analyzed-900%2B-1f6feb">
   <img alt="Principles" src="https://img.shields.io/badge/psychology%20principles-40%2B-1f6feb">
   <img alt="Frameworks" src="https://img.shields.io/badge/email%20frameworks-100%2B-1f6feb">
@@ -313,7 +313,7 @@ to it?
 
 ## 🌍 Where the patterns come from
 
-The skill is built on **20 public sources**: template libraries, vendor guides and real example emails. A few of the biggest:
+The skill is built on **21 public sources**: template libraries, vendor guides and real example emails. A few of the biggest:
 
 | Source | What it added | Breakdown |
 | --- | --- | --- |
@@ -335,7 +335,7 @@ Every source has its own write-up in [`breakdowns/`](breakdowns/), with what wor
 | [`references/frameworks.md`](skills/cold-email-psychology/references/frameworks.md) | 100+ email structures |
 | [`references/hooks.md`](skills/cold-email-psychology/references/hooks.md) | Opening lines and subject line patterns |
 | [`references/ctas.md`](skills/cold-email-psychology/references/ctas.md) | Types of asks and when each works |
-| [`references/examples.md`](skills/cold-email-psychology/references/examples.md) | 21 original example emails |
+| [`references/examples.md`](skills/cold-email-psychology/references/examples.md) | 22 original example emails |
 | [`references/checklist.md`](skills/cold-email-psychology/references/checklist.md) | A pre-send checklist the skill runs on every draft |
 | [`breakdowns/`](breakdowns/) | One analysis per source |
 

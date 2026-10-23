@@ -1,18 +1,18 @@
 # Calls to Action
 
-Emails analyzed so far: 143 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead). Woodpecker counts are approximate.
+Emails analyzed so far: 164 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter). Woodpecker counts are approximate.
 
 | CTA type | Example shape | When it works | Count | Sources |
 |---|---|---|---|---|
-| Open call or meeting ask | "Do you have time this week to talk?" | Warm leads, senior prospects, strong proof. Higher friction | 34 | Apollo, Salesloft, Woodpecker, Coursera, Smartlead |
-| Interest check | "If I could help with [problem], would that be useful?" or "Could this work for [company]?" | Cold first touch. Best default | 18 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead |
-| Short call ask (time-boxed) | "Can we do a 10 minute call?" | Value is clear and the prospect is senior. Name the duration | 30 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead |
-| Register or click a link | "Use the link below to save your place" | Event or session invites, trials, sign-ups | 12 | Woodpecker |
+| Open call or meeting ask | "Do you have time this week to talk?" | Warm leads, senior prospects, strong proof. Higher friction | 36 | Apollo, Salesloft, Woodpecker, Coursera, Smartlead, SmartWriter |
+| Interest check | "If I could help with [problem], would that be useful?" or "Could this work for [company]?" | Cold first touch. Best default | 19 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter |
+| Short call ask (time-boxed) | "Can we do a 10 minute call?" | Value is clear and the prospect is senior. Name the duration | 35 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter |
+| Register or click a link | "Use the link below to save your place" | Event or session invites, trials, sign-ups | 13 | Woodpecker, SmartWriter |
 | Short asset offer | "Can I send a short video, breakdown, case study or menu?" | You have something quick to show. Lowest friction | 5 | Clay, Apollo, Woodpecker |
-| Calendar link | A link to book a time | After interest is shown, or for recruiter office hours | 6 | Apollo, Woodpecker |
+| Calendar link | A link to book a time | After interest is shown, or for recruiter office hours | 7 | Apollo, Woodpecker, SmartWriter |
 | Reply with feedback or a pick | "Tell me which of these are a no, and why" | You sent a short list. Easy to answer and useful for you | 4 | Woodpecker |
 | Coffee or LinkedIn connect | "Could I invite you for a coffee?" | Networking, not sales | 4 | Woodpecker |
-| Specific time options | "Do you have time Tuesday or Wednesday?" | Warm leads or strong proof. Two named options beat "when are you free?" | 4 | Salesloft, FirstSales, Smartlead |
+| Specific time options | "Do you have time Tuesday or Wednesday?" | Warm leads or strong proof. Two named options beat "when are you free?" | 7 | Salesloft, FirstSales, Smartlead, SmartWriter |
 | Show-me offer | "Want me to walk you through it?" | You have a clear demo of the idea you just described | 3 | Clay, FirstSales |
 | Open offer of help | "Let me know if there is anything else I can help with" | Resource shares and warm follow-ups. Low pressure, low reply rate | 5 | Salesloft, Smartlead |
 | Referral or recommendation ask | "If you know someone who is buying or selling, please keep me in mind" | After a successful result, when the client is happy | 2 | Woodpecker |
@@ -28,5 +28,8 @@ Emails analyzed so far: 143 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Cour
 | Reply either way | Ask for a quick reply whether yes or no | A follow-up with a new angle. Lowers the bar to answer | 1 | FirstSales |
 | Dialogue question | Ask a real question about how they handle it today, with no meeting ask | Founders and senior buyers. Builds a conversation first | 1 | Smartlead |
 | What would need to be true | Ask what would need to be true for your solution to make sense now | A day 7 follow-up with a different angle | 1 | Smartlead |
+| Introduction request | Ask someone to introduce you to a person they know, and offer a forwardable note | When a real mutual contact exists. Easier if you keep the ask small | 2 | SmartWriter |
+| Free access for a review | Offer a free account in return for an honest review | Creators and reviewers. Be clear about what you are asking for | 1 | SmartWriter |
+| Ready draft question | Ask if a ready draft fits their audience | You can send finished work, such as a guest post | 1 | SmartWriter |
 
 Rule: one CTA per email. Phrase it as a small offer, not a request for their time. About half of the Woodpecker templates ask for a call outright, and Apollo and Salesloft use short call asks in several templates, while Clay advises against asking for a call in a first email. Default to a smaller ask, and use a call ask for senior prospects when the proof is strong. Do not stack a link, an opinion ask and a phone number in one email. Avoid assumptive or guilt-based closings (for example, assuming they surely have time).

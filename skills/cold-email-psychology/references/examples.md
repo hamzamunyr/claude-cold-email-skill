@@ -254,3 +254,30 @@ I put the rest of what I found in a short list. Want me to send it over?
 [Your name]
 
 **Why it works:** the finding proves real work, the list is useful even if they never hire you, and the ask is just a yes. Only use it if you actually ran the check.
+
+---
+
+## Example 10: Dietitian pitching an article to a workplace newsletter
+
+**Prospect:** Editor of a corporate wellness newsletter
+**Psychology:** reciprocity (a finished draft), specificity (a real gap in their coverage), commitment minimization
+**Pattern from:** SmartWriter (#009), ready-draft pitch
+
+**Subject options**
+1. a draft for [Newsletter name]
+2. an idea on [specific topic]
+3. [First name], quick one
+
+**Email**
+
+Hi [First name],
+
+I read [Newsletter name]'s piece on [specific article title], and noticed you haven't covered [specific topic] yet.
+
+I'm a registered dietitian who works with [type of workplace], and I wrote a 600-word draft on it: [link].
+
+Would it suit your readers? I'm happy to change the angle or the length.
+
+[Your name]
+
+**Why it works:** the gap shows real reading, the draft is useful work done up front, and the question is a simple yes or no that invites edits.

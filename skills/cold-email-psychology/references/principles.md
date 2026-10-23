@@ -1,42 +1,43 @@
 # Psychology Principles
 
-Listed by frequency across analyzed emails (final ranking and cleanup happen at FINALIZE). Counts go up whenever another email uses the pattern. Emails analyzed so far: 143 (6 Clay, 6 Apollo, 9 Salesloft, 75 Woodpecker, 17 ZoomInfo, 3 Coursera, 8 FirstSales, 19 Smartlead).
+Listed by frequency across analyzed emails (final ranking and cleanup happen at FINALIZE). Counts go up whenever another email uses the pattern. Emails analyzed so far: 164 (6 Clay, 6 Apollo, 9 Salesloft, 75 Woodpecker, 17 ZoomInfo, 3 Coursera, 8 FirstSales, 19 Smartlead, 21 SmartWriter).
 
 | Rank | Principle | Count | Sources |
 |---|---|---|---|
-| 1 | Effort reduction (short, one idea per sentence) | 120 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead |
-| 2 | Specificity (observed trigger plus concrete details) | 86 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead |
-| 3 | Commitment minimization (low-friction, time-boxed ask) | 82 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead |
-| 4 | Social proof (named or similar company, bandwagon, testimonials) | 53 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead |
-| 5 | Curiosity gap (including question subjects) | 47 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead |
-| 6 | Reciprocity (value before ask) | 42 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead |
+| 1 | Effort reduction (short, one idea per sentence) | 138 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter |
+| 2 | Specificity (observed trigger plus concrete details) | 95 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter |
+| 3 | Commitment minimization (low-friction, time-boxed ask) | 95 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter |
+| 4 | Social proof (named or similar company, bandwagon, testimonials) | 60 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter |
+| 5 | Curiosity gap (including question subjects) | 51 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter |
+| 6 | Reciprocity (value before ask) | 47 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter |
 | 7 | Consistency (reference a prior touch) | 41 | Salesloft, Woodpecker, ZoomInfo, FirstSales, Smartlead |
-| 8 | Easy exit (breakup, wrong-person check, polite out) | 18 | Clay, Apollo, Woodpecker, ZoomInfo, FirstSales, Smartlead |
-| 9 | Authority (association, expertise, original data, experience) | 14 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo |
-| 10 | Liking through a specific compliment | 14 | Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead |
-| 11 | Self-aware honesty (acknowledge the interruption) | 14 | Woodpecker, ZoomInfo, FirstSales, Smartlead |
-| 12 | Scarcity and urgency | 12 | Woodpecker, ZoomInfo, Coursera |
-| 13 | Unique mechanism (one claim competitors cannot make) | 12 | Clay, Apollo, ZoomInfo, Smartlead |
-| 14 | Loss aversion (cost of inaction) | 11 | Clay, Apollo, ZoomInfo, Smartlead |
-| 15 | Problem agitation | 9 | Woodpecker, ZoomInfo |
-| 16 | Borrowed trust (referral or mutual contact) | 9 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead |
-| 17 | Competitive comparison (peer benchmark) | 9 | Apollo, Salesloft, ZoomInfo, Smartlead |
-| 18 | Empathy (name the feeling) | 8 | Woodpecker, Smartlead |
-| 19 | Quantified benefit | 6 | Woodpecker, Coursera, Smartlead |
-| 20 | Intent signal (they visited or downloaded) | 6 | Salesloft, ZoomInfo, Coursera, FirstSales, Smartlead |
-| 21 | Forced choice (two specific options) | 5 | Salesloft, FirstSales, Smartlead |
-| 22 | Contrarian angle (common approach is weak) | 3 | Apollo |
+| 8 | Easy exit (breakup, wrong-person check, polite out) | 21 | Clay, Apollo, Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter |
+| 9 | Liking through a specific compliment | 19 | Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter |
+| 10 | Authority (association, expertise, original data, experience) | 18 | Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, SmartWriter |
+| 11 | Self-aware honesty (acknowledge the interruption) | 15 | Woodpecker, ZoomInfo, FirstSales, Smartlead, SmartWriter |
+| 12 | Unique mechanism (one claim competitors cannot make) | 13 | Clay, Apollo, ZoomInfo, Smartlead, SmartWriter |
+| 13 | Problem agitation | 13 | Woodpecker, ZoomInfo, SmartWriter |
+| 14 | Scarcity and urgency | 12 | Woodpecker, ZoomInfo, Coursera |
+| 15 | Quantified benefit | 12 | Woodpecker, Coursera, Smartlead, SmartWriter |
+| 16 | Loss aversion (cost of inaction) | 11 | Clay, Apollo, ZoomInfo, Smartlead |
+| 17 | Borrowed trust (referral or mutual contact) | 10 | Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, Smartlead, SmartWriter |
+| 18 | Competitive comparison (peer benchmark) | 10 | Apollo, Salesloft, ZoomInfo, Smartlead, SmartWriter |
+| 19 | Empathy (name the feeling) | 10 | Woodpecker, Smartlead, SmartWriter |
+| 20 | Intent signal (they visited or downloaded) | 7 | Salesloft, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter |
+| 21 | Forced choice (two specific options) | 7 | Salesloft, FirstSales, Smartlead, SmartWriter |
+| 22 | Contrarian angle (common approach is weak) | 4 | Apollo, SmartWriter |
 | 23 | Similarity (shared role or interest) | 3 | Woodpecker |
 | 24 | Assumptive close (risky, use with care) | 3 | Woodpecker |
 | 25 | Normalization (shared problem) | 3 | Salesloft, Coursera |
 | 26 | Reminder of prior interest | 2 | Woodpecker |
 | 27 | No-ask framing (say outright that you want nothing) | 2 | ZoomInfo |
 | 28 | Convenience and accommodation (offer to come to them, flexible times) | 2 | Coursera |
-| 29 | Personal video (humanization) | 1 | Salesloft |
-| 30 | No-oriented question (a "no" is easy to give) | 1 | Salesloft |
-| 31 | Price transparency | 1 | Salesloft |
-| 32 | Topical hook (ride a subject they already care about) | 1 | Clay |
-| 33 | Exclusivity (confidential or selective opportunity) | 1 | Smartlead |
+| 29 | Exclusivity (confidential or selective opportunity) | 2 | Smartlead, SmartWriter |
+| 30 | Personal video (humanization) | 1 | Salesloft |
+| 31 | No-oriented question (a "no" is easy to give) | 1 | Salesloft |
+| 32 | Price transparency | 1 | Salesloft |
+| 33 | Topical hook (ride a subject they already care about) | 1 | Clay |
+| 34 | Mutual benefit (win-win swap) | 1 | SmartWriter |
 
 Counts are a judgment call per email, and the Woodpecker counts are approximate. Woodpecker templates are generic and many are warm follow-ups, so treat its principles as weaker evidence than a real campaign result. None of the four sources gives results for individual emails.
 
@@ -99,6 +100,8 @@ Counts are a judgment call per email, and the Woodpecker counts are approximate.
 **No-oriented question.** A question where "no" is the easy, safe answer can lower resistance. Keep the wording simple to avoid double negatives.
 
 **Price transparency.** Be open about pricing when the buyer is already evaluating. It builds trust but is too much for a first cold email.
+
+**Mutual benefit.** Offer a win-win, such as swapping audiences with a non-competing business, so both sides gain. Back it with a real past example.
 
 **Exclusivity.** Signal that the opportunity is private or selective (a confidential search for a specific profile). Use it only when it is true, and do not overstate what the role or offer is.
 

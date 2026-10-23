@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 143 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead). Woodpecker counts are approximate.
+Emails analyzed so far: 164 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter). Woodpecker counts are approximate.
 
 ## 1. Five-part first email | Count: 2 | Source: Clay
 
@@ -25,7 +25,7 @@ Observation about their site > "have you considered these?" question > three ide
 - Best for: agencies, tools and services where you can show what you would do for them.
 - Weak when: the ideas are generic or do not fit their business.
 
-## 4. Event hook | Count: 2 | Source: Apollo, ZoomInfo
+## 4. Event hook | Count: 3 | Source: Apollo, ZoomInfo, SmartWriter
 
 Recent event > the challenge it likely creates > peer result > short call ask
 
@@ -61,7 +61,7 @@ Their initiative > peer story > the insight written inline > "could this work fo
 
 - Best when you can fit a real insight in two sentences.
 
-## 11. Resource share | Count: 2 | Source: Salesloft, ZoomInfo
+## 11. Resource share | Count: 3 | Source: Salesloft, ZoomInfo, SmartWriter
 
 Fresh resource and why you are sending it > how it connects to their pain > open offer of more help
 
@@ -79,13 +79,13 @@ Normalize the problem ("many people in your role struggle with X") > article or 
 
 - Works best when the problem is specific, not generic.
 
-## 14. Collaboration | Count: 2 | Source: Salesloft, Coursera
+## 14. Collaboration | Count: 3 | Source: Salesloft, Coursera, SmartWriter
 
 Specific compliment about something they made > mutual contact > a couple of ideas > short call ask
 
 - Needs a real piece of their content and a real mutual contact.
 
-## 15. AIDA | Count: 3 | Source: Salesloft, Woodpecker, ZoomInfo
+## 15. AIDA | Count: 4 | Source: Salesloft, Woodpecker, ZoomInfo, SmartWriter
 
 Attention (subject) > Interest (their post or news) > Desire (shared roadblock plus research) > Action (one CTA)
 
@@ -127,13 +127,13 @@ One line referencing the earlier email > restate or add one reason > one ask
 
 - Best for: a second or third touch. Keep it under about 80 words and bring something new (a fresh reason, a short resource), not just "checking in".
 
-## 22. PAS (problem, agitate, solution) | Count: 4 | Source: Woodpecker, ZoomInfo
+## 22. PAS (problem, agitate, solution) | Count: 6 | Source: Woodpecker, ZoomInfo, SmartWriter
 
 Pain question > deepen the cost of the pain > present the fix with proof > ask to click or chat
 
 - Best for: pains the prospect already feels. Avoid guarantees and insulting framing.
 
-## 23. Before-After-Bridge | Count: 3 | Source: Woodpecker, ZoomInfo
+## 23. Before-After-Bridge | Count: 5 | Source: Woodpecker, ZoomInfo, SmartWriter
 
 Describe the current problem > picture the better result > bridge with how you get there > light question
 
@@ -179,7 +179,7 @@ Who you are > what you noticed about them > a small coffee, chat or connect ask
 
 To candidates: profile or role trigger > why it fits > a few reasons > time ask. To employers: open role seen > proof and candidates on file > call ask.
 
-## 32. Right-person redirect | Count: 3 | Source: Woodpecker, ZoomInfo, FirstSales
+## 32. Right-person redirect | Count: 4 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter
 
 Say you are trying to reach whoever handles [area] > ask if that is them or someone else > one line of context with proof > thank them for the pointer
 
@@ -189,7 +189,7 @@ Trigger event > the challenge companies in their position usually face > what yo
 
 - A three-sentence base. Needs a real trigger, or it reads as generic.
 
-## 34. Competitor mention | Count: 3 | Source: ZoomInfo, Smartlead
+## 34. Competitor mention | Count: 4 | Source: ZoomInfo, Smartlead, SmartWriter
 
 Observed tool they use today > why others switched > a similar company's result > interest check
 
@@ -328,6 +328,54 @@ Skip making the case again > ask what would need to be true for your solution to
 Trigger event (hardest to find, highest value) > role-specific pain (not "efficiency") > proof point from the same vertical (cross-vertical proof reads as desperation) > an ask that matches their buying stage
 
 - If you can fill all four with real detail it is a personalized email. If you only fill name and company it will perform like a template.
+
+## 59. Direct idea pitch | Count: 1 | Source: SmartWriter
+
+A friendly opener > "I have an idea I can explain in 10 minutes" tied to a concrete goal > one proof of the same idea working > ask for a 10 minute call
+
+- SmartWriter says this one reportedly drew a 57% open rate and a 21% response rate (unverified). It needs a real idea and a real result.
+
+## 60. Three-sentence email | Count: 1 | Source: SmartWriter
+
+Who you are and that you will be quick > what you do for people like them > one small ask
+
+- Not a literal limit. Keep it as close to three sentences as you can.
+
+## 61. Praise, picture, push | Count: 1 | Source: SmartWriter
+
+Sincere praise for a real recent achievement > picture what they could do with your help while they are busy with that achievement > a small push to a short call or demo
+
+- The praise must be real and specific. Do not pair it with an unrelated pitch.
+
+## 62. Website visitor follow-up | Count: 1 | Source: SmartWriter
+
+Acknowledge what they did on your site > recommend related resources > mention one relevant offer > ask for a short call with two time options
+
+- Send a personal note, not a mass list email. Only for real visits.
+
+## 63. Rock the boat | Count: 1 | Source: SmartWriter
+
+Challenge the way they do something today > say what you do for people in their role > ask what tools they use now > ask for a quick call
+
+- Share something they may not know about. Avoid implying their current approach is wrong without a reason.
+
+## 64. Introduction request | Count: 2 | Source: SmartWriter
+
+Say you saw they know a specific person > ask for an introduction, and say you will send a short note they can forward, or explain the mutual benefit (for example swapping audiences) > keep the ask small
+
+- Only with a real connection. A win-win angle, such as a list swap with non-competing audiences, makes saying yes easier.
+
+## 65. Free product for an honest review | Count: 1 | Source: SmartWriter
+
+Name the specific video or article of theirs you watched or read and what you liked > mention what you just released > offer a free account for an honest review
+
+- Be clear about what you want in return. Do not promise no obligation and then ask for a review.
+
+## 66. Ready-draft pitch | Count: 1 | Source: SmartWriter
+
+A real detail about their site or audience and a common contact if you have one > say you have a draft ready > ask one yes-or-no question about whether it fits
+
+- Giving finished work up front is a strong form of reciprocity.
 
 ## Sequences and cadence
 

@@ -29,6 +29,10 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] The subject and the first line read as one continuous thought
 - [ ] Proof comes from the same vertical when possible (cross-vertical proof reads as desperation)
 - [ ] Any audit, finding or "I noticed" claim is real and specific, not invented
+- [ ] No celebrity or customer names unless they are real and permitted. Fake name-drops destroy trust
+- [ ] Generic flattery ("big fan of your product") is cut unless it names something specific
+- [ ] No contradictions, such as promising no obligation and then asking for something in return
+- [ ] The subject avoids exclamation marks and spam phrases ("click here", "best price", "winner", "double your")
 - [ ] No attachments on the first touch
 - [ ] No feature lists or pricing details in a first cold email
 - [ ] Plain, conversational words. No jargon or hype words ("game changer", "revolutionary")

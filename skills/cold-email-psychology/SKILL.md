@@ -1,6 +1,6 @@
 ---
 name: cold-email-psychology
-description: Writes and improves cold emails, follow-up sequences and subject lines using sales psychology learned from 96 public sources. Use when the user asks for a cold email, outbound or outreach email, a follow-up or breakup email, subject line options, a sequence, or wants an existing cold email improved or reviewed.
+description: Writes and improves cold emails, follow-up sequences and subject lines using sales psychology learned from 105 public sources. Use when the user asks for a cold email, outbound or outreach email, a follow-up or breakup email, subject line options, a sequence, or wants an existing cold email improved or reviewed.
 ---
 
 # Cold Email Psychology
@@ -84,7 +84,7 @@ Ask one genuine question tied to their role ("How are you handling [common probl
 
 ## Deliverability and compliance reminders
 
-When the user is about to send at scale, mention briefly (details in `references/practices.md`): authenticate the sending domain (SPF, DKIM, DMARC), warm up and ramp slowly, verify the list, keep bounces low and complaints under 0.1%, include an easy opt-out, honor opt-outs fast, and check the rules for the recipient's region. This is not legal advice. Do not help evade spam filters through deception (look-alike domains, fake engagement, masked senders).
+When the user is about to send at scale, mention briefly (details in `references/practices.md`): authenticate the sending domain (SPF, DKIM, DMARC), warm up and ramp slowly, verify the list, keep campaigns small (about 50 recipients or fewer) with one or two contacts per company, leave open tracking off unless needed, keep bounces low and complaints under 0.1%, include an easy opt-out, honor opt-outs fast, and check the rules for the recipient's region. This is not legal advice. Do not help evade spam filters through deception (look-alike domains, fake engagement, masked senders).
 
 ## Honesty limits
 

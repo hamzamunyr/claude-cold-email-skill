@@ -1,6 +1,6 @@
-# Cold Email Template Breakdowns: 96 Sources Analyzed
+# Cold Email Template Breakdowns: 105 Sources Analyzed
 
-One page per source behind the [Claude Cold Email Skill](../README.md). Each breakdown covers the cold email templates or follow-up guides in the source, the psychology each one uses, the hook and call to action, the cadence, weaknesses and what is worth borrowing. Sources 001 to 052 are template libraries, 053 to 060 are cold email best-practice and deliverability guides, and 061 to 075 are cold email follow-up guides, and 076 to 086 are reply rate, statistics and measurement guides, 087 is a signal-based template guide, and 088 to 096 are reply rate benchmark guides.
+One page per source behind the [Claude Cold Email Skill](../README.md). Each breakdown covers the cold email templates or follow-up guides in the source, the psychology each one uses, the hook and call to action, the cadence, weaknesses and what is worth borrowing. Sources 001 to 052 are template libraries, 053 to 060 are cold email best-practice and deliverability guides, and 061 to 075 are cold email follow-up guides, and 076 to 086 are reply rate, statistics and measurement guides, 087 is a signal-based template guide, and 088 to 105 are reply rate benchmark, statistics and best-practice guides.
 
 Only subject lines are quoted. Everything else is paraphrased, and vendor statistics are marked as unverified.
 
@@ -100,3 +100,12 @@ Only subject lines are quoted. Everything else is paraphrased, and vendor statis
 - [094. Ember Reply Benchmarks Breakdown](094-ember-reply-benchmarks.md)
 - [095. SalesCaptain Response Rates Breakdown](095-salescaptain-response-rates.md)
 - [096. Breakcold Reply Rate Guide Breakdown](096-breakcold-reply-rate.md)
+- [097. Digital Bloom Reply Benchmarks Breakdown](097-digitalbloom-benchmarks.md)
+- [098. ReplyLead Realistic Reply Rate Breakdown](098-replylead-realistic-rate.md)
+- [099. Instantly Tracking Reply Rates Breakdown](099-instantly-tracking-reply-rates.md)
+- [100. Salesmotion Executive Email Data Breakdown](100-salesmotion-executive-reply-rates.md)
+- [101. Mailforge Response Rate Guide Breakdown](101-mailforge-response-rates.md)
+- [102. Saleshandy Improve Response Rate Breakdown](102-saleshandy-improve-response.md)
+- [103. Cleanlist Response Statistics Breakdown](103-cleanlist-response-statistics.md)
+- [104. lemlist Best Practices Help Article Breakdown](104-lemlist-best-practices-help.md)
+- [105. Hunter State of Cold Email Breakdown](105-hunter-state-of-cold-email.md)

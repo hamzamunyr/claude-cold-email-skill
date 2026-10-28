@@ -109,5 +109,7 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] No competitor hearsay ("teams are switching from X") or invented ratings, review counts or customer results
 - [ ] Any signal you cite (funding, a hire, a tool, an earnings remark) is public, recent and kept to one sentence
 - [ ] A/B tests change one variable, have enough contacts per variant and use the metric that matches the test
+- [ ] The email is not sent with open tracking or click tracking on unless you truly need it, and it goes from a business domain, not a freemail address
+- [ ] Emails to executives are under 100 words with a subject of one to four words about their world, and offer value instead of a meeting
 - [ ] No em dashes
 - [ ] 2 to 3 subject line options provided, short and specific

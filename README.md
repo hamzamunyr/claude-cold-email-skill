@@ -143,6 +143,14 @@ Ask Claude: *"What skills do you have for cold email?"* You should see `cold-ema
 
 </details>
 
+### Use it on Claude.ai (web and desktop app)
+
+1. Download [`cold-email-psychology.zip`](cold-email-psychology.zip) from this repo.
+2. In Claude, open **Settings, then Capabilities (or Customize), then Skills**, choose **Upload skill** and select the zip.
+3. Turn the skill on, then ask for a cold email, a follow-up sequence or subject lines in any chat.
+
+Skills on Claude.ai need a plan that includes skills (and code execution, if your settings ask for it). If your plan does not, create a Project and add the files in [`skills/cold-email-psychology/`](skills/cold-email-psychology/) to its knowledge, then paste the contents of `SKILL.md` into the project instructions.
+
 ---
 
 ## 🚀 How to use

@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 1630 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora, Influno, Reachoutly, LeadFuze, Distribute, Semrush, FreebiesMockup, Maildoso, Scalelist, SellingSignals, Outboundly, EmailSneak, FirstSales72, Close, Saleshandy, Follow-up guides, Artisan stats page, Autobound, Saleshandy tips, lemlist structure). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1669 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora, Influno, Reachoutly, LeadFuze, Distribute, Semrush, FreebiesMockup, Maildoso, Scalelist, SellingSignals, Outboundly, EmailSneak, FirstSales72, Close, Saleshandy, Follow-up guides, Artisan stats page, Autobound, Saleshandy tips, lemlist structure, Structure and sequence guides). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## Quick pick: the most-used frameworks by job
 
@@ -66,7 +66,7 @@ Trend > what most companies do > a better way > peer result > curiosity question
 
 - Needs real expertise and a real result, or the contrarian line sounds empty.
 
-## 8. Referral | Count: 32 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold, Truelist, Cleverly, Reachly, Salesdorado, TextMagic, ProProfsDesk, Clearout, LeadGibbon, MailGenius, Influno, Reachoutly, Distribute, FreebiesMockup, Maildoso, FirstSales72, Follow-up guides
+## 8. Referral | Count: 35 | Source: Apollo, ZoomInfo, Smartlead, Cognism, HubSpot, Breakcold, Truelist, Cleverly, Reachly, Salesdorado, TextMagic, ProProfsDesk, Clearout, LeadGibbon, MailGenius, Influno, Reachoutly, Distribute, FreebiesMockup, Maildoso, FirstSales72, Follow-up guides, Structure and sequence guides
 
 Mutual contact > outcome achieved > fit with their goal > short call ask
 
@@ -104,7 +104,7 @@ Specific compliment about something they made > mutual contact > a couple of ide
 
 - Needs a real piece of their content and a real mutual contact.
 
-## 15. AIDA | Count: 17 | Source: Salesloft, Woodpecker, ZoomInfo, SmartWriter, Cognism, HubSpot, Cleverly, Artisan, TextMagic, MailGenius, Reachoutly, Maildoso, FirstSales72
+## 15. AIDA | Count: 19 | Source: Salesloft, Woodpecker, ZoomInfo, SmartWriter, Cognism, HubSpot, Cleverly, Artisan, TextMagic, MailGenius, Reachoutly, Maildoso, FirstSales72, Structure and sequence guides
 
 Attention (subject) > Interest (their post or news) > Desire (shared roadblock plus research) > Action (one CTA)
 
@@ -146,13 +146,13 @@ One line referencing the earlier email > restate or add one reason > one ask
 
 - Best for: a second or third touch. Keep it under about 80 words and bring something new (a fresh reason, a short resource), not just "checking in".
 
-## 22. PAS (problem, agitate, solution) | Count: 30 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism, Proposify, Saleshandy, Truelist, Cleverly, Artisan, TextMagic, Starnus, MailGenius, Reachoutly, Distribute, Maildoso, SellingSignals, FirstSales72
+## 22. PAS (problem, agitate, solution) | Count: 33 | Source: Woodpecker, ZoomInfo, SmartWriter, Cognism, Proposify, Saleshandy, Truelist, Cleverly, Artisan, TextMagic, Starnus, MailGenius, Reachoutly, Distribute, Maildoso, SellingSignals, FirstSales72, Structure and sequence guides
 
 Pain question > deepen the cost of the pain > present the fix with proof > ask to click or chat
 
 - Best for: pains the prospect already feels. Avoid guarantees and insulting framing.
 
-## 23. Before-After-Bridge | Count: 15 | Source: Woodpecker, ZoomInfo, SmartWriter, Artisan, Reachoutly, Maildoso, SellingSignals, FirstSales72
+## 23. Before-After-Bridge | Count: 16 | Source: Woodpecker, ZoomInfo, SmartWriter, Artisan, Reachoutly, Maildoso, SellingSignals, FirstSales72, Structure and sequence guides
 
 Describe the current problem > picture the better result > bridge with how you get there > light question
 
@@ -198,7 +198,7 @@ Who you are > what you noticed about them > a small coffee, chat or connect ask
 
 To candidates: profile or role trigger > why it fits > a few reasons > time ask. To employers: open role seen > proof and candidates on file > call ask.
 
-## 32. Right-person redirect | Count: 53 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism, Warmupinbox, HubSpot, Hunter, Saleshandy, SmartReach, DemandCurve, Artisan, Reachly, LeadSquared, TextMagic, BluLeadz, Clearout, LeadGibbon, Oppora, LeadFuze, Scalelist, FirstSales72
+## 32. Right-person redirect | Count: 56 | Source: Woodpecker, ZoomInfo, FirstSales, SmartWriter, Cognism, Warmupinbox, HubSpot, Hunter, Saleshandy, SmartReach, DemandCurve, Artisan, Reachly, LeadSquared, TextMagic, BluLeadz, Clearout, LeadGibbon, Oppora, LeadFuze, Scalelist, FirstSales72, Structure and sequence guides
 
 Say you are trying to reach whoever handles [area] > ask if that is them or someone else > one line of context with proof > thank them for the pointer
 
@@ -230,7 +230,7 @@ What you published and the data behind it > three key findings in the email > wh
 
 Thanks for connecting > one detail from their profile or company > what you do plus a proof point > 15 minute ask
 
-## 38. Assume-not-a-priority breakup | Count: 46 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot, Hunter, Saleshandy, SmartReach, Datalane, Salesbread, Cleverly, Reachly, Clearout, Oppora, LeadFuze, SellingSignals, FirstSales72, Follow-up guides
+## 38. Assume-not-a-priority breakup | Count: 51 | Source: ZoomInfo, FirstSales, Smartlead, LeadsMonky, HubSpot, Hunter, Saleshandy, SmartReach, Datalane, Salesbread, Cleverly, Reachly, Clearout, Oppora, LeadFuze, SellingSignals, FirstSales72, Follow-up guides, Structure and sequence guides
 
 Say you reached out a few times > assume it is not a priority and stop > invite a reply if that assumption is wrong
 
@@ -1254,6 +1254,24 @@ Subject line, greeting with the first name, one genuine intro line, a story tyin
 
 - lemlist. The page names the typical structure mistakes: vague subject, buried purpose, wall of text, competing asks, heavy signature, generic intro, no clear next step.
 
+## 214. Hypothesis-framed five-part first touch | Count: 1 | Source: Snipe, Woodpecker
+
+A relevant opener from a reviewed signal with its source date, a reason framed as a hypothesis (often, can, may), the value with a short mechanism, one proof point that matches an approved result, and one smallest-decision question.
+
+- Snipe Outbound and Woodpecker. Needs a real signal and a real proof record; do not fill gaps with confident prose.
+
+## 215. Still-a-priority close-the-loop follow-up | Count: 1 | Source: Snipe, Woodpecker
+
+In the same thread, add one new detail connected to the earlier message and ask whether it is still a priority or whether to close the loop for now.
+
+- Woodpecker.
+
+## 216. Praise, picture, push (flattery risk) | Count: 1 | Source: Snipe, Woodpecker
+
+Praise a named achievement, picture a bigger outcome, then ask for a call to explore synergy.
+
+- Smartlead. Use only with a specific, true achievement; vague praise and synergy read as flattery.
+
 ## Sequences and cadence
 
 **Four-email sequence | Count: 1 | Clay.** Email 1: full pitch. Email 2: how it works. Email 3: change the angle. Email 4: breakup, ask who else should handle it.
@@ -1323,3 +1341,7 @@ Subject line, greeting with the first name, one genuine intro line, a story tyin
 **Signal-driven sequence | Count: 1 | Autobound.** 4 to 7 emails: email 1 to 2 after 2 to 3 business days, 2 to 3 after 3 to 4, 3 to 4 after 5 to 7, then 7 to 14 days. Stop when they reply, the signal goes stale, a stronger signal appears or they leave the company.
 
 **Valid A/B test standard | Count: 1 | SalesHive.** A hypothesis, one changed variable, about 250 contacts per variant as a floor (500 or more preferred), 95% confidence, a two to six week run, and the metric that matches the test (opens for subjects, replies for body or offer, meetings booked for the call to action).
+
+**Situation-based sequences | Count: 5 | Instantly.** Different 3-email sequences for new leads, referrals, meeting requests, non-responders and interested-but-quiet prospects, over about two weeks (day 1, days 3 to 4, days 6 to 8, days 10 to 14), each follow-up with a fresh reason, stopping as soon as they say yes or no.
+
+**Same-thread follow-ups with stop on reply | Count: 1 | Woodpecker.** Two to three follow-ups in the same thread, each with a new reason; stop automation once the prospect replies.

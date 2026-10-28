@@ -1,6 +1,6 @@
-# Cold Email Template Breakdowns: 87 Sources Analyzed
+# Cold Email Template Breakdowns: 96 Sources Analyzed
 
-One page per source behind the [Claude Cold Email Skill](../README.md). Each breakdown covers the cold email templates or follow-up guides in the source, the psychology each one uses, the hook and call to action, the cadence, weaknesses and what is worth borrowing. Sources 001 to 052 are template libraries, 053 to 060 are cold email best-practice and deliverability guides, and 061 to 075 are cold email follow-up guides, and 076 to 086 are reply rate, statistics and measurement guides, and 087 is a signal-based template guide.
+One page per source behind the [Claude Cold Email Skill](../README.md). Each breakdown covers the cold email templates or follow-up guides in the source, the psychology each one uses, the hook and call to action, the cadence, weaknesses and what is worth borrowing. Sources 001 to 052 are template libraries, 053 to 060 are cold email best-practice and deliverability guides, and 061 to 075 are cold email follow-up guides, and 076 to 086 are reply rate, statistics and measurement guides, 087 is a signal-based template guide, and 088 to 096 are reply rate benchmark guides.
 
 Only subject lines are quoted. Everything else is paraphrased, and vendor statistics are marked as unverified.
 
@@ -91,3 +91,12 @@ Only subject lines are quoted. Everything else is paraphrased, and vendor statis
 - [085. SalesHive Cold Email Measurement Breakdown](085-saleshive-measurement.md)
 - [086. Belkins Cold Email Response Rates Breakdown](086-belkins-response-rates.md)
 - [087. Autobound Cold Email Guide Breakdown](087-autobound-guide.md)
+- [088. Omentir Good Reply Rate Breakdown](088-omentir-good-reply-rate.md)
+- [089. Sera Manufacturer Reply Benchmarks Breakdown](089-sera-manufacturer-benchmarks.md)
+- [090. Reachoutly Response Rate Guide Breakdown](090-reachoutly-response-rate.md)
+- [091. Salesmate Response Rate Guide Breakdown](091-salesmate-response-rate.md)
+- [092. Crono Reply Rates Playbook Breakdown](092-crono-reply-rates.md)
+- [093. Smartlead 27 Cold Email Stats Breakdown](093-smartlead-cold-email-stats.md)
+- [094. Ember Reply Benchmarks Breakdown](094-ember-reply-benchmarks.md)
+- [095. SalesCaptain Response Rates Breakdown](095-salescaptain-response-rates.md)
+- [096. Breakcold Reply Rate Guide Breakdown](096-breakcold-reply-rate.md)

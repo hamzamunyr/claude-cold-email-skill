@@ -1,6 +1,6 @@
 # Claude Cold Email Skill: Sales Psychology for Cold Emails
 
-A free **Claude Code skill** that writes **cold emails**, **follow-up emails** and **subject lines** with **sales psychology**, so your outreach reads as written for one person and your **B2B outbound** earns more replies. It was built by studying 87 public **cold email templates**, guides and real example emails, then turning the patterns behind them into rules Claude applies to your prospect. Use it for cold email examples, follow-up sequences, breakup emails, outreach and a pre-send checklist.
+A free **Claude Code skill** that writes **cold emails**, **follow-up emails** and **subject lines** with **sales psychology**, so your outreach reads as written for one person and your **B2B outbound** earns more replies. It was built by studying 96 public **cold email templates**, guides and real example emails, then turning the patterns behind them into rules Claude applies to your prospect. Use it for cold email examples, follow-up sequences, breakup emails, outreach and a pre-send checklist.
 
 <p align="center">
   <a href="https://github.com/hamzamunyr/claude-cold-email-skill/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hamzamunyr/claude-cold-email-skill?style=for-the-badge&color=f5c542"></a>
@@ -10,7 +10,7 @@ A free **Claude Code skill** that writes **cold emails**, **follow-up emails** a
 </p>
 
 <p align="center">
-  <img alt="87 cold email sources studied" src="https://img.shields.io/badge/sources%20studied-87-1f6feb">
+  <img alt="96 cold email sources studied" src="https://img.shields.io/badge/sources%20studied-96-1f6feb">
   <img alt="1600 plus cold emails analyzed" src="https://img.shields.io/badge/emails%20analyzed-1600%2B-1f6feb">
   <img alt="40 plus sales psychology principles" src="https://img.shields.io/badge/psychology%20principles-40%2B-1f6feb">
   <img alt="100 plus cold email frameworks" src="https://img.shields.io/badge/email%20frameworks-100%2B-1f6feb">
@@ -447,7 +447,7 @@ Everything the skill knows is plain Markdown you can read without installing any
 - [Call to action types](skills/cold-email-psychology/references/ctas.md)
 - [Cold email best practices and deliverability](skills/cold-email-psychology/references/practices.md)
 - [Cold email pre-send checklist](skills/cold-email-psychology/references/checklist.md)
-- [87 source breakdowns](breakdowns/README.md)
+- [96 source breakdowns](breakdowns/README.md)
 
 ---
 
@@ -471,7 +471,7 @@ Everything the skill knows is plain Markdown you can read without installing any
 
 ## 🌍 Where the patterns come from
 
-The skill is built on **87 public sources**: template libraries, vendor guides and real example emails. A few of the biggest:
+The skill is built on **96 public sources**: template libraries, vendor guides and real example emails. A few of the biggest:
 
 | Source | What it added | Breakdown |
 | --- | --- | --- |

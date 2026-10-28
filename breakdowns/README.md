@@ -1,6 +1,6 @@
-# Cold Email Template Breakdowns: 76 Sources Analyzed
+# Cold Email Template Breakdowns: 77 Sources Analyzed
 
-One page per source behind the [Claude Cold Email Skill](../README.md). Each breakdown covers the cold email templates or follow-up guides in the source, the psychology each one uses, the hook and call to action, the cadence, weaknesses and what is worth borrowing. Sources 001 to 052 are template libraries, 053 to 060 are cold email best-practice and deliverability guides, and 061 to 075 are cold email follow-up guides, and 076 is a reply rate benchmark guide.
+One page per source behind the [Claude Cold Email Skill](../README.md). Each breakdown covers the cold email templates or follow-up guides in the source, the psychology each one uses, the hook and call to action, the cadence, weaknesses and what is worth borrowing. Sources 001 to 052 are template libraries, 053 to 060 are cold email best-practice and deliverability guides, and 061 to 075 are cold email follow-up guides, and 076 and 077 are reply rate benchmark guides.
 
 Only subject lines are quoted. Everything else is paraphrased, and vendor statistics are marked as unverified.
 
@@ -80,3 +80,4 @@ Only subject lines are quoted. Everything else is paraphrased, and vendor statis
 - [074. SalesCaptain Follow-Up Breakdown](074-salescaptain-followups.md)
 - [075. GMass Follow-Up Breakdown](075-gmass-followups.md)
 - [076. Instantly Reply Rate Benchmarks Breakdown](076-instantly-reply-benchmarks.md)
+- [077. lemlist Cold Email Response Rate Breakdown](077-lemlist-response-rate.md)

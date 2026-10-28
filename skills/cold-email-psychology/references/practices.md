@@ -57,9 +57,10 @@ Distilled from the practice and deliverability guides (breakdowns #053 to #060: 
 - Consent for one channel (a call) is not consent for another (email). (Martal)
 - Check the recipient's region and ask a lawyer for anything high stakes.
 
-## 6. Measuring results (Instantly, #076)
+## 6. Measuring results (Instantly #076, lemlist #077)
 
 - Reply rate = replies divided by delivered emails (exclude hard bounces). Classify replies: positive, referral, objection, not now, unsubscribe, out of office.
 - Judge by positive reply rate, meetings and cost per meeting, not raw replies or opens.
 - Vendor ranges (unverified): about 5 to 10% is solid for B2B, 10 to 15% excellent, higher only on tight, high-intent segments; broad lists on new domains often sit in low single digits. Published ranges conflict, so benchmark against your own past campaigns.
-- Test one variable at a time (subject, opener, proof, CTA, send window), with a success rule set before you start.
+- Test one variable at a time (subject, opener, proof, CTA, send window), with a success rule set before you start.- Other vendor figures (unverified): an overall average near 3.4% from one large dataset and about 8.5% from another, so check which dataset a benchmark uses. Smaller lists (under 50) are reported to reply far better than lists over 1,000. C-suite and enterprise reply least; managers and small companies reply more. Opens are unreliable, so judge by replies.
+

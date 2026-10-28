@@ -1,6 +1,6 @@
-# Cold Email Template Breakdowns: 83 Sources Analyzed
+# Cold Email Template Breakdowns: 87 Sources Analyzed
 
-One page per source behind the [Claude Cold Email Skill](../README.md). Each breakdown covers the cold email templates or follow-up guides in the source, the psychology each one uses, the hook and call to action, the cadence, weaknesses and what is worth borrowing. Sources 001 to 052 are template libraries, 053 to 060 are cold email best-practice and deliverability guides, and 061 to 075 are cold email follow-up guides, and 076 to 083 are reply rate and statistics guides.
+One page per source behind the [Claude Cold Email Skill](../README.md). Each breakdown covers the cold email templates or follow-up guides in the source, the psychology each one uses, the hook and call to action, the cadence, weaknesses and what is worth borrowing. Sources 001 to 052 are template libraries, 053 to 060 are cold email best-practice and deliverability guides, and 061 to 075 are cold email follow-up guides, and 076 to 086 are reply rate, statistics and measurement guides, and 087 is a signal-based template guide.
 
 Only subject lines are quoted. Everything else is paraphrased, and vendor statistics are marked as unverified.
 
@@ -87,3 +87,7 @@ Only subject lines are quoted. Everything else is paraphrased, and vendor statis
 - [081. GMass Average Cold Email Response Rate Breakdown](081-gmass-response-rate.md)
 - [082. Artisan B2B Response Rates Breakdown](082-artisan-response-rates.md)
 - [083. Breakcold Cold Email Conversion Rate Breakdown](083-breakcold-conversion-rate.md)
+- [084. Martal B2B Cold Email Statistics Breakdown](084-martal-statistics.md)
+- [085. SalesHive Cold Email Measurement Breakdown](085-saleshive-measurement.md)
+- [086. Belkins Cold Email Response Rates Breakdown](086-belkins-response-rates.md)
+- [087. Autobound Cold Email Guide Breakdown](087-autobound-guide.md)

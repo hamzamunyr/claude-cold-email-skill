@@ -106,5 +106,8 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] A follow-up asks one question that can be answered in a word and never mentions opens, clicks or "never heard back"
 - [ ] The sequence is 3 follow-ups by default, ends with a short no-guilt break-up, and stops for anyone who says no
 - [ ] Any urgency or deadline in a follow-up (limited offer, capacity, closing the file) is real and stated with its reason
+- [ ] No competitor hearsay ("teams are switching from X") or invented ratings, review counts or customer results
+- [ ] Any signal you cite (funding, a hire, a tool, an earnings remark) is public, recent and kept to one sentence
+- [ ] A/B tests change one variable, have enough contacts per variant and use the metric that matches the test
 - [ ] No em dashes
 - [ ] 2 to 3 subject line options provided, short and specific

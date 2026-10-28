@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 1615 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora, Influno, Reachoutly, LeadFuze, Distribute, Semrush, FreebiesMockup, Maildoso, Scalelist, SellingSignals, Outboundly, EmailSneak, FirstSales72, Close, Saleshandy, Follow-up guides, Artisan stats page). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1623 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora, Influno, Reachoutly, LeadFuze, Distribute, Semrush, FreebiesMockup, Maildoso, Scalelist, SellingSignals, Outboundly, EmailSneak, FirstSales72, Close, Saleshandy, Follow-up guides, Artisan stats page, Autobound). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## Quick pick: the most-used frameworks by job
 
@@ -1212,6 +1212,30 @@ A short personal video for a quiet prospect, with a thumbnail and one question. 
 
 - Sendr. Use only when you can record a real one.
 
+## 207. Earnings-call priority mention | Count: 1 | Source: Autobound
+
+Quote one public priority a leader stated on an earnings call or in an interview, note the pressure that creates, share what works for a peer, and ask for a short call.
+
+- Autobound. Use only a priority you actually read or heard, and keep it to one sentence so it does not feel like surveillance.
+
+## 208. New-leader welcome with a playbook offer | Count: 1 | Source: Autobound
+
+Congratulate them on the new role, name the usual first-90-days goal, share one quick win a peer in that role had, and offer to send the playbook.
+
+- Autobound. Needs a real, permitted peer example.
+
+## 209. Tool-adoption follow-through | Count: 1 | Source: Autobound
+
+Note that they recently adopted a tool (from a public source), say most teams under-use it early on, and offer a specific integration or tip.
+
+- Autobound. Base it on public evidence only.
+
+## 210. Competitor-switch hearsay (avoid) | Count: 1 | Source: Autobound
+
+Says teams are switching from a named competitor and offers a comparison.
+
+- Autobound. Avoid: the claim is unverifiable and may be false; use a real customer story or ask a neutral question instead.
+
 ## Sequences and cadence
 
 **Four-email sequence | Count: 1 | Clay.** Email 1: full pitch. Email 2: how it works. Email 3: change the angle. Email 4: breakup, ask who else should handle it.
@@ -1277,3 +1301,7 @@ A short personal video for a quiet prospect, with a thumbnail and one question. 
 **Weekly follow-up for freelancers | Count: 1 | Ashley Gainer.** One week, another week, another week, then stop after the third. Honor any deadline in a job post, and set a reminder when told to come back later.
 
 **Monthly drip after the sequence | Count: 1 | Jacob Tuwiner.** After four follow-ups, one email a month until a reply or a request to stop (use only if each one is useful and compliant).
+
+**Signal-driven sequence | Count: 1 | Autobound.** 4 to 7 emails: email 1 to 2 after 2 to 3 business days, 2 to 3 after 3 to 4, 3 to 4 after 5 to 7, then 7 to 14 days. Stop when they reply, the signal goes stale, a stronger signal appears or they leave the company.
+
+**Valid A/B test standard | Count: 1 | SalesHive.** A hypothesis, one changed variable, about 250 contacts per variant as a floor (500 or more preferred), 95% confidence, a two to six week run, and the metric that matches the test (opens for subjects, replies for body or offer, meetings booked for the call to action).

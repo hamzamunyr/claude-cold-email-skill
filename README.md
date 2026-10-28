@@ -1,11 +1,12 @@
 # Claude Cold Email Skill: Sales Psychology for Cold Emails
 
-A free **Claude Code skill** that writes **cold emails**, **follow-up emails** and **subject lines** with **sales psychology**, so your outreach reads as written for one person and your **B2B outbound** earns more replies. It was built by studying 120 public **cold email templates**, guides and real example emails, then turning the patterns behind them into rules Claude applies to your prospect. Use it for cold email examples, follow-up sequences, breakup emails, outreach and a pre-send checklist.
+A free **Claude skill** (for Claude Code and Claude.ai) that writes **cold emails**, **follow-up emails** and **subject lines** with **sales psychology**, so your outreach reads as written for one person and your **B2B outbound** earns more replies. It was built by studying 120 public **cold email templates**, guides and real example emails, then turning the patterns behind them into rules Claude applies to your prospect. Use it for cold email examples, follow-up sequences, breakup emails, outreach and a pre-send checklist.
 
 <p align="center">
   <a href="https://github.com/hamzamunyr/claude-cold-email-skill/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hamzamunyr/claude-cold-email-skill?style=for-the-badge&color=f5c542"></a>
   <img alt="License MIT" src="https://img.shields.io/badge/license-MIT-2ea44f?style=for-the-badge">
   <img alt="Claude Code skill" src="https://img.shields.io/badge/Claude%20Code-skill-8a63d2?style=for-the-badge">
+  <img alt="Works on Claude.ai" src="https://img.shields.io/badge/Claude.ai-zip%20upload-8a63d2?style=for-the-badge">
   <img alt="Works as a plugin" src="https://img.shields.io/badge/install-plugin%20or%20skill-0969da?style=for-the-badge">
 </p>
 
@@ -13,8 +14,8 @@ A free **Claude Code skill** that writes **cold emails**, **follow-up emails** a
   <img alt="120 cold email sources studied" src="https://img.shields.io/badge/sources%20studied-120-1f6feb">
   <img alt="1600 plus cold emails analyzed" src="https://img.shields.io/badge/emails%20analyzed-1600%2B-1f6feb">
   <img alt="40 plus sales psychology principles" src="https://img.shields.io/badge/psychology%20principles-40%2B-1f6feb">
-  <img alt="100 plus cold email frameworks" src="https://img.shields.io/badge/email%20frameworks-100%2B-1f6feb">
-  <img alt="55 plus item cold email checklist" src="https://img.shields.io/badge/checklist%20items-55%2B-1f6feb">
+  <img alt="200 plus cold email frameworks" src="https://img.shields.io/badge/email%20frameworks-200%2B-1f6feb">
+  <img alt="110 plus item cold email checklist" src="https://img.shields.io/badge/checklist%20items-110%2B-1f6feb">
 </p>
 
 <p align="center">
@@ -74,6 +75,7 @@ social proof (a similar company) and a tiny ask (a short walkthrough).
 - 🧠 **Picks 2 to 3 psychology principles** that fit this prospect, from a ranked library.
 - ✍️ **Writes an original email.** It never copies a template.
 - ✅ **Runs a checklist** and fixes weak lines before you see the email.
+- 🔁 **Writes follow-up sequences** where every touch adds something new.
 - 📨 **Gives you 2 to 3 subject lines** and a short note on which principles it used and why.
 - 🚫 **Keeps it honest.** No fake claims, no fake names, no made-up stats.
 
@@ -143,13 +145,16 @@ Ask Claude: *"What skills do you have for cold email?"* You should see `cold-ema
 
 </details>
 
-### Use it on Claude.ai (web and desktop app)
+<details>
+<summary><b>Option C: on Claude.ai (web and desktop app)</b></summary>
 
 1. Download [`cold-email-psychology.zip`](cold-email-psychology.zip) from this repo.
 2. In Claude, open **Settings, then Capabilities (or Customize), then Skills**, choose **Upload skill** and select the zip.
 3. Turn the skill on, then ask for a cold email, a follow-up sequence or subject lines in any chat.
 
 Skills on Claude.ai need a plan that includes skills (and code execution, if your settings ask for it). If your plan does not, create a Project and add the files in [`skills/cold-email-psychology/`](skills/cold-email-psychology/) to its knowledge, then paste the contents of `SKILL.md` into the project instructions.
+
+</details>
 
 ---
 
@@ -479,7 +484,7 @@ Everything the skill knows is plain Markdown you can read without installing any
 
 ## 🌍 Where the patterns come from
 
-The skill is built on **120 public sources**: template libraries, vendor guides and real example emails. A few of the biggest:
+The skill is built on **120 public sources**: template libraries, follow-up guides, reply-rate studies, deliverability and compliance guides, and real example emails. A few of the biggest:
 
 | Source | What it added | Breakdown |
 | --- | --- | --- |
@@ -489,6 +494,10 @@ The skill is built on **120 public sources**: template libraries, vendor guides 
 | **SmartWriter** | Annotated good and bad emails side by side | [Read](breakdowns/009-smartwriter.md) |
 | **Smartlead** | 19 emails and four variables that make personalization real | [Read](breakdowns/008-smartlead.md) |
 | **Proposify** | Real example emails, including a custom video of the prospect's own site | [Read](breakdowns/014-proposify.md) |
+| **Hunter (State of Email Outreach)** | The largest behavior dataset here: open tracking off, small segments, one or two contacts per company, three messages | [Read](breakdowns/105-hunter-state-of-cold-email.md) |
+| **Belkins** | First-party data on 7.5 million emails showing average replies far below blog benchmarks | [Read](breakdowns/086-belkins-response-rates.md) |
+| **Gong** | Six follow-up emails for the whole deal cycle, read from the original images | [Read](breakdowns/073-gong-followups.md) |
+| **Snipe Outbound** | A careful five-part structure with hypothesis wording and proof discipline | [Read](breakdowns/120-snipe-outbound-structure.md) |
 
 Every source has its own write-up in [`breakdowns/`](breakdowns/), with what worked, what did not, and an honest note when no results were published. Where a source gave no reply rates, this repo says **"not provided"** and never fills the gap.
 
@@ -498,14 +507,14 @@ Every source has its own write-up in [`breakdowns/`](breakdowns/), with what wor
 | --- | --- |
 | [`skills/cold-email-psychology/`](skills/cold-email-psychology/) | The skill itself |
 | [`references/principles.md`](skills/cold-email-psychology/references/principles.md) | 40+ principles with counts and how to apply each |
-| [`references/frameworks.md`](skills/cold-email-psychology/references/frameworks.md) | 100+ email structures |
+| [`references/frameworks.md`](skills/cold-email-psychology/references/frameworks.md) | 200+ email structures, with a quick-pick table |
 | [`references/hooks.md`](skills/cold-email-psychology/references/hooks.md) | Opening lines and subject line patterns |
 | [`references/ctas.md`](skills/cold-email-psychology/references/ctas.md) | Types of asks and when each works |
 | [`references/examples.md`](skills/cold-email-psychology/references/examples.md) | 53 original example emails |
 | [`references/checklist.md`](skills/cold-email-psychology/references/checklist.md) | A pre-send checklist the skill runs on every draft |
-| [`references/practices.md`](skills/cold-email-psychology/references/practices.md) | Writing, follow-up, list and deliverability practices from 8 guides |
+| [`references/practices.md`](skills/cold-email-psychology/references/practices.md) | Writing, follow-up, list and deliverability practices and benchmark caveats from 30+ guides and studies |
 | [`references/followups.md`](skills/cold-email-psychology/references/followups.md) | How many follow-ups, timing, what each touch does, phrases to avoid |
-| [`breakdowns/`](breakdowns/) | One analysis per source |
+| [`breakdowns/`](breakdowns/) | One analysis per source (120 so far) |
 
 ---
 

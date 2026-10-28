@@ -26,6 +26,7 @@ The reference files used by the Cold Email Psychology skill. They are plain Mark
 | [reply-handling.md](reply-handling.md) | Handling replies: not interested, send more info, price, already use X, wrong person, next quarter, positive, opt-outs |
 | [deliverability-and-compliance.md](deliverability-and-compliance.md) | Pre-send review, verified provider and legal facts with dates, hard rules |
 | [integrations.md](integrations.md) | Optional tool boundaries, human approval gates, data contracts |
+| [source-index.md](source-index.md) | The 120 sources the skill draws on, so the count can be verified from the skill alone |
 | [audit-and-corrections.md](audit-and-corrections.md) | Inventory, contradictions found, corrections, preservation record, changelog |
 | [legacy-operating-procedure.md](legacy-operating-procedure.md) | The original v1 operating procedure, preserved unchanged |
 | [archive/checklist-full.md](archive/checklist-full.md) | The original full 117-item checklist, unchanged |

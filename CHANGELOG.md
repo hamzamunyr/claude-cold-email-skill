@@ -9,7 +9,8 @@ Upgrade of the cold-email-psychology skill into a staged, evidence-aware system.
 - **Always-on safety rules** in both modes: no invented facts, no deceptive elements, stop on opt-outs and invalid contacts, exclude poor fits, nothing sent without approval.
 - **New references:** prospect-research (verified, inferred, assumed and unknown claims, qualification, the claim ledger), offer-engineering, email-generation, evaluation-rubric (critical failures plus a 100-point rubric, and a subagent prompt for Claude Code), deliverability-and-compliance (provider and legal facts checked on 2026-10-29), reply-handling (not interested, send more info, price, already use X, wrong person, next quarter, positive, opt-outs), experimentation and performance-analytics (Full mode only), integrations (optional tool boundaries, approval gates, data contracts), audit-and-corrections.
 - **Independent evaluation.** In Claude Code, Full mode runs the evaluation as a subagent that sees only the email, the facts provided and the rubric.
-- **Tests.** 15 behavioral cases, 41 automated checks (preservation, structure, JSON contracts, rubric weights, output lint) and recorded results in tests/results.md.
+- **Tests.** 15 behavioral cases, 44 automated checks (preservation, structure, JSON contracts, rubric weights, source counts, output lint; 3 are skipped when run from the skill ZIP alone) and recorded results in tests/results.md.
+- **references/source-index.md**: the 120 sources, so the source count can be verified from the skill alone.
 - **CHANGELOG.md** (this file).
 
 ### Changed

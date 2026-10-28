@@ -4,7 +4,9 @@ Everything below was actually executed. Nothing is claimed that was not run. The
 
 ## 1. Automated checks (`python run_checks.py`)
 
-Result: **41 of 41 passed** on the final run.
+Result: **44 passed, 0 skipped, 0 failed** when run in the repository. Run from the skill ZIP alone (which has no breakdowns/ folder and no repository README or CHANGELOG), the result is **41 passed, 3 skipped, 0 failed**; the three skipped checks are reported as SKIP with the reason (they need files outside the skill: the breakdowns/ file count, the CHANGELOG entry and the README counts).
+
+Correction to an earlier version of this file: it said "41 of 41". That was true in the repository at the time. Run from the ZIP alone, the old script silently omitted the breakdowns/ check, so a reviewer saw 40 checks. The script now always runs a source-count check against a new references/source-index.md (so the 120-source claim is verifiable from the skill alone) and reports skipped checks explicitly instead of leaving them out.
 
 | Group | Checks | Result |
 |---|---|---|

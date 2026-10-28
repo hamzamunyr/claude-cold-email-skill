@@ -19,7 +19,7 @@ results = []
 
 
 def check(name, ok, detail=''):
-    results.append((name, bool(ok), detail))
+    results.append((name, (None if ok is None else bool(ok)), detail))
 
 
 def read(p):
@@ -130,12 +130,26 @@ check('D4 working checklist is 25 to 35 items (%d)' % len(items), 25 <= len(item
 check('D5 checklist records rule resolutions', 'Rule resolutions' in ck and 'calendar link' in ck)
 
 # ---- 5. Counts consistency -------------------------------------------------
-n_break = len([f for f in os.listdir(os.path.join(REPO, 'breakdowns')) if re.match(r'\d{3}-', f)]) if os.path.isdir(os.path.join(REPO, 'breakdowns')) else None
 m = re.search(r'from (\d+) public sources', skill_md)
-if n_break is not None and m:
-    check('C1 SKILL.md source count matches breakdowns/ (%s vs %d)' % (m.group(1), n_break), int(m.group(1)) == n_break)
+idx_path = os.path.join(REF, 'source-index.md')
+n_idx = len(re.findall(r'(?m)^\| \d{3} \|', read(idx_path))) if os.path.exists(idx_path) else None
+check('C1 SKILL.md source count matches source-index.md (%s vs %s)' % (m.group(1) if m else '?', n_idx), bool(m) and n_idx is not None and int(m.group(1)) == n_idx)
+bdir = os.path.join(REPO, 'breakdowns')
+if os.path.isdir(bdir):
+    n_break = len([f for f in os.listdir(bdir) if re.match(r'\d{3}-', f)])
+    check('C1b breakdowns/ file count matches the index (%d vs %s)' % (n_break, n_idx), n_break == n_idx)
+else:
+    check('C1b breakdowns/ file count matches the index', None, 'breakdowns/ is not in this archive (the skill zip does not include it)')
 n_fw = len(fw_all)
 check('C2 framework count is 216 across main and archive (%d)' % n_fw, n_fw >= 216)
+readme = os.path.join(REPO, 'README.md')
+chlog = os.path.join(REPO, 'CHANGELOG.md')
+if os.path.exists(chlog) and os.path.exists(readme):
+    check('C3 repository CHANGELOG.md has the 1.1.0 entry', '## 1.1.0' in read(chlog))
+    check('C4 repository README.md states the verified counts', '120' in read(readme) and '1669' in read(readme))
+else:
+    check('C3 repository CHANGELOG.md has the 1.1.0 entry', None, 'repository root files are not in this archive')
+    check('C4 repository README.md states the verified counts', None, 'repository root files are not in this archive')
 
 # ---- 6. Behavioral output lint --------------------------------------------
 BANNED = ['hope this finds you well', 'just checking in', 'touching base', 'circling back', 'following up on', 'revolutionary', 'cutting-edge', 'game-changing', 'game changer', 'saw you opened', 'synergy', 'leverage']
@@ -199,8 +213,12 @@ for c in cases:
             probs.append('critical failures line missing')
     check('B %s %s' % (cid, c['name']), not probs, '; '.join(probs))
 
-passed = sum(1 for _, ok, _ in results if ok)
+passed = sum(1 for _, ok, _ in results if ok is True)
+skipped = sum(1 for _, ok, _ in results if ok is None)
+failed = sum(1 for _, ok, _ in results if ok is False)
 for name, ok, detail in results:
-    print(('PASS ' if ok else 'FAIL ') + name + ((' :: ' + detail) if (detail and not ok) else ''))
-print('\n%d of %d checks passed' % (passed, len(results)))
-sys.exit(0 if passed == len(results) else 1)
+    tag = 'PASS ' if ok is True else ('SKIP ' if ok is None else 'FAIL ')
+    print(tag + name + ((' :: ' + detail) if (detail and ok is not True) else ''))
+print('')
+print('%d passed, %d skipped, %d failed (%d checks)' % (passed, skipped, failed, len(results)))
+sys.exit(0 if failed == 0 else 1)

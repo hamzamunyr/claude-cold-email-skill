@@ -453,7 +453,7 @@ All under six words, specific, honest and free of hype or fake "Re:".
 
 > These are the skill's own outputs on illustrative requests, not measured reply rates. No source in this repo gives verified reply rates, so none are claimed.
 
-> **Upgrade tests (v1.1.0):** 41 automated checks pass, 15 behavioral cases were run, and the Full-mode evaluator was run as separate subagents. In a small old-versus-new comparison on three negative cases the original procedure behaved the same, so no improvement is claimed. See [`tests/results.md`](skills/cold-email-psychology/tests/results.md) for the actual results and limits.
+> **Upgrade tests (v1.1.0):** 44 automated checks pass, 15 behavioral cases were run, and the Full-mode evaluator was run as separate subagents. In a small old-versus-new comparison on three negative cases the original procedure behaved the same, so no improvement is claimed. See [`tests/results.md`](skills/cold-email-psychology/tests/results.md) for the actual results and limits.
 
 
 ---

@@ -88,6 +88,7 @@ Load on demand, not all at once. Experimentation and analytics load only in Full
 | `references/experimentation.md` | Full mode: controlled experiments |
 | `references/performance-analytics.md` | Full mode: metrics, reading results, feedback loop |
 | `references/integrations.md` | Optional tool boundaries, approval gates, data contracts |
+| `references/source-index.md` | The 120 sources the skill draws on (the full breakdowns are in the repository) |
 | `references/audit-and-corrections.md` | Inventory, contradictions, corrections, preservation record |
 | `references/legacy-operating-procedure.md` | The original v1 procedure, preserved unchanged |
 | `references/archive/checklist-full.md` | The original full 117-item checklist, unchanged |

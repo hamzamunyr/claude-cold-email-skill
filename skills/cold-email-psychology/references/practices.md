@@ -56,3 +56,10 @@ Distilled from the practice and deliverability guides (breakdowns #053 to #060: 
 - Canada: CASL needs consent (implied in limited cases) and an unsubscribe.
 - Consent for one channel (a call) is not consent for another (email). (Martal)
 - Check the recipient's region and ask a lawyer for anything high stakes.
+
+## 6. Measuring results (Instantly, #076)
+
+- Reply rate = replies divided by delivered emails (exclude hard bounces). Classify replies: positive, referral, objection, not now, unsubscribe, out of office.
+- Judge by positive reply rate, meetings and cost per meeting, not raw replies or opens.
+- Vendor ranges (unverified): about 5 to 10% is solid for B2B, 10 to 15% excellent, higher only on tight, high-intent segments; broad lists on new domains often sit in low single digits. Published ranges conflict, so benchmark against your own past campaigns.
+- Test one variable at a time (subject, opener, proof, CTA, send window), with a success rule set before you start.

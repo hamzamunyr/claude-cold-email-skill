@@ -1,6 +1,6 @@
 ---
 name: cold-email-psychology
-description: Writes and improves cold emails, follow-up sequences and subject lines using sales psychology learned from 75 public sources. Use when the user asks for a cold email, outbound or outreach email, a follow-up or breakup email, subject line options, a sequence, or wants an existing cold email improved or reviewed.
+description: Writes and improves cold emails, follow-up sequences and subject lines using sales psychology learned from 76 public sources. Use when the user asks for a cold email, outbound or outreach email, a follow-up or breakup email, subject line options, a sequence, or wants an existing cold email improved or reviewed.
 ---
 
 # Cold Email Psychology

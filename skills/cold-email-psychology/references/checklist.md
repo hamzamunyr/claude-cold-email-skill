@@ -111,5 +111,6 @@ Run every email through this before delivering it. Fix any line that fails.
 - [ ] A/B tests change one variable, have enough contacts per variant and use the metric that matches the test
 - [ ] The email is not sent with open tracking or click tracking on unless you truly need it, and it goes from a business domain, not a freemail address
 - [ ] Emails to executives are under 100 words with a subject of one to four words about their world, and offer value instead of a meeting
+- [ ] The body is about 120 words or fewer, the signature is plain (name, title, company link, LinkedIn) with no heavy HTML or extra links, and the ask is proportional (about 15 minutes for a stranger)
 - [ ] No em dashes
 - [ ] 2 to 3 subject line options provided, short and specific

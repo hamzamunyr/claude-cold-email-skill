@@ -1,4 +1,4 @@
-# Cold Email Template Breakdowns: 111 Sources Analyzed
+# Cold Email Template Breakdowns: 112 Sources Analyzed
 
 One page per source behind the [Claude Cold Email Skill](../README.md). Each breakdown covers the cold email templates or follow-up guides in the source, the psychology each one uses, the hook and call to action, the cadence, weaknesses and what is worth borrowing. Sources 001 to 052 are template libraries, 053 to 060 are cold email best-practice and deliverability guides, and 061 to 075 are cold email follow-up guides, and 076 to 086 are reply rate, statistics and measurement guides, 087 is a signal-based template guide, and 088 to 105 are reply rate benchmark, statistics and best-practice guides.
 
@@ -115,3 +115,4 @@ Only subject lines are quoted. Everything else is paraphrased, and vendor statis
 - [109. Tinkogroup Response Rates Breakdown](109-tinkogroup-response-rates.md)
 - [110. Demand Nexus Response Rates Breakdown](110-demandnexus-response-rates.md)
 - [111. Clodura Cold Email Benchmark Breakdown](111-clodura-cold-email-benchmark.md)
+- [112. lemlist Cold Email Structure Breakdown](112-lemlist-email-structure.md)

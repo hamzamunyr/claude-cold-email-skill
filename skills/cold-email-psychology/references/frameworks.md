@@ -1,6 +1,6 @@
 # Email Frameworks
 
-Emails analyzed so far: 1629 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora, Influno, Reachoutly, LeadFuze, Distribute, Semrush, FreebiesMockup, Maildoso, Scalelist, SellingSignals, Outboundly, EmailSneak, FirstSales72, Close, Saleshandy, Follow-up guides, Artisan stats page, Autobound, Saleshandy tips). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1630 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora, Influno, Reachoutly, LeadFuze, Distribute, Semrush, FreebiesMockup, Maildoso, Scalelist, SellingSignals, Outboundly, EmailSneak, FirstSales72, Close, Saleshandy, Follow-up guides, Artisan stats page, Autobound, Saleshandy tips, lemlist structure). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 ## Quick pick: the most-used frameworks by job
 
@@ -1247,6 +1247,12 @@ Line 1: a specific event or initiative of theirs. Line 2: the challenge it creat
 End with a specific, bounded time ask such as "worth 15 minutes this week?" instead of a problem-based question.
 
 - Digital Bloom (unverified): reported to book more meetings with senior buyers than problem-led asks. Test it against an interest check.
+
+## 213. Seven-part structure | Count: 1 | Source: lemlist structure
+
+Subject line, greeting with the first name, one genuine intro line, a story tying one specific pain to the offer (about 120 words at most), one low-friction call to action, a plain signature, and an optional P.S. with a case study.
+
+- lemlist. The page names the typical structure mistakes: vague subject, buried purpose, wall of text, competing asks, heavy signature, generic intro, no clear next step.
 
 ## Sequences and cadence
 

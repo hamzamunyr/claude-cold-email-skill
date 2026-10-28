@@ -12,10 +12,10 @@ A free **Claude skill** (for Claude Code and Claude.ai) that writes **cold email
 
 <p align="center">
   <img alt="120 cold email sources studied" src="https://img.shields.io/badge/sources%20studied-120-1f6feb">
-  <img alt="1600 plus cold emails analyzed" src="https://img.shields.io/badge/emails%20analyzed-1600%2B-1f6feb">
-  <img alt="40 plus sales psychology principles" src="https://img.shields.io/badge/psychology%20principles-40%2B-1f6feb">
-  <img alt="200 plus cold email frameworks" src="https://img.shields.io/badge/email%20frameworks-200%2B-1f6feb">
-  <img alt="110 plus item cold email checklist" src="https://img.shields.io/badge/checklist%20items-110%2B-1f6feb">
+  <img alt="1669 cold emails analyzed" src="https://img.shields.io/badge/emails%20analyzed-1669-1f6feb">
+  <img alt="41 sales psychology principles" src="https://img.shields.io/badge/psychology%20principles-41-1f6feb">
+  <img alt="216 cold email frameworks" src="https://img.shields.io/badge/email%20frameworks-216-1f6feb">
+  <img alt="30 item cold email checklist" src="https://img.shields.io/badge/checklist%20items-30-1f6feb">
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ A free **Claude skill** (for Claude Code and Claude.ai) that writes **cold email
 
 ```text
 Write a cold email to the operations manager at a 50 person company.
-I sell software that cuts manual reporting. Goal: a 15 minute call.
+I sell software that cuts manual reporting. Goal: a 2 minute walkthrough.
 ```
 
 **Claude replies:**
@@ -56,7 +56,7 @@ the weekly numbers are still being pulled together by hand.
 We automate that report so your team gets it without the manual work.
 [Similar company] [real result] in [timeframe] after switching.
 
-Would a 15 minute walkthrough be useful?
+Would a 2 minute walkthrough be useful?
 
 [Your name]
 
@@ -71,23 +71,29 @@ social proof (a similar company) and a tiny ask (a short walkthrough).
 
 ## ✨ What it does
 
-- 🎯 **Asks for what it needs.** Prospect, offer and goal, before it writes a word.
-- 🧠 **Picks 2 to 3 psychology principles** that fit this prospect, from a ranked library.
-- ✍️ **Writes an original email.** It never copies a template.
-- ✅ **Runs a checklist** and fixes weak lines before you see the email.
-- 🔁 **Writes follow-up sequences** where every touch adds something new.
-- 📨 **Gives you 2 to 3 subject lines** and a short note on which principles it used and why.
-- 🚫 **Keeps it honest.** No fake claims, no fake names, no made-up stats.
+- ⚡ **Two modes.** **Quick** (the default) writes the email from the inputs you give, asks only for what is truly missing, and runs light checks. **Full** (for campaigns, sequences for a list, or when you say "full mode") researches and qualifies the prospect, reviews the offer, writes the email, evaluates it independently, and runs a pre-send review.
+- 🧠 **Picks 2 to 3 psychology principles** that fit this prospect, from a library ranked by how often they appear (not by proven reply rate).
+- 🔎 **Separates facts from guesses.** Every claim about the prospect is labeled verified, inference, assumption or unknown, and only verified facts are stated plainly.
+- 🚫 **Excludes poor fits.** If the prospect is a bad fit, suppressed, or has an invalid contact, it says so instead of writing a persuasive email.
+- ✍️ **Writes an original email** and 2 to 3 subject lines. It never copies a template.
+- ✅ **Evaluates separately.** In Full mode the evaluation runs as a separate pass (a subagent in Claude Code) against a 100-point rubric. A critical failure such as an invented claim blocks the email whatever the score.
+- 🔁 **Writes follow-up sequences** where every touch adds something new, and **handles replies** (not interested, send more info, price, already use X, wrong person, next quarter, positive, opt-outs).
+- 🛡️ **Keeps it honest and lawful.** No fake claims, no fake names, no made-up stats, opt-outs honored, and a pre-send review of authentication, lists and region rules. Nothing is sent without your approval.
+- 📊 **Full mode extras:** experiments and performance analytics for real campaign results, plus optional tool integrations (Clay, Apollo, Instantly, Smartlead, n8n and more) with clear boundaries.
 
 ```mermaid
 flowchart LR
-    A[Prospect, offer, goal] --> B{Anything missing?}
-    B -- yes --> C[Skill asks you]
-    C --> D[Pick 2 to 3 principles]
-    B -- no --> D
-    D --> E[Write an original email]
-    E --> F[Run the checklist]
-    F --> G[Email plus subjects plus a short why note]
+    A[Request] --> M{Quick or Full?}
+    M -- Quick --> Q[Write from the inputs given]
+    Q --> L[Light checks]
+    M -- Full --> R[Research and qualify]
+    R --> O[Review the offer]
+    O --> G[Write the email]
+    G --> E[Independent evaluation]
+    E --> P[Pre-send review]
+    L --> D[Email plus subjects plus a short why note]
+    P --> D
+    D --> H[You review and send]
 ```
 
 ---
@@ -253,7 +259,7 @@ I saw [one real, specific thing about their company]. That usually
 means [the problem it causes].
 
 [Similar company] [real result] in [timeframe] with our help.
-Would a 15 minute walkthrough be useful?
+Would a 2 minute walkthrough be useful?
 ```
 
 **Why:** specificity, one proof point, and a smaller ask.
@@ -447,6 +453,9 @@ All under six words, specific, honest and free of hype or fake "Re:".
 
 > These are the skill's own outputs on illustrative requests, not measured reply rates. No source in this repo gives verified reply rates, so none are claimed.
 
+> **Upgrade tests (v1.1.0):** 41 automated checks pass, 15 behavioral cases were run, and the Full-mode evaluator was run as separate subagents. In a small old-versus-new comparison on three negative cases the original procedure behaved the same, so no improvement is claimed. See [`tests/results.md`](skills/cold-email-psychology/tests/results.md) for the actual results and limits.
+
+
 ---
 
 ## 📚 Cold email templates, examples and follow-ups
@@ -503,10 +512,37 @@ Every source has its own write-up in [`breakdowns/`](breakdowns/), with what wor
 
 ### What is inside
 
-| Folder | What you get |
+| Path | What you get |
 | --- | --- |
+| [`skills/cold-email-psychology/`](skills/cold-email-psychology/) | The skill itself: `SKILL.md` (the operating procedure), `references/` and `tests/` |
+| [`references/email-generation.md`](skills/cold-email-psychology/references/email-generation.md) | Choosing and adapting the approach, component guidance, language to avoid |
+| [`references/checklist.md`](skills/cold-email-psychology/references/checklist.md) | The grouped pre-send checklist (30 items, Quick items marked) with rule resolutions |
+| [`references/principles.md`](skills/cold-email-psychology/references/principles.md) | 41 principles with counts and how to apply each (ranked by frequency, not proven results) |
+| [`references/frameworks.md`](skills/cold-email-psychology/references/frameworks.md) | The most-used email structures (85 of 216) with a quick-pick table |
+| [`references/hooks.md`](skills/cold-email-psychology/references/hooks.md) | Opening lines and subject line patterns |
+| [`references/ctas.md`](skills/cold-email-psychology/references/ctas.md) | Types of asks and when each works |
+| [`references/examples.md`](skills/cold-email-psychology/references/examples.md) | 53 original example emails, word for word |
+| [`references/followups.md`](skills/cold-email-psychology/references/followups.md) | How many follow-ups, timing, what each touch does, phrases to avoid |
+| [`references/reply-handling.md`](skills/cold-email-psychology/references/reply-handling.md) | Handling replies: not interested, send more info, price, already use X, wrong person, next quarter, positive, opt-outs |
+| [`references/practices.md`](skills/cold-email-psychology/references/practices.md) | Writing, list and sending practices, benchmark caveats and dated corrections |
+| [`references/prospect-research.md`](skills/cold-email-psychology/references/prospect-research.md) | Full mode: verified, inferred, assumed and unknown claims, qualification, the claim ledger |
+| [`references/offer-engineering.md`](skills/cold-email-psychology/references/offer-engineering.md) | Full mode: evaluating and improving the offer |
+| [`references/evaluation-rubric.md`](skills/cold-email-psychology/references/evaluation-rubric.md) | Full mode: independent evaluation, critical failures, 100-point rubric, subagent prompt |
+| [`references/deliverability-and-compliance.md`](skills/cold-email-psychology/references/deliverability-and-compliance.md) | Pre-send review with dated provider and legal facts |
+| [`references/experimentation.md`](skills/cold-email-psychology/references/experimentation.md) | Full mode: controlled experiments |
+| [`references/performance-analytics.md`](skills/cold-email-psychology/references/performance-analytics.md) | Full mode: metrics, reading results, feedback loop, CSV and JSON formats |
+| [`references/integrations.md`](skills/cold-email-psychology/references/integrations.md) | Optional tool boundaries, human approval gates, data contracts |
+| [`references/audit-and-corrections.md`](skills/cold-email-psychology/references/audit-and-corrections.md) | Inventory, contradictions found and how they were resolved, preservation record |
+| [`references/archive/`](skills/cold-email-psychology/references/archive/) | The original full 117-item checklist and the 131 low-use frameworks, unchanged |
+| [`skills/cold-email-psychology/tests/`](skills/cold-email-psychology/tests/) | Test cases, preservation and structure checks, recorded results |
+| [`breakdowns/`](breakdowns/) | One analysis per source (120) |
+| [`CHANGELOG.md`](CHANGELOG.md) | What changed in each version |
+
+Numbers above were counted from the files: 120 sources, 1,669 emails analyzed (some counts are estimates), 216 frameworks, 41 principles, 53 examples.
+
+--- | --- |
 | [`skills/cold-email-psychology/`](skills/cold-email-psychology/) | The skill itself |
-| [`references/principles.md`](skills/cold-email-psychology/references/principles.md) | 40+ principles with counts and how to apply each |
+| [`references/principles.md`](skills/cold-email-psychology/references/principles.md) | 41 principles with counts and how to apply each (ranked by frequency, not proven results) |
 | [`references/frameworks.md`](skills/cold-email-psychology/references/frameworks.md) | 200+ email structures, with a quick-pick table |
 | [`references/hooks.md`](skills/cold-email-psychology/references/hooks.md) | Opening lines and subject line patterns |
 | [`references/ctas.md`](skills/cold-email-psychology/references/ctas.md) | Types of asks and when each works |

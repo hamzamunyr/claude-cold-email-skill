@@ -1,0 +1,124 @@
+# Full Pre-Send Checklist (archived original)
+
+This is the complete checklist as it stood before consolidation: the original 112 items plus 5 items added during the upgrade (117 in total). Many items overlap. They are kept here in full and unchanged. The working checklist is ../checklist.md, which merges these into grouped items. Where the two differ, the working checklist and its Rule resolutions section take precedence.
+
+---
+
+
+- [ ] First line is about the prospect, not the sender
+- [ ] The opening shows a real, verifiable observation or event, not a vague compliment ("hope you're well", "I saw your profile")
+- [ ] Under 120 words
+- [ ] One clear CTA, framed as a small offer, not a meeting request
+- [ ] Not more than one link, and no stacked asks (link plus opinion plus phone number)
+- [ ] If asking for a call, the duration is named and short, or two specific time options are offered
+- [ ] Includes a cost-of-inaction or "different approach" line, phrased as a question or hint, not an accusation
+- [ ] Any proof is real and permitted. No fake names, stats, or results
+- [ ] No referral, mutual connection or compliment is invented
+- [ ] One concrete claim a competitor could not make
+- [ ] If the email lists ideas, each idea is specific to this prospect and easy to scan
+- [ ] The question invites a real answer, not a yes or no that ends the thread, and has no confusing double negatives
+- [ ] In a follow-up, the earlier message is referenced in one short line and something new is added (not just "checking in")
+- [ ] No guilt, pressure or assumptive lines (for example, telling them they owe it to themselves, or assuming they surely have time)
+- [ ] No guarantees or unbacked promises ("guaranteed results")
+- [ ] No rumor-style openers about the prospect unless the fact is verifiable
+- [ ] No section labels left in the email ("Attention:", "Problem:", "Bridge:"). Framework labels are for you, not the reader
+- [ ] A follow-up is sent in the same thread. No fake "Re:" or "Fwd:" on a new message. The subject avoids spam trigger words ("free", "guaranteed", "act now")
+- [ ] Plain text, no heavy formatting or images in the first email
+- [ ] If a pre-header is used, it holds a real insight or statistic, not a repeat of the subject
+- [ ] Any number in the subject or body (percent saved, results) is real and provable
+- [ ] Every bracket is replaced with a true detail. Delete any line you cannot make true
+- [ ] The sign-off is just a name. No banners, images or long link blocks
+- [ ] The follow-ups are planned with the first email, and each adds something new
+- [ ] The subject and the first line read as one continuous thought
+- [ ] Proof comes from the same vertical when possible (cross-vertical proof reads as desperation)
+- [ ] Any audit, finding or "I noticed" claim is real and specific, not invented
+- [ ] No celebrity or customer names unless they are real and permitted. Fake name-drops destroy trust
+- [ ] Generic flattery ("big fan of your product") is cut unless it names something specific
+- [ ] No contradictions, such as promising no obligation and then asking for something in return
+- [ ] The subject avoids exclamation marks and spam phrases ("click here", "best price", "winner", "double your")
+- [ ] No invented statistics to pressure a reply (for example a made-up chance of replying)
+- [ ] A P.S., humor or emoji is used only if it fits the prospect and is true (no made-up "we adopted your idea")
+- [ ] Do not announce a phone follow-up unless you really will call
+- [ ] Do not ban a word in the advice and then use it in your own subject (for example "free")
+- [ ] No manufactured scarcity ("limited spots", "offer expires soon") unless it is real
+- [ ] The email matches the real job: a testimonial request, a job application and a cold pitch each need their own structure
+- [ ] A calculation shows its assumptions, and every input is real or clearly labeled as an estimate
+- [ ] No customer's or competitor's results are shared without permission
+- [ ] When offering a time, give two time options as well as a calendar link
+- [ ] Wording about a download or site visit is about the content, not about tracking them
+- [ ] The email does not announce that you saw them open or click something
+- [ ] A risky joke is either cut or kept kind (do not add "not sure if this is appropriate")
+- [ ] Numbers are consistent within the email (for example, the same savings figure everywhere)
+- [ ] A busy or senior recipient is offered a lighter version of the ask (an email answer, one question, a one-line reply)
+- [ ] When asking for an opportunity, a concrete idea or finished draft is included, not just interest
+- [ ] No stock openers ("hope you are well", "my name is"): the first line is about them
+- [ ] The next step offers a choice of format (a short call or a brief note) when the recipient is busy
+- [ ] The subject does not announce that it is a sales email or a follow-up
+- [ ] A "trusted by [clients]" claim in a subject is true and permitted
+- [ ] Personal hooks are professional and public: no fandom, hobbies or private details pulled from personal social accounts
+- [ ] No stacked unverifiable statistics (for example "98% of our placements hit quota") or audience-size claims
+- [ ] If you mention AI sourcing or automation, say so honestly and add the human judgment
+- [ ] Never claim to be writing an article or doing research unless it is true
+- [ ] Jokes, memes and images are used only when they fit, and the deliverability cost is accepted on purpose
+- [ ] Any AI-written draft is rewritten in your voice and every reference in it is verified
+- [ ] You have permission before naming a client or a mutual connection
+- [ ] A private message is never referenced in a subject line, and you use at most two channels
+- [ ] No attachments on the first touch
+- [ ] No feature lists or pricing details in a first cold email
+- [ ] Plain, conversational words. No jargon or hype words ("game changer", "revolutionary")
+- [ ] Proofread for typos and grammar slips
+- [ ] Any "similar teams saw X to Y" claim is labeled as illustrative or backed by a real, permitted result
+- [ ] A free offer is scoped (what is included, how long) and any "limited spots" claim is real
+- [ ] A gift or incentive is offered only late, once, and you will honor it
+- [ ] A follow-up that admits an omission names the real omission and supplies it
+- [ ] The personalization passes the swap test: moving it to a different prospect would change the email
+- [ ] One question only, placed last, and no link in the first email
+- [ ] Every merge field has a fallback so a blank never reads "Hi ,"
+- [ ] Any claim about their staff, vendors or stopped activity is real, sourced and kind, not guilt or surveillance
+- [ ] A research or survey invite promises only results you will actually share
+- [ ] The first email asks for interest or a small step before a specific time slot (test both)
+- [ ] The first email leads with a fresh trigger, not a product description
+- [ ] A trigger from an alert is not used the same day, so it does not look automated
+- [ ] No hype wrappers such as "too good to be true", "expires soon" or "revolutionary" unless backed by a fact and a real deadline
+- [ ] Do not say you saw them open or click, and do not guess a hobby or fandom to force a commonality
+- [ ] Emails to a competitor's users or an event's attendees use only data you may lawfully use, and say how you found them
+- [ ] At most one emoji, and only if it fits the brand and the recipient
+- [ ] The email does not use "limited time", "exclusive" or "select few" unless the deadline and the list are real
+- [ ] The email stays deliverable: plain formatting, at most one link, no hype or spam words, and your sending domain is authenticated (SPF, DKIM, DMARC)
+- [ ] A first email that asks nothing still gives one concrete reason or question, or it will get no reply
+- [ ] Never imply a connection ("your name came up") that you cannot name and back up
+- [ ] Cold outreach goes out from a separate, warmed sending domain or subdomain you own and that is plainly tied to your business, with no fake engagement or look-alike tricks (see practices.md)
+- [ ] Do not guess at a loss or failure the prospect has not told you about (for example a stalled sale), and do not tell them how it must feel
+- [ ] A follow-up does not say you "didn't hear back" or announce that you are following up; it adds something or asks one fresh question
+- [ ] The greeting uses their real name, not "Hey there" or "Hi there"
+- [ ] Replies are counted per 100 recipients per template, on similar lists, and only one thing changes at a time
+- [ ] A cold email never mentions a patient, client or customer by detail, and a regulated industry is not named beyond what is public
+- [ ] The from name is a real person plus company (for example "Name from Company"), not a clever title
+- [ ] A P.S. adds one real link, number or specific compliment, or it is left out
+- [ ] No invented figure about the prospect: any number or "per your earnings call" style source is real, public and accurate
+- [ ] Any "industry average" comparison has a real source and is not used to shame the reader
+- [ ] The subject matches the body: no fake "Re:" or "Fwd:" and no pretend forwarded note from an executive
+- [ ] A follow-up adds a new angle or proof point and never repeats the first email word for word
+- [ ] The list is verified (projected bounce under 2%), has no role addresses, and excludes anyone on the do-not-contact list
+- [ ] An opt-out is easy ("tell me if this is not relevant" or an unsubscribe), and "not interested" or "stop" replies are honored the same day
+- [ ] Contacts are capped per company and non-responders are removed after the sequence ends
+- [ ] The email passes a read-aloud test and has no stacked hype words, capitals or exclamation marks
+- [ ] A follow-up carries one new fact, proof point or sharper question; if you cannot name what is new, do not send it
+- [ ] A follow-up replies in the same thread unless the angle truly changed, and never opens with "just following up", "checking in" or "bumping this"
+- [ ] The follow-up spacing widens (about 2 to 3 business days, then 4 to 7, then longer), and the touches go out at different times of day
+- [ ] A follow-up asks one question that can be answered in a word and never mentions opens, clicks or "never heard back"
+- [ ] The sequence is 3 follow-ups by default, ends with a short no-guilt break-up, and stops for anyone who says no
+- [ ] Any urgency or deadline in a follow-up (limited offer, capacity, closing the file) is real and stated with its reason
+- [ ] No competitor hearsay ("teams are switching from X") or invented ratings, review counts or customer results
+- [ ] Any signal you cite (funding, a hire, a tool, an earnings remark) is public, recent and kept to one sentence
+- [ ] A/B tests change one variable, have enough contacts per variant and use the metric that matches the test
+- [ ] The email is not sent with open tracking or click tracking on unless you truly need it, and it goes from a business domain, not a freemail address
+- [ ] Emails to executives are under 100 words with a subject of one to four words about their world, and offer value instead of a meeting
+- [ ] The body is about 120 words or fewer, the signature is plain (name, title, company link, LinkedIn) with no heavy HTML or extra links, and the ask is proportional (about 15 minutes for a stranger)
+- [ ] Every statement about the prospect traces to a claim ledger row marked verified, or is a hedged inference or a question; no assumption is stated as fact
+- [ ] The prospect passed qualification (fit, valid contact, region and lawful basis checked, not suppressed) before any email was drafted
+- [ ] The draft was evaluated in a separate pass against evaluation-rubric.md and has no critical failure; a high score does not override a failure
+- [ ] The offer was evaluated first; no outcome, number, testimonial or customer is claimed without evidence the user can show
+- [ ] A pre-send review (authentication, list, suppression, opt-out, region rules) is complete and nothing is sent without human approval
+- [ ] No em dashes
+- [ ] 2 to 3 subject line options provided, short and specific

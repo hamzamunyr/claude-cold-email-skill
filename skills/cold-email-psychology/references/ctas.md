@@ -1,6 +1,6 @@
 # Calls to Action
 
-Emails analyzed so far: 1614 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora, Influno, Reachoutly, LeadFuze, Distribute, Semrush, FreebiesMockup, Maildoso, Scalelist, SellingSignals, Outboundly, EmailSneak, FirstSales72, Close, Saleshandy, Follow-up guides). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
+Emails analyzed so far: 1615 (Clay, Apollo, Salesloft, Woodpecker, ZoomInfo, Coursera, FirstSales, Smartlead, SmartWriter, Cognism, LeadsMonky, Warmupinbox, HubSpot, Proposify, Hunter, Saleshandy, SmartReach, Breakcold, Truelist, Datalane, Salesforge, Salesbread, DemandCurve, Outplay, Cleverly, Artisan, Mailsuite, Reachly, LeadSquared, Salesdorado, TextMagic, ProProfsDesk, BluLeadz, Waalaxy, Clearout, LeadGibbon, Starnus, MailGenius, Oppora, Influno, Reachoutly, LeadFuze, Distribute, Semrush, FreebiesMockup, Maildoso, Scalelist, SellingSignals, Outboundly, EmailSneak, FirstSales72, Close, Saleshandy, Follow-up guides, Artisan stats page). Hunter counts are keyword-based estimates. Woodpecker counts are approximate.
 
 | CTA type | Example shape | When it works | Count | Sources |
 |---|---|---|---|---|
